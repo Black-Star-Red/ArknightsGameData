@@ -1,0 +1,38 @@
+{
+  "probed_at": "2026-09-17T15:29:29Z",
+  "apk": {
+    "entry": "https://ak.hypergryph.com/downloads/android_lastest",
+    "final_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/77.0/package/1/1/Android/77.0.0_o2Ri5AN2Z7XXjdtF/arknights-hg-2771.apk",
+    "filename": "arknights-hg-2771.apk",
+    "content_length": "1882311496",
+    "etag": "\"BE459408D7BBA73A9FDD08CE8BCCA119-400\"",
+    "last_modified": "Mon, 31 Aug 2026 04:36:15 GMT",
+    "hash": "343d008bcadd0b9400a223b58effd764a8c402e67dcdca82d0447d400eb6aa1a"
+  },
+  "hot": {
+    "platform": "Android",
+    "resVersion": "26-09-09-07-16-57_d4e461",
+    "clientVersion": "2.7.71",
+    "versionId": "26-09-09-07-16-57_d4e461",
+    "hot_update_list_url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-09-09-07-16-57_d4e461/hot_update_list.json",
+    "ab_count": 15167,
+    "hash": "004536d21e68020ca205c3053dbd7e263f8f838f175f8af6e91fdfb35a1cd66f",
+    "list_sha256": "1f66ef35d724ffb044b1b4b0528847bc89f0627f3d0b9834d9d8df2411ce87f7"
+  },
+  "fbs": {
+    "repo": "MooncellWiki/OpenArknightsFBS",
+    "branch": "main",
+    "sha": "b24069f2c7366ad207a83659d4820689704d6c1f",
+    "message": "Update 2.7.71"
+  },
+  "studio": {
+    "repo": "aelurum/AssetStudio",
+    "tag": "ak-v1.2.3",
+    "name": "ArknightsStudio v1.2.3",
+    "asset": "ArknightsStudioCLI_net472_win32_64.zip",
+    "asset_url": "https://github.com/aelurum/AssetStudioMod/releases/download/ak-v1.2.3/ArknightsStudioCLI_net472_win32_64.zip"
+  },
+  "flatc": {
+    "version": "v25.2.10"
+  }
+}
