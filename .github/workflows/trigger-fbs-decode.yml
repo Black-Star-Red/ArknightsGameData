@@ -1,0 +1,32 @@
+name: Trigger FBS decode
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  dispatch:
+    if: github.event.issue.number == 1 && !github.event.issue.pull_request
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch Ark-FbsDecoder on updata
+        env:
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          GH_TOKEN: ${{ secrets.ARK_FBS_TOKEN }}
+        run: |
+          set -euo pipefail
+          body="$(printf '%s' "$COMMENT_BODY" | tr -d '\r' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | tr '[:upper:]' '[:lower:]')"
+          case "$body" in
+            updata|update) ;;
+            *)
+              echo "comment is not updata/update, skip"
+              exit 0
+              ;;
+          esac
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "Missing secret ARK_FBS_TOKEN (fine-grained PAT: Actions write on Black-Star-Red/Ark-FbsDecoder)"
+            exit 1
+          fi
+          gh api repos/Black-Star-Red/Ark-FbsDecoder/dispatches -f event_type=updata
+          echo "dispatched repository_dispatch updata"
