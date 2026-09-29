@@ -14353,6 +14353,281 @@
       "getMethod": "累计在加工站加工20种不同的精英材料配方"
     },
     {
+      "medalId": "medal_activity_act3break_01",
+      "medalName": "拟生态超卓奖章",
+      "medalType": "activityMedal",
+      "slotId": 1,
+      "preMedalIdList": [
+        "medal_activity_act3break_02",
+        "medal_activity_act3break_03",
+        "medal_activity_act3break_04",
+        "medal_activity_act3break_05",
+        "medal_activity_act3break_06",
+        "medal_activity_act3break_07",
+        "medal_activity_act3break_08",
+        "medal_activity_act3break_09",
+        "medal_activity_act3break_10"
+      ],
+      "rarity": "T3",
+      "template": null,
+      "unlockParam": [],
+      "getMethod": null,
+      "description": "您在“矢量突破#3拟生态”考核测试中达到了全部考核要求。\n根据您的综合表现，负责本次考核测试的Touch训练官给出了“超卓”评价。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act3break_02",
+      "medalName": "拟生态制胜奖章",
+      "medalType": "activityMedal",
+      "slotId": 2,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act3break_h01;act3break_h02;act3break_h03;act3break_h04",
+        "4"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，完成[全力以赴]内的全部关卡",
+      "description": "您的队伍成功通过了所有全力以赴训练场的考核。\n真实的战场并不为任何人提供难度等级选项，正因如此，您敢于向困难发起冲击的勇气才更显可贵。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false,
+      "advancedMedal": null
+    },
+    {
+      "medalId": "medal_activity_act3break_03",
+      "medalName": "拟生态战服奖章",
+      "medalType": "activityMedal",
+      "slotId": 3,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "GotItemBeforeTime",
+      "unlockParam": [
+        "1",
+        "char_4015_spuria@epoque#58",
+        "1792699199"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，获得时装慵怠哼唱",
+      "description": "矢量突破中随时装附送的蚀刻章。\n在闲适的空间里，她哼唱出悠然而宁静的曲调。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act3break_04",
+      "medalName": "拟生态坚守奖章",
+      "medalType": "activityMedal",
+      "slotId": 4,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act3break_sp01;act3break_sp02;act3break_sp03;act3break_sp04;act3break_sp05;act3break_sp06;act3break_sp07;act3break_sp08;act3break_sp09;act3break_sp10;act3break_sp11;act3break_sp12;act3break_sp13;act3break_sp14;act3break_sp15;act3break_sp16",
+        "16"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，完成[特别战线]内的全部关卡",
+      "description": "您的队伍成功击退了特别战线训练场中的所有敌人。\n历史上不乏孤军奋战的勇士，但比起壮烈的牺牲，我们更珍视团结、配合与互相扶持。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false,
+      "advancedMedal": null
+    },
+    {
+      "medalId": "medal_activity_act3break_05",
+      "medalName": "拟生态攻坚奖章",
+      "medalType": "activityMedal",
+      "slotId": 5,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act3break_01;act3break_02;act3break_03;act3break_04;act3break_05;act3break_06;act3break_07;act3break_08;act3break_09;act3break_10;act3break_11;act3break_12",
+        "12"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，完成[核心突破]内的全部关卡",
+      "description": "您的队伍在核心突破训练场上无往不胜。\n通往胜利的道路不止一条，但决定胜利的条件往往只有一个。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false,
+      "advancedMedal": "medal_activity_act3break_055"
+    },
+    {
+      "medalId": "medal_activity_act3break_06",
+      "medalName": "拟生态陷阵奖章",
+      "medalType": "activityMedal",
+      "slotId": 6,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act3break_sp01;act3break_sp02;act3break_sp03;act3break_sp04;act3break_sp05;act3break_sp06;act3break_sp07;act3break_sp08;act3break_sp09;act3break_sp10;act3break_sp11;act3break_sp12;act3break_sp13;act3break_sp14;act3break_sp15;act3break_sp16",
+        "8"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，完成[特别战线]内的任意8关关卡",
+      "description": "您的队伍在特别战线训练场上冲锋陷阵，击退了诸多敌人。\n很难评判据守与攻克哪样更重要，在合适的战略下，每种选择都能彰显其价值。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act3break_07",
+      "medalName": "拟生态制衡奖章",
+      "medalType": "activityMedal",
+      "slotId": 7,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "ActVecBreakV2SimpleEventAtLeast",
+      "unlockParam": [
+        "act3break",
+        "1",
+        "etouch_abnormal_hit",
+        "5"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，对“Touch”，再生之流施加以下任一状态：寒冷、冻结、浮空、沉睡、晕眩、束缚、战栗、恐惧、麻痹或诱导，累计5次",
+      "description": "矢量突破中达成特殊目标后为您颁发的奖章，以兹鼓励。\n您的队伍成功突破了训练官“‘Touch’，再生之流”的领域。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act3break_08",
+      "medalName": "拟生态纯净奖章",
+      "medalType": "activityMedal",
+      "slotId": 8,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "ActVecBreakV2LevelSimpleEventAtLeast",
+      "unlockParam": [
+        "act3break",
+        "3",
+        "act3break_07",
+        "trap_tchray_built",
+        "1"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，通关VEC-07且至少使用一次“再度绽放”",
+      "description": "矢量突破中达成特殊目标后为您颁发的奖章，以兹鼓励。\n您的队伍成功通过了核心突破训练场的考验，并在战斗中抑制了已被活化的痛苦。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act3break_09",
+      "medalName": "拟生态装饰奖章",
+      "medalType": "activityMedal",
+      "slotId": 9,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "GotItemBeforeTime",
+      "unlockParam": [
+        "1",
+        "furni_vector_S3_touch_01",
+        "1792699199"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，获得家具饰牌《拟生》",
+      "description": "矢量突破中随家具附送的蚀刻章。\n得到训练官的承认并非易事，不过这件饰物证明您已经达成了这项成就。",
+      "advancedMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act3break_10",
+      "medalName": "拟生态凝神奖章",
+      "medalType": "activityMedal",
+      "slotId": 10,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "unlockParam": [
+        "act3break",
+        "3",
+        "act3break_03",
+        "melee_built",
+        "1"
+      ],
+      "description": "矢量突破中达成特殊目标后为您颁发的奖章，以兹鼓励。\n您的队伍成功通过了核心突破训练场的考验，并在战斗中克服了对狂躁的恐惧。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false,
+      "template": "ActVecBreakV2LevelSimpleEventAtLeast",
+      "getMethod": "矢量突破#3：拟生态活动期间，通关VEC-03且部署至少1名地面干员"
+    },
+    {
       "medalId": "medal_activity_ac1dp_01",
       "medalName": "逐影乐趣奖章",
       "medalType": "activityMedal",
@@ -14367,6 +14642,7 @@
       ],
       "getMethod": "逐影集趣活动期间，获得头像“云在看着你”",
       "description": "逐影集趣中，为成功完成了多利的嬉闹挑战之人颁发的奖章。\n欢闹的云朵们已经散去，坐下来喝一杯汽水，享受重归平静的晴空吧。",
+      "advancedMedal": null,
       "displayTime": 1789891200,
       "expireTimes": [
         {
@@ -14394,6 +14670,7 @@
       ],
       "getMethod": "逐影集趣活动期间，累计吹散200次云团（不包含教学关）",
       "description": "逐影集趣中，为吹散大量蒸汽云之人颁发的奖章。\n下一次藏在云层之中的，会是什么样的惊喜呢？",
+      "advancedMedal": null,
       "displayTime": 1789891200,
       "expireTimes": [
         {
@@ -14403,8 +14680,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1arkhub_01",
@@ -14421,6 +14697,7 @@
       ],
       "getMethod": "从任意途径收集到4幅画像",
       "description": "奇象巡展期间，向收集了大量画像的游客赠送的奖章。\n用鲜艳的色彩，记录下展会上的欢乐回忆。",
+      "advancedMedal": null,
       "displayTime": 1786176000,
       "expireTimes": [
         {
@@ -14447,6 +14724,7 @@
       ],
       "getMethod": "收录10种不同的奇象生物数据",
       "description": "奇象巡展期间，向在奇象寻迹中收集了多种生物数据的游客赠送的奖章。\n寻得珍奇生物的喜悦与激动，让这场别开生面的巡展注定令人难忘。",
+      "advancedMedal": "medal_activity_1arkhub_025",
       "displayTime": 1786176000,
       "expireTimes": [
         {
@@ -14456,8 +14734,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_1arkhub_025"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_53side_01",
@@ -14476,9 +14753,7 @@
         "medal_activity_53side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "您收到了一份礼物，一份从雷姆必拓一路寄来，里面还放着降温冰块的……胡萝卜汽水？！\n送来这份礼物的人带着您跃上云层，飞上天空，直到大地变成一颗酸橙。",
       "displayTime": -1,
       "expireTimes": [
@@ -14489,7 +14764,10 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_53side_02",
@@ -14514,7 +14792,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_53side_03",
@@ -14531,6 +14810,7 @@
       ],
       "getMethod": "直到大地变成一颗酸橙活动期间，在[旅行者的背包]中消耗4000个沿途的点滴",
       "description": "您听旅途结束后的少女分享了许多有趣的回忆。\n她们描述着半夜帐篷被沙地兽挖洞打穿、提起越野车后座被陌生牙兽占领当窝……您仍旧坐在椅子上，但仿佛已经感受到了雷姆必拓带着一丝胡萝卜甜味的风。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -14565,7 +14845,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_53side_05",
@@ -14582,7 +14863,6 @@
       ],
       "getMethod": "在[安洁莉娜的旅行小记]中，解锁“黄昏突进号”的全部可探索区域",
       "description": "您游览了“黄昏突进号”的全部区域。\n这艘移动采矿平台摇身一变，现在正冒着温泉的水汽。黄昏虽至，它仍在前行。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -14592,7 +14872,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_53side_06",
@@ -14601,6 +14882,7 @@
       "slotId": 20,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "PassStageWithSimpleCountMore",
       "unlockParam": [
         "3",
         "act53side_06",
@@ -14608,6 +14890,7 @@
         "FALLDOWN",
         "3"
       ],
+      "getMethod": "以3星评价通关TO-6，并且至少让“美食的诱惑”大摔一跤3次",
       "description": "您获得了“扫腿侠”的新外号。\n为了吃到最多美味的胡萝卜冰淇淋，使一点小小的手段也没什么关系啦！",
       "displayTime": -1,
       "expireTimes": [
@@ -14619,8 +14902,7 @@
       ],
       "medalRewardGroup": [],
       "isHidden": false,
-      "template": "PassStageWithSimpleCountMore",
-      "getMethod": "以3星评价通关TO-6，并且至少让“美食的诱惑”大摔一跤3次"
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_53side_07",
@@ -14637,7 +14919,6 @@
       ],
       "getMethod": "以3星评价完成[驶向大地尽头]内的全部关卡",
       "description": "您坐在颠簸的越野车上，与她们一同驶向了旅程的尽头。\n清晨的日光洒在身上，追寻问题的答案的人来到了这片无人之境，朝阳不言，海浪不语，不过为了梦想而不顾一切来到这里的自己，本身就是一切问题的答案。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -14664,7 +14945,6 @@
       ],
       "getMethod": "完成[踏上归家长途]内全部关卡的突袭模式",
       "description": "您完成了一趟完满的旅行。\n从承载着梦想的目的地到满是温馨的家，这一路的欢喜与悲伤，现在都有了一个归处。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -14674,7 +14954,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_53side_08",
@@ -14691,7 +14972,6 @@
       ],
       "getMethod": "完成[眺望待行之路]中全部关卡的突袭模式",
       "description": "您没有停下继续前行的脚步。\n行李已经收好，但旅途从未结束，您与她们的下一次远行会去哪里呢？",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -14719,7 +14999,6 @@
       ],
       "getMethod": "直到大地变成一颗酸橙活动期间，累计投递30封浮空信件",
       "description": "您传递了无数等待送达的心意。\n那些没能说出口的话，那些即使相隔千里万里，也想要告诉对方的话——它们会去往那个等待着的人心中，带去幸福的笑容。",
-      "advancedMedal": "medal_activity_53side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -14729,7 +15008,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_53side_105"
     },
     {
       "medalId": "medal_activity_2recalrune_01",
@@ -14743,15 +15023,14 @@
         "medal_activity_2recalrune_055"
       ],
       "rarity": "T3",
+      "template": null,
       "unlockParam": [],
+      "getMethod": null,
       "description": "全息作战矩阵中颁发给第二批在死地求生之人的蚀刻章。\n艰难的战斗能造就无畏的战士，您的经历就是最好的证明。",
       "displayTime": 1783638000,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": null,
-      "getMethod": null,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_2recalrune_02",
@@ -14789,11 +15068,11 @@
       ],
       "getMethod": "在#演绎文明中获得8评分",
       "description": "全息作战矩阵中颁发给战胜大军之人的蚀刻章。\n您面对众多敌人却毫不退缩的勇气，将一直被传颂下去。",
-      "advancedMedal": "medal_activity_2recalrune_035",
       "displayTime": 1783638000,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_2recalrune_035"
     },
     {
       "medalId": "medal_activity_2recalrune_04",
@@ -14831,11 +15110,11 @@
       ],
       "getMethod": "在#尘霾行动-1中获得8评分",
       "description": "全息作战矩阵中颁发给战胜枯朽之人的蚀刻章。\n您在晦暗的时代中，为人们建立起坚实的信念支点。",
+      "advancedMedal": "medal_activity_2recalrune_055",
       "displayTime": 1783638000,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_2recalrune_055"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_5crisisv2_01",
@@ -14867,8 +15146,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_5crisisv2_02",
@@ -14904,14 +15182,12 @@
       "slotId": 32,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "CrisisV2DimScoreTotal",
       "unlockParam": [
         "crisis_v2_season_5_1",
         "level_crisis_v2_05-01",
         "0;1;2;3;4;5",
         "600"
       ],
-      "getMethod": "涤墨作战期间，主测试地总分达到600分",
       "description": "涤墨作战中颁发给战胜绝境之人的蚀刻章。\n您的记录镌刻于不朽的丰碑之上，而您仍迈步向前。",
       "displayTime": -1,
       "expireTimes": [
@@ -14923,6 +15199,8 @@
       ],
       "medalRewardGroup": [],
       "isHidden": false,
+      "template": "CrisisV2DimScoreTotal",
+      "getMethod": "涤墨作战期间，主测试地总分达到600分",
       "advancedMedal": "medal_activity_5crisisv2_035"
     },
     {
@@ -14975,7 +15253,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_5crisisv2_06",
@@ -15096,7 +15375,6 @@
       ],
       "getMethod": "涤墨作战期间，使用助战并通关任意作战不小于5次",
       "description": "涤墨作战中颁发给互帮互助之人的蚀刻章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -15149,6 +15427,7 @@
       ],
       "getMethod": "阵地足球锦标活动期间，完成关卡PF-4",
       "description": "阵地足球锦标中，为成功从业余组别晋级的队伍颁发的奖章，以兹鼓励。\n每一场比赛都同等重要，坚实的基础才能保证胜利。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -15167,11 +15446,13 @@
       "slotId": 42,
       "preMedalIdList": [],
       "rarity": "T2",
+      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act1football_07",
         "1"
       ],
+      "getMethod": "阵地足球锦标活动期间，完成关卡PF-7",
       "description": "阵地足球锦标中，为成功从职业组别晋级的队伍颁发的奖章，以兹鼓励。\n上下一心，为了最终的冠军，大踏步前进！",
       "displayTime": -1,
       "expireTimes": [
@@ -15182,10 +15463,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageSome",
-      "getMethod": "阵地足球锦标活动期间，完成关卡PF-7",
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act1football_04",
@@ -15282,6 +15560,7 @@
       ],
       "getMethod": "争锋频道：绿藤城活动期间，在任意模式中获得1次前三名",
       "description": "您在争锋频道：绿藤城的某一场赛事的赠礼榜单上名列前茅。\n您的慧眼独具得到了认可——能悄悄告诉我下一轮该选哪一边吗？",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -15310,9 +15589,7 @@
         "medal_activity_51side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "您团结了卡托加区的人们，打破封锁，踏向了自由。\n“那是多么伟大的一股力量！那力量就潜藏在我们当中！它鼓舞着我们活下去，也鼓舞着我们与命运搏斗！”",
       "displayTime": -1,
       "expireTimes": [
@@ -15323,7 +15600,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null
     },
     {
       "medalId": "medal_activity_51side_02",
@@ -15374,7 +15653,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_51side_04",
@@ -15552,7 +15832,6 @@
       ],
       "getMethod": "以3星评价通关PA-8，且被关押至禁闭所的干员不超过2名",
       "description": "您拒绝了那些毫无道理的禁闭，保护了您的同伴。\n人生而自由。",
-      "advancedMedal": "medal_activity_51side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -15562,7 +15841,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_51side_105"
     },
     {
       "medalId": "medal_activity_2autochess_01",
@@ -15639,8 +15919,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_2autochess_04",
@@ -15681,7 +15960,6 @@
       ],
       "getMethod": "卫戍协议:盟约下半期活动期间，以5种不同的策略通关过任意模拟（不包含入门协议）",
       "description": "您在卫戍协议：盟约下半期中将多种策略运用到了极致。\n决策者不仅要有对胜利的渴望，更要有敢于突破的魄力，您的表现堪称完美。",
-      "advancedMedal": "medal_activity_2autochess_055",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -15691,7 +15969,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_2autochess_055"
     },
     {
       "medalId": "medal_activity_act2break_01",
@@ -15775,8 +16054,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act2break_04",
@@ -15819,6 +16097,7 @@
       ],
       "getMethod": "矢量突破#2：巫术之夜活动期间，完成[核心突破]内的全部关卡",
       "description": "您的队伍在核心突破训练场上无往不胜。\n通往胜利的道路不止一条，但决定胜利的条件往往只有一个。",
+      "advancedMedal": "medal_activity_act2break_055",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -15828,8 +16107,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_act2break_055"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act2break_06",
@@ -15910,7 +16188,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act2break_09",
@@ -15964,7 +16243,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_49side_01",
@@ -16377,10 +16657,12 @@
       "slotId": 87,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "ActivityBattleHeal",
       "unlockParam": [
         "act48side",
         "500000"
       ],
+      "getMethod": "活动中累计造成500000治疗量",
       "description": "您在雅赛努斯观光期间，一直坚持不懈地为街上的喷泉水池加水，祭司学徒们对此十分感激。\n“这两天也不明白为什么，走在路上经常摔倒……还好街上喷泉的水一直是满的，不知是哪位好心人帮了大忙！”",
       "displayTime": -1,
       "expireTimes": [
@@ -16391,9 +16673,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "ActivityBattleHeal",
-      "getMethod": "活动中累计造成500000治疗量"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_48side_07",
@@ -16428,13 +16708,11 @@
       "slotId": 89,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act48side_ex01#f#;act48side_ex02#f#;act48side_ex03#f#;act48side_ex04#f#;act48side_ex05#f#;act48side_ex06#f#;act48side_ex07#f#;act48side_ex08#f#",
         "8"
       ],
-      "getMethod": "完成[街头戏剧]中全部关卡的突袭模式",
       "description": "您在街头参与了一次完整的戏剧表演，从中午一直演到了晚上，全情投入，耐力惊人。\n“那位游客不是真爱戏剧，就是特别喜欢克瑞斯拉的传说。其他参加演出的人都换两茬了，那家伙还不肯走！”",
       "displayTime": -1,
       "expireTimes": [
@@ -16446,6 +16724,8 @@
       ],
       "medalRewardGroup": [],
       "isHidden": false,
+      "template": "PassStageSome",
+      "getMethod": "完成[街头戏剧]中全部关卡的突袭模式",
       "advancedMedal": null
     },
     {
@@ -16626,7 +16906,6 @@
       ],
       "getMethod": "完成[浮空舱检修单]中全部内容，并领取奖励",
       "description": "在您的帮助下，所有展品均已顺利升空。\n说不定几周之后，这些天空的装饰品就会换上一批，常事。记住那些令您头晕眼花的新鲜体验就好，别记它们啦。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -16680,6 +16959,7 @@
       ],
       "getMethod": "以3星评价通关UR-EX-3，且通关时场上至少保留4只强力热气球",
       "description": "您在小型体验平台上使劲蹦了蹦，发现这些不起眼的热气球似乎很可靠。\n未来感十足的新式飞艇前排满了跃跃欲试的游客，您独自一人蹲在复古体验区的热气球旁取暖。没人指望您和您的“暖手宝”能突破星荚。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -16698,11 +16978,13 @@
       "slotId": 99,
       "preMedalIdList": [],
       "rarity": "T2",
+      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act47side_ex01#f#;act47side_ex02#f#;act47side_ex03#f#;act47side_ex04#f#;act47side_ex05#f#;act47side_ex06#f#;act47side_ex07#f#;act47side_ex08#f#",
         "8"
       ],
+      "getMethod": "完成[逃离哥伦比亚]中全部关卡的突袭模式",
       "description": "您见证几位朋友在“螺旋桨天堂”点燃了一把火。\n它能灼毁一切，又能孕育希望，而在上述两种可能未成定论之前，这座园区还可以借着引擎喷出的火焰逃亡。",
       "displayTime": -1,
       "expireTimes": [
@@ -16713,10 +16995,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageSome",
-      "getMethod": "完成[逃离哥伦比亚]中全部关卡的突袭模式",
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_47side_09",
@@ -16813,6 +17092,7 @@
       ],
       "getMethod": "通关TN-4凋零奏鸣的恢宏试炼",
       "description": "以在办公室里复盘作战记录的引航者为印象制作的奖章。\n即便是至臻完美的作战，您也能从中复盘出更创新的思路用于未来。",
+      "advancedMedal": null,
       "displayTime": 1766692800,
       "expireTimes": [
         {
@@ -16841,7 +17121,6 @@
         "medal_activity_46side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
       "getMethod": null,
       "description": "您知晓了心的重量与求心之旅中的苦难与救赎。\n所求者、意志坚定者、虔诚与敬畏者、怀有反叛之勇气者，可得心中之心。",
@@ -16854,7 +17133,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null
     },
     {
       "medalId": "medal_activity_46side_02",
@@ -16905,7 +17185,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_46side_04",
@@ -16946,7 +17227,6 @@
       ],
       "getMethod": "在[喀兰贸易技术研发部]中，累计通关8次可重建区域",
       "description": "您在废墟之中行走，昔日光洁明亮的列车仍在眼前。\n资源调配与时间规划，这当然是一场关于能力的严峻考核。对了，小心地滑。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -16956,7 +17236,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_46side_06",
@@ -17034,8 +17315,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_46side_09",
@@ -17052,6 +17332,7 @@
       ],
       "getMethod": "完成[喀兰之心]中全部关卡的突袭模式",
       "description": "您在人群中等待，有些旅程必须由他们自己开启。\n踏出一步，又一步。“我们要去哪儿？”您听见有人询问。而后是新的一步。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17078,7 +17359,6 @@
       ],
       "getMethod": "雪山降临1101活动期间，累计击翻30个翻身甲",
       "description": "谢拉格没有动物园。这里的动物比您想的更自由，也更乐于和人成为朋友。\n现在，您的新朋友又一次要为您表演如何灵巧地翻动了。请准备好您的掌声和小零嘴。",
-      "advancedMedal": "medal_activity_46side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17088,7 +17368,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_46side_105"
     },
     {
       "medalId": "medal_activity_1autochess_01",
@@ -17097,6 +17378,7 @@
       "slotId": 114,
       "preMedalIdList": [],
       "rarity": "T3",
+      "template": "MissionCompleteSome",
       "unlockParam": [
         "1autochessActivity_1;1autochessActivity_2;1autochessActivity_3;1autochessActivity_4;1autochessActivity_5;1autochessActivity_6;1autochessActivity_7;1autochessActivity_8;1autochessActivity_9;1autochessActivity_10;1autochessActivity_11;1autochessActivity_12;1autochessActivity_13;1autochessActivity_14;1autochessActivity_15;1autochessActivity_16;1autochessActivity_17;1autochessActivity_18;1autochessActivity_19;1autochessActivity_20;1autochessActivity_21;1autochessActivity_22;1autochessActivity_23;1autochessActivity_24;1autochessActivity_25",
         "25"
@@ -17112,8 +17394,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "MissionCompleteSome"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1autochess_02",
@@ -17139,7 +17420,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_1autochess_03",
@@ -17165,8 +17447,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1autochess_04",
@@ -17192,7 +17473,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_1autochess_05",
@@ -17208,6 +17490,7 @@
       ],
       "getMethod": "卫戍协议:盟约活动期间，累计1个策略在任意模拟下通关3次（不包含入门协议）",
       "description": "您在卫戍协议：盟约中将多种策略运用到了极致。\n决策者不仅需要对胜利的笃定，更需要背负起他人信任的勇气，您的表现堪称完美。",
+      "advancedMedal": "medal_activity_1autochess_055",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17217,8 +17500,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_1autochess_055"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act2multi_01",
@@ -17285,14 +17567,12 @@
       "slotId": 121,
       "preMedalIdList": [],
       "rarity": "T1",
-      "template": "ActMultiV3StageStar",
       "unlockParam": [
         "act2multi",
         "act2multi_rm01;act2multi_rm02;act2multi_rm03;act2multi_rm04;act2multi_01;act2multi_02;act2multi_03;act2multi_04;act2multi_05;act2multi_06;act2multi_07;act2multi_08;act2multi_09;act2multi_10",
         "3",
         "3"
       ],
-      "getMethod": "促融共竞#2活动期间，以3枚嘉奖印章完成3次[常规项目·初级赛]",
       "description": "罗德岛促融共竞#2中，给在初级赛中崭露头角的选手颁发的奖章，以兹鼓励。",
       "displayTime": -1,
       "expireTimes": [
@@ -17303,7 +17583,10 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "ActMultiV3StageStar",
+      "getMethod": "促融共竞#2活动期间，以3枚嘉奖印章完成3次[常规项目·初级赛]",
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act2multi_04",
@@ -17321,7 +17604,6 @@
       ],
       "getMethod": "促融共竞#2活动期间，以3枚嘉奖印章完成3次[常规项目·高级赛]",
       "description": "罗德岛促融共竞#2中，给在高级赛中脱颖而出的选手颁发的奖章，以兹鼓励。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17358,7 +17640,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act2multi_06",
@@ -17412,8 +17695,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act2multi_08",
@@ -17481,7 +17763,6 @@
       ],
       "getMethod": "促融共竞#2活动期间，获得时装一人车队",
       "description": "随时装赠送的奖章，一定程度上起到了吊牌的作用。\n优异的性能要有，时尚的外观也要有，这样才是符合共竞精神的时装。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17534,6 +17815,7 @@
       ],
       "getMethod": "次生预案活动期间，通关所有险地关卡",
       "description": "您在次生预案中成功于艰险之地建立了多座前哨支点。\n依靠您的指挥布局，即便最艰险的环境中也有罗德岛的生产基地在高效运作。我们此刻的冒险拼搏正是为了将来的道路能走得更平稳。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17569,8 +17851,7 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "GotItemBeforeTime",
-      "getMethod": "次生预案活动期间，获得时装冷色摇滚",
-      "advancedMedal": null
+      "getMethod": "次生预案活动期间，获得时装冷色摇滚"
     },
     {
       "medalId": "medal_activity_1vhalfidle_04",
@@ -17614,6 +17895,7 @@
       ],
       "getMethod": "次生预案活动期间，使战备中的8名干员达到2级精英职称",
       "description": "您在次生预案中为多名干员进行了充分有效的生产培训。\n这里的每一个人都拥有从头学起的勇气，更有不畏艰苦的气魄。罗德岛教会我们的，正是我们用来建设罗德岛的！",
+      "advancedMedal": "medal_activity_1vhalfidle_055",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17623,8 +17905,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_1vhalfidle_055"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act2enemyduel_01",
@@ -17676,7 +17957,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_44side_01",
@@ -17713,7 +17995,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_44side_02",
@@ -17774,7 +18057,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_44side_04",
@@ -17820,7 +18104,6 @@
       ],
       "getMethod": "在[相谈室·御影]中，获取87500个“宝物袋”",
       "description": "您协助森内彻经营情报屋并赚取了他从未见过的巨量宝物。\n“那您呢？您想知道些什么情报？我保证知无不言，言无不尽。”",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17883,6 +18166,7 @@
       ],
       "getMethod": "以3星评价完成[不夜街区]内的全部关卡",
       "description": "您领略了一场寥落但绚烂的花火大会。\n就连失乡的旅人，也收获了一朵渺小的花火。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17946,6 +18230,7 @@
       ],
       "getMethod": "完成[绝缘石阶]中全部关卡的突袭模式",
       "description": "您陪着一个鬼走完了她的归乡路。\n归途尽头的河湾只映照出被鬼弃置的背影，那里已然长出新的传闻。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17978,6 +18263,7 @@
       ],
       "getMethod": "活动中累计使用“某种天命”摧毁15个未激活的压力舒缓帮手",
       "description": "考虑到可能造成的伤亡，您剥夺了这些机械向人类撒气的机会。\n小小的偏差让这些钢铁之躯再无战力，沉眠于您为其选择的命运轨道上。",
+      "advancedMedal": "medal_activity_44side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -17992,8 +18278,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_44side_105"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_4crisisv2_01",
@@ -18053,7 +18338,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_4crisisv2_03",
@@ -18062,14 +18348,12 @@
       "slotId": 148,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "CrisisV2DimScoreTotal",
       "unlockParam": [
         "crisis_v2_season_4_1",
         "level_crisis_v2_04-01",
         "0;1;2;3;4;5",
         "600"
       ],
-      "getMethod": "弧光作战期间，主测试地总分达到600分",
       "description": "弧光作战中颁发给战胜绝境之人的蚀刻章。\n您的记录镌刻于不朽的丰碑之上，而您仍迈步向前。",
       "displayTime": -1,
       "expireTimes": [
@@ -18081,6 +18365,8 @@
       ],
       "medalRewardGroup": [],
       "isHidden": false,
+      "template": "CrisisV2DimScoreTotal",
+      "getMethod": "弧光作战期间，主测试地总分达到600分",
       "advancedMedal": "medal_activity_4crisisv2_035"
     },
     {
@@ -18107,7 +18393,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_4crisisv2_05",
@@ -18133,7 +18420,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_4crisisv2_06",
@@ -18142,11 +18430,13 @@
       "slotId": 151,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisV2NodeSome",
       "unlockParam": [
         "crisis_v2_season_4_1",
         "crisis_v2_03-03_b^keypoint_1;crisis_v2_03-03_b^keypoint_2;crisis_v2_03-03_b^keypoint_3;crisis_v2_05-03^keypoint_1;crisis_v2_05-03^keypoint_2;crisis_v2_05-03^keypoint_3;crisis_v2_02-03_b^keypoint_1;crisis_v2_02-03_b^keypoint_2;crisis_v2_02-03_b^keypoint_3;crisis_v2_04-05^keypoint_1;crisis_v2_04-05^keypoint_2;crisis_v2_04-05^keypoint_3",
         "1"
       ],
+      "getMethod": "弧光作战期间，完成轮换测试地中的任意一个关键节点",
       "description": "弧光作战中颁发给戍守阵线之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -18157,9 +18447,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "CrisisV2NodeSome",
-      "getMethod": "弧光作战期间，完成轮换测试地中的任意一个关键节点"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_4crisisv2_07",
@@ -18176,7 +18464,6 @@
       ],
       "getMethod": "弧光作战期间，完成所有轮换测试地中的全部关键节点",
       "description": "弧光作战中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18203,7 +18490,6 @@
       ],
       "getMethod": "弧光作战期间，获得时装悠然假日 HD75",
       "description": "弧光作战中随时装附送的蚀刻章。\n烈日海风，冰镇心情。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18231,7 +18517,6 @@
       ],
       "getMethod": "弧光作战期间，主测试地的任意一项分数历史最高达到100分",
       "description": "弧光作战中颁发给专研精进之人的蚀刻章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18257,7 +18542,6 @@
       ],
       "getMethod": "弧光作战期间，使用助战并通关任意作战不小于5次",
       "description": "弧光作战中颁发给互帮互助之人的蚀刻章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18288,8 +18572,7 @@
       "displayTime": 1756368000,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1recalrune_02",
@@ -18306,11 +18589,11 @@
       ],
       "getMethod": "在#爱国者之死中获得8评分",
       "description": "全息作战矩阵中颁发给战胜行军之人的蚀刻章。\n对对手最高的敬意，即为永不放弃地战胜他。",
+      "advancedMedal": "medal_activity_1recalrune_025",
       "displayTime": 1756368000,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_1recalrune_025"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1recalrune_03",
@@ -18415,6 +18698,7 @@
       ],
       "getMethod": "通关TN-4沸海遮日的恢宏试炼",
       "description": "以在迷局中寻踪索迹开辟道路的引航者为印象制作的奖章。\n谎言与幻象无法将您蒙蔽，您踏足之处即为坦途。",
+      "advancedMedal": null,
       "displayTime": 1750752000,
       "expireTimes": [
         {
@@ -18522,7 +18806,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_43side_04",
@@ -18569,7 +18854,6 @@
       ],
       "getMethod": "完成[外景地娱乐项目]中全部内容，并领取奖励",
       "description": "您走遍了蓝卡坞的几十座移动拍摄地块。\n不仅能看到被踩在皮鞋与高跟鞋之下的香槟酒液与珠宝华服，也能看到不同地位的人一齐望向终于上映的影片时眼中的光芒，这就是蓝卡坞。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18584,7 +18868,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_43side_06",
@@ -18678,8 +18963,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_43side_09",
@@ -18729,7 +19013,6 @@
       ],
       "getMethod": "以3星评价通关AD-7，且“不满摄影师”扔出的胶卷最多爆炸4次",
       "description": "戏剧的癫狂让死物都产生了虚假的意识。好在，您一直都很清醒。\n风暴散去，劫后余生的人们在荒原上迎来自己真实的新生。",
-      "advancedMedal": "medal_activity_43side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18744,7 +19027,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_43side_105"
     },
     {
       "medalId": "medal_activity_act1break_01",
@@ -18828,8 +19112,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act1break_04",
@@ -18872,6 +19155,7 @@
       ],
       "getMethod": "矢量突破#1：无机物活动期间，完成[核心突破]内的全部关卡",
       "description": "您的队伍在核心突破训练场上无往不胜。\n通往胜利的道路不止一条，但决定胜利的条件往往只有一个。",
+      "advancedMedal": "medal_activity_act1break_055",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -18881,8 +19165,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_act1break_055"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act1break_06",
@@ -18891,11 +19174,13 @@
       "slotId": 178,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act1break_sp01;act1break_sp02;act1break_sp03;act1break_sp04;act1break_sp05;act1break_sp06;act1break_sp07;act1break_sp08;act1break_sp09;act1break_sp10;act1break_sp11;act1break_sp12;act1break_sp13;act1break_sp14;act1break_sp15;act1break_sp16",
         "8"
       ],
+      "getMethod": "矢量突破#1：无机物活动期间，完成[特别战线]内的任意8关关卡",
       "description": "您的队伍在特别战线训练场上冲锋陷阵，击退了诸多敌人。 \n很难评判据守与攻克哪样更重要，在合适的战略下，每种选择都能彰显其价值。",
       "displayTime": -1,
       "expireTimes": [
@@ -18906,9 +19191,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageSome",
-      "getMethod": "矢量突破#1：无机物活动期间，完成[特别战线]内的任意8关关卡"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act1break_07",
@@ -18944,7 +19227,6 @@
       "slotId": 180,
       "preMedalIdList": [],
       "rarity": "T1",
-      "template": "ActVecBreakV2PassStageWithSkillUsed",
       "unlockParam": [
         "act1break_07",
         "sktok_trbox_1",
@@ -18961,7 +19243,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "ActVecBreakV2PassStageWithSkillUsed",
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act1break_09",
@@ -19014,7 +19298,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_42side_01",
@@ -19159,7 +19444,6 @@
       ],
       "getMethod": "完成[哄睡指标]中全部内容，并领取奖励",
       "description": "无论是横冲直撞的岩角兽，还是胡乱喷射的巨型奶瓶，都在您柔声细语的安抚下进入梦乡。\n育婴圣堂抚育了成千上万的生灵与死物，要让他们安然共享同一个梦绝非易事。所幸，您触摸得到他们共同的本质。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -19191,6 +19475,7 @@
       ],
       "getMethod": "众生行记活动期间，累计在入梦砖上部署20次干员",
       "description": "无论是鼾声如雷的岩角兽，还是长出光环的巨型奶瓶，都在您的努力下回到现实。\n育婴圣堂抚育了成千上万的生灵与死物，可拉特兰究竟该往何处去，应由拉特兰人自己决定。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -19251,7 +19536,6 @@
         "act42side_ex01#f#;act42side_ex02#f#;act42side_ex03#f#;act42side_ex04#f#;act42side_ex05#f#;act42side_ex06#f#;act42side_ex07#f#;act42side_ex08#f#",
         "8"
       ],
-      "getMethod": "完成[谒见神祇]中全部关卡的突袭模式",
       "description": "您见证了一场别样的“朝圣”。\n它曾存在于历史，又发生在当下。彼时，萨科塔与“律法”相逢，此后，萨科塔将自己定义它。",
       "displayTime": -1,
       "expireTimes": [
@@ -19269,7 +19553,7 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "PassStageSome",
-      "advancedMedal": null
+      "getMethod": "完成[谒见神祇]中全部关卡的突袭模式"
     },
     {
       "medalId": "medal_activity_42side_09",
@@ -19300,7 +19584,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_42side_10",
@@ -19357,7 +19642,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act1enemyduel_02",
@@ -19486,7 +19772,6 @@
       ],
       "getMethod": "促融共竞#1活动期间，以3枚嘉奖印章完成3次[常规项目·高级赛]",
       "description": "罗德岛促融共竞#1中，给在高级赛中脱颖而出的选手颁发的奖章，以兹鼓励。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -19514,6 +19799,7 @@
       ],
       "getMethod": "促融共竞#1活动期间，以3枚嘉奖印章完成1次[常规项目·特级赛]",
       "description": "罗德岛促融共竞#1中，给在特级赛中攻坚克难的选手颁发的奖章，以兹鼓励。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -19575,8 +19861,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act1multi_08",
@@ -19592,6 +19877,7 @@
       ],
       "getMethod": "促融共竞#1活动期间，提交2套照片",
       "description": "随选手影集一并归档的奖章。\n把选手合影制成影集收藏是一种留念，这枚为纪念影集顺利归档而制作的奖章，则是留念的留念。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -19653,7 +19939,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_41side_01",
@@ -19690,7 +19977,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_41side_02",
@@ -19751,7 +20039,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_41side_04",
@@ -19798,7 +20087,6 @@
       ],
       "getMethod": "完成[未释怀的伤悼]中全部内容，并领取奖励",
       "description": "您确信纳斯尔纱将度过一个光明而温暖的冬天。\n“我在梦里出发，在林中点起篝火，只为照亮你走过的路。”",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -19892,7 +20180,6 @@
       ],
       "getMethod": "完成[将熄的火]中全部关卡的突袭模式",
       "description": "您循着火光走上了生者的道途，把已死的留在身后。\n那断断续续地唱了千年的挽歌，也将在日出时分燃烧殆尽。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -20004,8 +20291,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_3crisisv2_02",
@@ -20103,6 +20389,7 @@
       ],
       "getMethod": "净罪作战期间，完成主测试地中的任意一个关键节点",
       "description": "净罪作战中颁发给随机应变之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -20121,11 +20408,13 @@
       "slotId": 220,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisV2NodeSome",
       "unlockParam": [
         "crisis_v2_season_3_1",
         "crisis_v2_03-02^keypoint_1;crisis_v2_03-02^keypoint_2;crisis_v2_03-02^keypoint_3;crisis_v2_03-03^keypoint_1;crisis_v2_03-03^keypoint_2;crisis_v2_03-03^keypoint_3;crisis_v2_01-07_b^keypoint_1;crisis_v2_01-07_b^keypoint_2;crisis_v2_01-07_b^keypoint_3;crisis_v2_01-05_b^keypoint_1;crisis_v2_01-05_b^keypoint_2;crisis_v2_01-05_b^keypoint_3",
         "1"
       ],
+      "getMethod": "净罪作战期间，完成轮换测试地中的任意一个关键节点",
       "description": "净罪作战中颁发给戍守阵线之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -20136,9 +20425,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "CrisisV2NodeSome",
-      "getMethod": "净罪作战期间，完成轮换测试地中的任意一个关键节点"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_3crisisv2_07",
@@ -20173,13 +20460,11 @@
       "slotId": 222,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "CrisisV2NodeSome",
       "unlockParam": [
         "crisis_v2_season_3_1",
         "crisis_v2_03-01^reward_1",
         "1"
       ],
-      "getMethod": "净罪作战期间，获得时装封面佣兵",
       "description": "净罪作战中随时装附送的蚀刻章。\n镜头聚焦，时尚一刻。",
       "displayTime": -1,
       "expireTimes": [
@@ -20190,7 +20475,10 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "CrisisV2NodeSome",
+      "getMethod": "净罪作战期间，获得时装封面佣兵",
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_3crisisv2_09",
@@ -20242,7 +20530,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_40side_01",
@@ -20387,7 +20676,6 @@
       ],
       "getMethod": "完成[百灶食珍录]中全部内容，并领取奖励",
       "description": "您协助《百灶食珍录》的作者完成了这本著作。\n有人从书里看出一幅百灶盛景图，也有人看到了文字背后独属于她的生活记忆。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -20454,6 +20742,7 @@
       ],
       "getMethod": "以3星评价完成OR-EX-2，并且至少让“里子”坠落地穴5次",
       "description": "您接受了对饮的邀请，并将对方喝到酩酊大醉。\n宴席中的小饮本来怡情，但如果被硬拽着灌酒……就只能更热情地回敬对方了。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -20477,11 +20766,13 @@
       "slotId": 143,
       "preMedalIdList": [],
       "rarity": "T2",
+      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act40side_ex01#f#;act40side_ex02#f#;act40side_ex03#f#;act40side_ex04#f#;act40side_ex05#f#;act40side_ex06#f#;act40side_ex07#f#;act40side_ex08#f#",
         "8"
       ],
+      "getMethod": "完成[阅世情]中全部关卡的突袭模式",
       "description": "您饱览了这座城市的繁荣昌盛。\n被牺牲之人，做选择之人。繁荣之下，您也看见了代价。",
       "displayTime": -1,
       "expireTimes": [
@@ -20497,10 +20788,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageSome",
-      "getMethod": "完成[阅世情]中全部关卡的突袭模式",
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_40side_09",
@@ -20604,6 +20892,7 @@
       ],
       "getMethod": "视相博物馆活动期间，解锁秘籍卡册中的全部名人堂珐琅",
       "description": "您集齐了视相博物馆中全部的名人堂珐琅。\n一步一步升级，冲刺最高得分。",
+      "advancedMedal": null,
       "displayTime": 1735459200,
       "expireTimes": [
         {
@@ -20632,9 +20921,7 @@
         "medal_activity_39side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "您称得上是一位真正的海盗。\n一位海盗最核心的特质是什么？无家可归，身处穷途末路？凶神恶煞，口有两排尖牙？还是说，只是不甘被大地的边界所囚困？",
       "displayTime": -1,
       "expireTimes": [
@@ -20650,7 +20937,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null
     },
     {
       "medalId": "medal_activity_39side_02",
@@ -20711,7 +21000,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_39side_04",
@@ -20758,7 +21048,6 @@
       ],
       "getMethod": "完成[行船规划]中全部内容，并领取奖励",
       "description": "您在茫茫盐漠中依然保持着方向感。\n盐漠与繁星一样无序。归航的盐船清点收获时，船员们都心照不宣地不去提及启航前的行船规划。毕竟，能安全归来而没有迷失在盐漠之中，已属不易。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -20773,7 +21062,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_39side_06",
@@ -20871,8 +21161,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_39side_09",
@@ -20945,10 +21234,12 @@
       "slotId": 247,
       "preMedalIdList": [],
       "rarity": "T3",
+      "template": "MissionCompleteSome",
       "unlockParam": [
         "1vautochessActivity_1;1vautochessActivity_2;1vautochessActivity_3;1vautochessActivity_4;1vautochessActivity_5;1vautochessActivity_6;1vautochessActivity_7;1vautochessActivity_8;1vautochessActivity_9;1vautochessActivity_10;1vautochessActivity_11;1vautochessActivity_12;1vautochessActivity_13;1vautochessActivity_14;1vautochessActivity_15;1vautochessActivity_16;1vautochessActivity_17;1vautochessActivity_18;1vautochessActivity_19",
         "19"
       ],
+      "getMethod": "完成[关键目标]中全部内容，并领取奖励",
       "description": "您履行了协议包含的所有条款。\n该协议旨在填补罗德岛应对全面进攻时可能出现的疏漏，而您完美完成了任务。",
       "displayTime": -1,
       "expireTimes": [
@@ -20959,9 +21250,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "MissionCompleteSome",
-      "getMethod": "完成[关键目标]中全部内容，并领取奖励"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1vautochess_02",
@@ -21056,6 +21345,7 @@
       ],
       "getMethod": "卫戍协议活动期间，通关1次[原型协议]",
       "description": "您在协议模拟中完整体验了协议内容。\n这种模拟方式或许尚有瑕疵，但在优化罗德岛内外防御方面起到的作用暂时无可替代。",
+      "advancedMedal": "medal_activity_1vautochess_055",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21065,8 +21355,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_1vautochess_055"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_38side_01",
@@ -21085,9 +21374,7 @@
         "medal_activity_38side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "您在新沃尔西尼度过了漫长的狂欢节。\n将罪人的假面撕破，将恶意的爪牙剔除。",
       "displayTime": -1,
       "expireTimes": [
@@ -21103,7 +21390,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null
     },
     {
       "medalId": "medal_activity_38side_02",
@@ -21164,7 +21453,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_38side_04",
@@ -21211,7 +21501,6 @@
       ],
       "getMethod": "完成[巡游日程单]中全部内容，并领取奖励",
       "description": "您体验了新沃尔西尼狂欢节的全部流程，希望您玩得愉快。\n旧节庆拥有了新传统，新都会告别了旧时光。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21226,7 +21515,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_38side_06",
@@ -21322,8 +21612,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_38side_09",
@@ -21340,6 +21629,7 @@
       ],
       "getMethod": "完成[荒芜之舞]中全部关卡的突袭模式",
       "description": "您与狂欢之主共同完成了这支荒芜之舞。\n“与我共舞吧，趁繁华尚未落幕；与我共舞吧，这恶人寥寥叙拉古。”",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21370,7 +21660,6 @@
       ],
       "getMethod": "完成[烟花筹委会]委托2次",
       "description": "您为狂欢节设计了多款饱受好评的烟花。\n狂欢气氛热烈，您功不可没，现颁发此证，特聘您为烟花筹备委员会的艺术指导。别想了，没有津贴。",
-      "advancedMedal": "medal_activity_38side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21385,7 +21674,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_38side_105"
     },
     {
       "medalId": "medal_activity_act1vecb_01",
@@ -21437,7 +21727,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act1vecb_03",
@@ -21463,8 +21754,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act1vecb_04",
@@ -21490,7 +21780,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_act1vecb_05",
@@ -21632,7 +21923,6 @@
       ],
       "getMethod": "以3星评价完成[无名之勋]内的全部关卡（不包含教学关）",
       "description": "您看完了一本关于维多利亚的回忆录。\n说到夕阳，她脑海中浮现的总是诺伯特区的街道，醉醺醺地碰拳的友人。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21663,6 +21953,7 @@
       ],
       "getMethod": "完成[待议法案]中全部内容，并领取奖励",
       "description": "您翻阅了伦蒂尼姆议会收到的最新提案。\n有些信以家族火漆封缄，有些沾着油污，它们都堆在新任议长的办公桌上。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21742,8 +22033,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_37side_08",
@@ -21774,7 +22064,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_37side_09",
@@ -21839,7 +22130,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_35side_01",
@@ -21954,6 +22246,7 @@
       ],
       "getMethod": "以3星评价完成[市民花园]内的全部关卡（不包含教学关）",
       "description": "您见证了一位古老守护者的离开。\n“请让我以一个完整的人的身份离开。”",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -21984,7 +22277,6 @@
       ],
       "getMethod": "完成[观光导览册]中全部内容，并领取奖励",
       "description": "您触摸了一座古老城市的心脏，它还在跳动。\n街头小贩向您打招呼，并兜售号称有两千年历史的砖头。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22008,6 +22300,7 @@
       "slotId": 282,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "ActivityPassStageWithSimpleTokenCountMore",
       "unlockParam": [
         "act35sre",
         "3",
@@ -22015,6 +22308,7 @@
         "eliminate",
         "40"
       ],
+      "getMethod": "以3星评价完成AS-EX-1，且累计消除40块结晶",
       "description": "您见证了一群构装体大闹街区的全过程。\n宝石？玻璃？谁也不知道大街上的那些碎屑都是啥，但总需要有人把它们铲走。",
       "displayTime": -1,
       "expireTimes": [
@@ -22030,9 +22324,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "ActivityPassStageWithSimpleTokenCountMore",
-      "getMethod": "以3星评价完成AS-EX-1，且累计消除40块结晶"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_35side_07",
@@ -22065,7 +22357,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_35side_08",
@@ -22082,6 +22375,7 @@
       ],
       "getMethod": "完成[丰获集会]中全部关卡的突袭模式",
       "description": "您完整地体验了发生在米城每一个角落的瞬间。\n扒手们用来窃取钱包的小刀也可能比许多人的年纪都要大，这就是“辉煌”的含义。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22096,8 +22390,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_35side_09",
@@ -22128,7 +22421,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_35side_10",
@@ -22178,9 +22472,7 @@
         "medal_activity_34side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "您窥见了阿戈尔与海嗣之争的根源。\n他们各自抱持着一枚扭曲的火种，而您必须做出选择。",
       "displayTime": -1,
       "expireTimes": [
@@ -22196,7 +22488,10 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_34side_02",
@@ -22257,7 +22552,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_34side_04",
@@ -22274,7 +22570,6 @@
       ],
       "getMethod": "以3星评价完成[信标投放]中的全部关卡（不包含教学关与剧情关）",
       "description": "您见证了阿戈尔的航道穿过混沌的浪潮，直指大洋的深处。\n您望着延伸至海平线的航道，不由得感到安心。危机从未真正解除，但这一次，文明仍有前路。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22385,8 +22680,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_34side_08",
@@ -22403,7 +22697,6 @@
       ],
       "getMethod": "完成[防线巩固]中全部关卡的突袭模式",
       "description": "在阿戈尔本境的增援抵达之前，您与阿戈尔的军民一同坚守住了弥利亚留姆。\n漫长的岁月过后，您依然在守护文明的火种。有谁会为此感到欣慰，又有谁会为此感到遗憾？",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22469,6 +22762,7 @@
       ],
       "getMethod": "在生路活动中累计击败600个海怪敌人",
       "description": "您协助军团舰队清剿了大量海嗣。\n您清楚海嗣问题无法通过暴力清剿来解决，但您也知道，军团舰队每净空一片海域，都是在为探寻真相者争取时间。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22509,8 +22803,7 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "ActMultiplayVerify2StageTotalScore",
-      "getMethod": "促融共竞活动期间，常规项目总嘉奖印章达到21枚",
-      "advancedMedal": null
+      "getMethod": "促融共竞活动期间，常规项目总嘉奖印章达到21枚"
     },
     {
       "medalId": "medal_activity_act2vmulti_02",
@@ -22555,6 +22848,7 @@
       ],
       "getMethod": "促融共竞活动期间，在常规项目高级赛中，任一比赛表现评级达到3枚嘉奖印章",
       "description": "您带领队伍在高级赛中夺得佳绩。\n您镇守目标点的经验相当丰富。不论突破重围来到您面前的是哪一位敌方选手，您都有办法解决他。",
+      "advancedMedal": "medal_activity_act2vmulti_035",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22564,8 +22858,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_act2vmulti_035"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_act2vmulti_04",
@@ -22616,7 +22909,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_33side_01",
@@ -22653,7 +22947,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_33side_02",
@@ -22714,7 +23009,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_33side_04",
@@ -22761,7 +23057,6 @@
       ],
       "getMethod": "完成[“魔王”征令]中全部内容，并领取奖励",
       "description": "您分析了卡兹戴尔内战的局势。\n最纯洁的理念碰撞，最无奈的悲剧上演。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22785,6 +23080,7 @@
       "slotId": 307,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "PassStageWithSimpleCountMore",
       "unlockParam": [
         "3",
         "act33side_08",
@@ -22792,6 +23088,7 @@
         "lose_special_abilities",
         "2"
       ],
+      "getMethod": "以3星评价通关BB-8，且至少使用稳固锁链使裹骸死士失去特殊能力2次",
       "description": "您在本舰中徘徊，试图还原那一天的场景。\n挣扎和痛苦仿佛无声的咆哮，回荡在每道命令之间。",
       "displayTime": -1,
       "expireTimes": [
@@ -22807,9 +23104,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageWithSimpleCountMore",
-      "getMethod": "以3星评价通关BB-8，且至少使用稳固锁链使裹骸死士失去特殊能力2次"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_33side_07",
@@ -22850,15 +23145,12 @@
       "slotId": 309,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act33side_ex01#f#;act33side_ex02#f#;act33side_ex03#f#;act33side_ex04#f#;act33side_ex05#f#;act33side_ex06#f#;act33side_ex07#f#;act33side_ex08#f#",
         "8"
       ],
-      "getMethod": "完成[我驻留往昔]中全部关卡的突袭模式",
       "description": "您从过去的收藏中找到了这枚奖章。\n荣耀凝固在了往昔，但责任却从未离去。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -22873,7 +23165,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "PassStageSome",
+      "getMethod": "完成[我驻留往昔]中全部关卡的突袭模式"
     },
     {
       "medalId": "medal_activity_33side_09",
@@ -22969,8 +23263,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_2crisisv2_02",
@@ -23120,6 +23413,7 @@
       ],
       "getMethod": "潮曦作战期间，完成所有轮换测试地中的全部关键节点",
       "description": "潮曦作战中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -23207,7 +23501,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_4bossrush_01",
@@ -23258,7 +23553,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_31side_01",
@@ -23500,6 +23796,7 @@
       ],
       "getMethod": "完成[荒城核心]中全部关卡的突袭模式",
       "description": "您仔细读过《神农传》，了解了神农的生平。\n此传号称由百年后的后人撰写，可文中的细节为何如此活灵活现？",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -23514,8 +23811,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_31side_09",
@@ -23616,7 +23912,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_30side_02",
@@ -23677,7 +23974,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_30side_04",
@@ -23724,7 +24022,6 @@
       ],
       "getMethod": "完成[观光打卡]中全部内容，并领取奖励",
       "description": "您已领略了这片雪境中最美丽的风光。\n当高山驮兽群向远处跑去，升腾而起的雪沫和肉眼可见的喘息，让所有世俗纠纷都能被抛到脑后。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -23821,7 +24118,6 @@
       ],
       "getMethod": "完成[特快列车]中全部关卡的突袭模式",
       "description": "您与雪境的朋友们共同守护了这里的安宁。\n任何人都无法阻止谢拉格前进。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -23933,8 +24229,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1crisisv2_02",
@@ -24032,6 +24327,7 @@
       ],
       "getMethod": "浊燃作战期间，完成主测试地中的任意一个关键节点",
       "description": "浊燃作战中颁发给随机应变之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -24050,11 +24346,13 @@
       "slotId": 349,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisV2NodeSome",
       "unlockParam": [
         "crisis_v2_season_1_1",
         "crisis_v2_01-02^keypoint_1;crisis_v2_01-02^keypoint_2;crisis_v2_01-02^keypoint_3;crisis_v2_01-03^keypoint_1;crisis_v2_01-03^keypoint_2;crisis_v2_01-03^keypoint_3;crisis_v2_01-05^keypoint_1;crisis_v2_01-05^keypoint_2;crisis_v2_01-05^keypoint_3;crisis_v2_01-07^keypoint_1;crisis_v2_01-07^keypoint_2;crisis_v2_01-07^keypoint_3",
         "1"
       ],
+      "getMethod": "浊燃作战期间，完成轮换测试地中的任意一个关键节点",
       "description": "浊燃作战中颁发给戍守阵线之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -24065,9 +24363,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "CrisisV2NodeSome",
-      "getMethod": "浊燃作战期间，完成轮换测试地中的任意一个关键节点"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_1crisisv2_07",
@@ -24119,7 +24415,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_1crisisv2_09",
@@ -24162,6 +24459,7 @@
       ],
       "getMethod": "浊燃作战期间，使用助战并通关任意作战不小于5次",
       "description": "浊燃作战中颁发给互帮互助之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -24190,9 +24488,7 @@
         "medal_activity_29side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "最盛大的女皇庆典已经落下帷幕，您见证了莱塔尼亚迎来新生。\n“我不再顾忌，也不再有疑惑。”",
       "displayTime": -1,
       "expireTimes": [
@@ -24208,7 +24504,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null
     },
     {
       "medalId": "medal_activity_29side_02",
@@ -24269,7 +24567,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_29side_04",
@@ -24316,7 +24615,6 @@
       ],
       "getMethod": "完成[维恩钟楼告示板]中全部内容，并领取奖励",
       "description": "您回应了留在大钟楼告示板上的所有诉求。\n古老的钟楼仍会鸣响，但是人们已学会向别处请求。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -24331,7 +24629,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_29side_06",
@@ -24424,8 +24723,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_29side_09",
@@ -24784,11 +25082,13 @@
       "slotId": 374,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "TotalSimpleTokenCount",
       "unlockParam": [
         "act28sre",
         "eradio_fire",
         "180"
       ],
+      "getMethod": "不义之财活动期间，废热喷口累计喷气散热180次",
       "description": "您学会了利用旧式散热设备打击敌人。\n也许这些经验能够帮助您更好地理解安全生产的重要性。",
       "displayTime": -1,
       "expireTimes": [
@@ -24804,9 +25104,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "TotalSimpleTokenCount",
-      "getMethod": "不义之财活动期间，废热喷口累计喷气散热180次"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_28side_07",
@@ -24848,13 +25146,11 @@
       "slotId": 376,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act28side_ex01#f#;act28side_ex02#f#;act28side_ex03#f#;act28side_ex04#f#;act28side_ex05#f#;act28side_ex06#f#;act28side_ex07#f#;act28side_ex08#f#",
         "8"
       ],
-      "getMethod": "完成[黑色舰船]中全部关卡的突袭模式",
       "description": "您解决了达维镇的麻烦，尽管结局不尽如人意。\n人们总是在离开家乡后才发现，原本那平静而体面的日子是如此珍贵。",
       "displayTime": -1,
       "expireTimes": [
@@ -24871,6 +25167,8 @@
       ],
       "medalRewardGroup": [],
       "isHidden": false,
+      "template": "PassStageSome",
+      "getMethod": "完成[黑色舰船]中全部关卡的突袭模式",
       "advancedMedal": null
     },
     {
@@ -25081,7 +25379,6 @@
       ],
       "getMethod": "在汐斯塔风情街中，赚取250000消费券",
       "description": "您协助雪雉经营店铺并赚取了数量可观的消费券。\n风情街这间大赚特赚的小店成了汐斯塔人午后的谈资。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -25144,6 +25441,7 @@
       ],
       "getMethod": "以3星评价完成[城市寻宝]内的全部关卡",
       "description": "毛绒绒生物们向您展现了高超的漂流与冲浪技巧。\n温泉中跃起的身姿被人拍了下来——如果把照片里的泉水修改成岩浆肯定会更酷。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -25167,11 +25465,13 @@
       "slotId": 386,
       "preMedalIdList": [],
       "rarity": "T2",
+      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act27side_ex01#f#;act27side_ex02#f#;act27side_ex03#f#;act27side_ex04#f#;act27side_ex05#f#;act27side_ex06#f#;act27side_ex07#f#;act27side_ex08#f#",
         "8"
       ],
+      "getMethod": "完成[城市寻宝]内全部关卡的突袭模式",
       "description": "您见证了毛绒绒生物们在熔岩中的潜泳竞赛。\n当这些生物排队跳入火山口时，它们的嘶叫声成了欢乐的歌谣。",
       "displayTime": -1,
       "expireTimes": [
@@ -25187,10 +25487,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageSome",
-      "getMethod": "完成[城市寻宝]内全部关卡的突袭模式",
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_27side_09",
@@ -25304,7 +25601,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_26side_01",
@@ -25323,9 +25621,7 @@
         "medal_activity_26side_10"
       ],
       "rarity": "T3",
-      "template": null,
       "unlockParam": [],
-      "getMethod": null,
       "description": "您亲眼见证了安布罗修修道院再次启程。\n一部分人选择离去，而剩下的人将重归乐园。",
       "displayTime": -1,
       "expireTimes": [
@@ -25341,7 +25637,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": null,
+      "getMethod": null
     },
     {
       "medalId": "medal_activity_26side_02",
@@ -25449,7 +25747,6 @@
       ],
       "getMethod": "完成[教皇厅密令]中全部内容，并领取奖励",
       "description": "教宗阁下亲自授封您为教皇厅荣誉劳模。\n您可以从“使命达成者”“任务收割机”以及“勤劳螺丝人”中选择一个喜欢的称号。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -25559,8 +25856,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_26side_09",
@@ -25611,6 +25907,7 @@
       ],
       "getMethod": "以3星评价通关HE-EX-7，且关卡中临时步道被破坏次数不超过2次",
       "description": "您已熟知如何安抚人们不安的心灵。\n人们为何不安，您已知晓。人们从何处获得宁静，您已有答案。",
+      "advancedMedal": "medal_activity_26side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -25625,8 +25922,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_26side_105"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_38d1_01",
@@ -25696,6 +25992,7 @@
       ],
       "getMethod": "在尖灭测试作战中，获得时装竞技之梦改装",
       "description": "尖灭测试作战中随时装附送的蚀刻章。\n骑士踏梦而来。",
+      "advancedMedal": null,
       "displayTime": 1684742400,
       "expireTimes": [
         {
@@ -25756,7 +26053,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_25side_01",
@@ -25793,7 +26091,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_25side_02",
@@ -25854,7 +26153,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_25side_04",
@@ -25900,7 +26200,6 @@
       ],
       "getMethod": "完成[指令目录]中全部内容，并领取奖励",
       "description": "您顺利完成了所有的任务。\n梅兰德基金会已经注意到了您的能力，哥伦比亚需要您这样的人才。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -25994,7 +26293,6 @@
       ],
       "getMethod": "完成[过往未尽]中全部关卡的突袭模式",
       "description": "锡人感谢您的暗中协助，并送上这枚奖章。\n梅兰德基金会与国防部的冲突已成过去，未来属于哥伦比亚。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -26102,8 +26400,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_12rune_02",
@@ -26201,6 +26498,7 @@
       ],
       "getMethod": "在起源行动中，完成全部轮替挑战任务（包括每日合约挑战与每日危机等级达到8）并领取奖励，累计10天",
       "description": "起源行动中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -26219,11 +26517,13 @@
       "slotId": 421,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisTaskSome",
       "unlockParam": [
         "rune_season_12_1",
         "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
         "1"
       ],
+      "getMethod": "在起源行动中，完成常驻行动地点的1个合约挑战任务并领取奖励",
       "description": "起源行动中颁发给随机应变之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -26234,9 +26534,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "CrisisTaskSome",
-      "getMethod": "在起源行动中，完成常驻行动地点的1个合约挑战任务并领取奖励"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_12rune_07",
@@ -26271,13 +26569,11 @@
       "slotId": 423,
       "preMedalIdList": [],
       "rarity": "T1",
-      "template": "CrisisUnlockPermRuneSome",
       "unlockParam": [
         "rune_season_12_1",
         "enemy_reid_3;enemy_newrevg_3;char_atk_3;char_hp_3;enemy_atk_3;enemy_hp_3;enemy_reid_4",
         "4"
       ],
-      "getMethod": "在起源行动中，常驻行动地点解锁4个3级合约",
       "description": "起源行动中颁发给遍历战场之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -26288,7 +26584,10 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "CrisisUnlockPermRuneSome",
+      "getMethod": "在起源行动中，常驻行动地点解锁4个3级合约",
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_12rune_09",
@@ -26340,7 +26639,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_23side_01",
@@ -26485,7 +26785,6 @@
       ],
       "getMethod": "完成[玉门擂台榜]中全部内容，并领取奖励",
       "description": "您在张悬多年的玉门擂台榜上占据了一席之地。\n榜上有名，就像快意时有酒，只是豪兴的添头，保家卫国，匹夫有责。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -26550,6 +26849,7 @@
       ],
       "getMethod": "以3星评价通关WB-EX-1，且通关时场上至少存在3个“城防路障”",
       "description": "您在协助巡防营布防时出力颇多，惊艳众人。\n玉门尚武，有句俗话说：“玉门习武多年少，练拳之日没桩高。”",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -26595,8 +26895,7 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "PassStageSome",
-      "getMethod": "完成[关外追凶]中全部关卡的突袭模式",
-      "advancedMedal": null
+      "getMethod": "完成[关外追凶]中全部关卡的突袭模式"
     },
     {
       "medalId": "medal_activity_23side_09",
@@ -26713,7 +27012,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_22side_01",
@@ -26883,12 +27183,14 @@
       "slotId": 443,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "PassStageWithSimpleTokenCountLess",
       "unlockParam": [
         "3",
         "act22side_08",
         "locate_on_tile_mire",
         "3"
       ],
+      "getMethod": "以3星评价通关FC-8，且通关时在沼泽地段中部署干员的次数不超过3次",
       "description": "您的心潮随着她的语调而起伏。\n您难以分辨，那些俘获内心的话语中所承载的东西到底是希望还是野心。",
       "displayTime": -1,
       "expireTimes": [
@@ -26904,9 +27206,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "PassStageWithSimpleTokenCountLess",
-      "getMethod": "以3星评价通关FC-8，且通关时在沼泽地段中部署干员的次数不超过3次"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_22side_07",
@@ -26915,12 +27215,10 @@
       "slotId": 444,
       "preMedalIdList": [],
       "rarity": "T2",
-      "template": "MissionCompleteSome",
       "unlockParam": [
         "22sreActivity_1;22sreActivity_2;22sreActivity_3;22sreActivity_4;22sreActivity_5;22sreActivity_6;22sreActivity_7;22sreActivity_8;22sreActivity_9;22sreActivity_10;22sreActivity_11;22sreActivity_12;22sreActivity_13;22sreActivity_14;22sreActivity_15;22sreActivity_16;22sreActivity_17;22sreActivity_18;22sreActivity_19;22sreActivity_20;22sreActivity_21;22sreActivity_22;22sreActivity_23;22sreActivity_24",
         "24"
       ],
-      "getMethod": "完成[市议会调查令]中全部内容，并领取奖励",
       "description": "您思虑再三，决定将真相呈递。\n在真与假之间的分界，不是难以跨域的深堑，而是一个细小的念头。",
       "displayTime": -1,
       "expireTimes": [
@@ -26936,7 +27234,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "MissionCompleteSome",
+      "getMethod": "完成[市议会调查令]中全部内容，并领取奖励"
     },
     {
       "medalId": "medal_activity_22side_08",
@@ -27056,6 +27356,7 @@
       "unlockParam": [],
       "getMethod": null,
       "description": "您结束了在叙拉古的旅程。\n临走之前，记得去拜访几座坟墓，献上新开的鲜花。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -27160,7 +27461,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_21side_05",
@@ -27176,7 +27478,6 @@
       ],
       "getMethod": "完成[宴会菜单]中的全部内容，并领取奖励",
       "description": "您已品尝过菜单上的所有佳肴。\n肉排切面的血丝给您留下了深刻的印象，不过总体而言味道还算不错。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -27222,7 +27523,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_21side_07",
@@ -27284,8 +27586,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_21side_09",
@@ -27302,6 +27603,7 @@
       ],
       "getMethod": "完成[自诩荒野]中全部关卡的突袭模式",
       "description": "您欣赏完了《叙拉古人》的最后一幕。\n熟悉的演员依次退场，厚重的幕布缓缓落下，而新的城市正准备迎接清晨的曙光。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -27362,7 +27664,6 @@
       ],
       "getMethod": "叙拉古人活动期间，解锁了沃尔西尼的全部区域",
       "description": "您俯瞰着沃尔西尼的大街小巷。\n在下水道的边缘，未被冲刷干净的细微血迹，也无法逃过您的眼睛。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -27414,7 +27715,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_20side_02",
@@ -27837,11 +28139,13 @@
       "slotId": 474,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisTaskSome",
       "unlockParam": [
         "rune_season_11_1",
         "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
         "1"
       ],
+      "getMethod": "在赝波行动中，完成常驻行动地点的1个合约挑战任务并领取奖励",
       "description": "赝波行动中颁发给随机应变之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -27852,9 +28156,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "CrisisTaskSome",
-      "getMethod": "在赝波行动中，完成常驻行动地点的1个合约挑战任务并领取奖励"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_11rune_07",
@@ -27889,15 +28191,12 @@
       "slotId": 476,
       "preMedalIdList": [],
       "rarity": "T1",
-      "template": "CrisisUnlockPermRuneSome",
       "unlockParam": [
         "rune_season_11_1",
         "char_hp_3;global_costrecovery_3;enemy_atk_3;enemy_hp_3;char_atk_3;enemy_hvyslr_amod_3;enemy_hvyslr_bmod_3",
         "4"
       ],
-      "getMethod": "在赝波行动中，常驻行动地点解锁4个3级合约",
       "description": "赝波行动中颁发给遍历战场之人的蚀刻章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -27907,7 +28206,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "CrisisUnlockPermRuneSome",
+      "getMethod": "在赝波行动中，常驻行动地点解锁4个3级合约"
     },
     {
       "medalId": "medal_activity_11rune_09",
@@ -27991,8 +28292,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_10rune_02",
@@ -28142,6 +28442,7 @@
       ],
       "getMethod": "在尘环行动中，完成常驻行动地点的8个合约挑战任务并领取奖励",
       "description": "尘环行动中颁发给当机立断之人的蚀刻章。\n您已具备了响应多种紧急事态的实力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -28229,7 +28530,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_1bossrush_01",
@@ -28280,7 +28582,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_19side_01",
@@ -28523,6 +28826,7 @@
       ],
       "getMethod": "以3星评价完成DV-EX-7，且不击败多萝西",
       "description": "您并不认为多萝西是真正的敌人。\n她创建梦境来完成自己的理想，也毁掉梦境来证明自己的理想。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -28537,8 +28841,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_19side_09",
@@ -28639,7 +28942,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_18side_02",
@@ -28700,7 +29004,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_18side_04",
@@ -28747,7 +29052,6 @@
       ],
       "getMethod": "完成[密探据点]中全部内容，并领取奖励",
       "description": "您品鉴了夕照区买得到的所有种类的咖啡。\n店主经常因为各种理由长期外出，但咖啡的风味始终如一。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -28844,7 +29148,6 @@
       ],
       "getMethod": "以3星评价完成LE-EX-7，且获胜时场上没有格特鲁德的虚像",
       "description": "您精准识破了敌人的手段，并快速将其击溃。\n天赋固然重要，而日复一日的练习与耐心同样不可或缺。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -28955,8 +29258,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_9rune_02",
@@ -29053,6 +29355,7 @@
       ],
       "getMethod": "在渊默行动中，完成全部轮替挑战任务（包括每日合约挑战与每日危机等级达到8）并领取奖励，累计10天",
       "description": "渊默行动中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -29140,7 +29443,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_9rune_09",
@@ -29192,7 +29496,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_17side_01",
@@ -29431,6 +29736,7 @@
       ],
       "getMethod": "完成[蒙尘图册]中全部关卡的突袭模式",
       "description": "您对来自深海的入侵者下达了判决。\n弱肉强食，物竞天择。\n作为更强大的一方，您为自己赢得了可以下达判决的身份。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -29445,8 +29751,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_17side_09",
@@ -29547,7 +29852,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_16side_02",
@@ -29609,7 +29915,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_16side_04",
@@ -29656,7 +29963,6 @@
       ],
       "getMethod": "完成[公证所任务系统]中全部内容，并领取奖励",
       "description": "您完美处理了万国峰会期间的诸多事务。\n遗物转接、治安维稳……您体验着公证所执行者的生活，并不有趣，至于能否坚持，取决于您对于“信仰和律法”的态度有多坚定。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -29753,7 +30059,6 @@
       ],
       "getMethod": "以3星评价通关GA-EX-5，并且获胜时获得2个“冰淇淋机”的控制权",
       "description": "您聆听了一段发生在伊比利亚小镇的往事。\n他奔行过漫漫长路，最后撞上了一堵高墙。他想要知道，这堵墙为何矗立于此，又为何如此无情。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -29864,8 +30169,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_8rune_02",
@@ -29963,6 +30267,7 @@
       ],
       "getMethod": "在寻昼行动中，完成全部轮替挑战任务（包括每日合约挑战与每日危机等级达到8）并领取奖励，累计10天",
       "description": "寻昼行动中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -30050,7 +30355,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_8rune_09",
@@ -30102,7 +30408,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_15side_01",
@@ -30344,6 +30651,7 @@
       ],
       "getMethod": "通关IW-EX-6，至少击败5个金属器伥（包括新硎、言省）",
       "description": "您为山城老字号带来了新的变革。\n镖局、客栈……总有些老的物和事未被文明变迁的潮水冲走。但是规矩规矩，立而守，守而破，不破不立，有破有立，从来都难说得清楚。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -30358,8 +30666,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_15side_09",
@@ -30460,7 +30767,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_14side_02",
@@ -30523,7 +30831,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_14side_04",
@@ -30570,7 +30879,6 @@
       ],
       "getMethod": "完成[谢拉格旅行指南]全部内容，并领取奖励",
       "description": "您走过了谢拉格的大街小巷。\n您发现，现代科技已经在这个小国逐渐普及，或许您下一次造访谢拉格时，这个国家将会发生翻天覆地的变化。而这是好事，还是坏事，您还不得而知。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -30666,7 +30974,6 @@
       ],
       "getMethod": "完成[圣猎]内全部关卡的突袭模式",
       "description": "您的威名传遍了谢拉格的每一个角落。\n人们都认为，您应该成为恩希欧迪斯的左膀右臂，而您和恩希欧迪斯都知道，你们互相都在期待着下一次的对弈。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -30731,6 +31038,7 @@
       ],
       "getMethod": "通关BI-EX-2，且使至少10名敌人坠落地穴",
       "description": "您在雪原上玩弄猎物的技巧堪称艺术。\n在您的引导下，您的猎物甚至会以为，他们是自己主动走进的陷阱，而您，只是一个路过的人。",
+      "advancedMedal": "medal_activity_14side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -30745,8 +31053,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_14side_105"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_7rune_01",
@@ -30778,8 +31085,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_7rune_02",
@@ -30886,7 +31192,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_7rune_06",
@@ -30895,12 +31202,38 @@
       "slotId": 576,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisTaskSome",
       "unlockParam": [
         "rune_season_7_1",
         "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
         "1"
       ],
+      "getMethod": "在松烟行动中，完成常驻行动地点的1个合约挑战任务并领取奖励",
       "description": "松烟行动中颁发给随机应变之人的蚀刻章。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1638734400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_7rune_07",
+      "medalName": "松烟响应奖章·II",
+      "medalType": "activityMedal",
+      "slotId": 577,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "unlockParam": [
+        "rune_season_7_1",
+        "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
+        "8"
+      ],
+      "description": "松烟行动中颁发给当机立断之人的蚀刻章。\n您已具备了响应多种紧急事态的实力。",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -30912,33 +31245,7 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "CrisisTaskSome",
-      "getMethod": "在松烟行动中，完成常驻行动地点的1个合约挑战任务并领取奖励"
-    },
-    {
-      "medalId": "medal_activity_7rune_07",
-      "medalName": "松烟响应奖章·II",
-      "medalType": "activityMedal",
-      "slotId": 577,
-      "preMedalIdList": [],
-      "rarity": "T2",
-      "template": "CrisisTaskSome",
-      "unlockParam": [
-        "rune_season_7_1",
-        "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
-        "8"
-      ],
-      "getMethod": "在松烟行动中，完成常驻行动地点的8个合约挑战任务并领取奖励",
-      "description": "松烟行动中颁发给当机立断之人的蚀刻章。\n您已具备了响应多种紧急事态的实力。",
-      "displayTime": -1,
-      "expireTimes": [
-        {
-          "start": 1638734400,
-          "end": -1,
-          "type": "PERM"
-        }
-      ],
-      "medalRewardGroup": [],
-      "isHidden": false
+      "getMethod": "在松烟行动中，完成常驻行动地点的8个合约挑战任务并领取奖励"
     },
     {
       "medalId": "medal_activity_7rune_08",
@@ -30982,6 +31289,7 @@
       ],
       "getMethod": "在松烟行动中，在任意一个轮换行动地点获得S评价",
       "description": "松烟行动中颁发给深思熟虑之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31007,7 +31315,6 @@
       ],
       "getMethod": "在松烟行动中，使用助战并通关任意行动地点不小于5次",
       "description": "松烟行动中颁发给互帮互助之人的蚀刻章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31085,7 +31392,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_13side_03",
@@ -31115,8 +31423,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_13side_04",
@@ -31146,7 +31453,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_13side_05",
@@ -31288,7 +31596,6 @@
       ],
       "getMethod": "完成[零号地块]内全部关卡的突袭模式",
       "description": "您已深谙娱乐记者的处事之道。\n标题要大，照片要糊，内容要怪，正文要短。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31397,8 +31704,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_6rune_02",
@@ -31496,6 +31802,7 @@
       ],
       "getMethod": "在蛮鳞行动中，完成全部轮替挑战任务（包括每日合约挑战与每日危机等级达到8）并领取奖励，累计10天",
       "description": "蛮鳞行动中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31514,11 +31821,13 @@
       "slotId": 597,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisTaskSome",
       "unlockParam": [
         "rune_season_6_1",
         "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
         "1"
       ],
+      "getMethod": "在蛮鳞行动中，完成常驻行动地点的1个合约挑战任务并领取奖励",
       "description": "蛮鳞行动中颁发给随机应变之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -31529,9 +31838,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "template": "CrisisTaskSome",
-      "getMethod": "在蛮鳞行动中，完成常驻行动地点的1个合约挑战任务并领取奖励"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_6rune_07",
@@ -31566,13 +31873,11 @@
       "slotId": 599,
       "preMedalIdList": [],
       "rarity": "T1",
-      "template": "CrisisUnlockPermRuneSome",
       "unlockParam": [
         "rune_season_6_1",
         "char_hp_3;enemy_hp_3;enemy_cchmpn_amod_3;enemy_cchmpn_bmod_3;global_costrecovery_3;enemy_atk_3",
         "4"
       ],
-      "getMethod": "在蛮鳞行动中，常驻行动地点解锁4个3级合约",
       "description": "蛮鳞行动中颁发给遍历战场之人的蚀刻章。",
       "displayTime": -1,
       "expireTimes": [
@@ -31583,7 +31888,10 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "template": "CrisisUnlockPermRuneSome",
+      "getMethod": "在蛮鳞行动中，常驻行动地点解锁4个3级合约",
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_6rune_09",
@@ -31626,6 +31934,7 @@
       ],
       "getMethod": "在蛮鳞行动中，使用助战并通关任意行动地点不小于5次",
       "description": "蛮鳞行动中颁发给互帮互助之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31734,7 +32043,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_12side_04",
@@ -31782,7 +32092,6 @@
       ],
       "getMethod": "多索雷斯假日活动期间，在[约翰老妈大商场]中消耗4000约翰老妈代金券",
       "description": "您在约翰老妈大商场中尽情购物。\n所购入的物品将会送至您在多索雷斯的下榻酒店，请问还需要其他服务吗？",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31797,7 +32106,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_12side_06",
@@ -31890,8 +32200,7 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "PassStageSome",
-      "getMethod": "完成[赛后余波]内全部关卡的突袭模式",
-      "advancedMedal": null
+      "getMethod": "完成[赛后余波]内全部关卡的突袭模式"
     },
     {
       "medalId": "medal_activity_12side_09",
@@ -31939,7 +32248,6 @@
       ],
       "getMethod": "以3星评价完成[暗流涌动]中DH-MO-1",
       "description": "陈与她的三位伙伴携手罗德岛外派干员，在多索雷斯共同抓捕了一群潘乔残党中的死硬分子。\n从今往后，龙门近卫局的名号，将成为悬在所有多索雷斯黑帮以及犯罪分子头上的利刃。",
-      "advancedMedal": "medal_activity_12side_105",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -31954,7 +32262,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": "medal_activity_12side_105"
     },
     {
       "medalId": "medal_activity_12side_11",
@@ -32046,8 +32355,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_18d5_02",
@@ -32145,6 +32453,7 @@
       ],
       "getMethod": "在光谱行动中，完成全部轮替挑战任务（包括每日合约挑战与每日危机等级达到8）并领取奖励，累计10天",
       "description": "光谱行动中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -32232,7 +32541,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_18d5_09",
@@ -32284,7 +32594,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_18d3_01",
@@ -32558,6 +32869,7 @@
       ],
       "getMethod": "以3星评价完成SV-EX-7，且不激活应急救治设施",
       "description": "您发现放弃比想象中更具诱惑力。\n应急设施的作用在衰减。因适应而改变的是它们，还是你自己？",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -32674,7 +32986,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_18d0_03",
@@ -32735,7 +33048,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_18d0_05",
@@ -32751,7 +33065,6 @@
       ],
       "getMethod": "完成[遗尘故曲]中全部内容，并领取奖励",
       "description": "您听闻了关于她的诸多逸闻。\n她变得更像一个有血有肉的“人”，只有如此下去，她才能找到属于她的终点。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -32846,6 +33159,7 @@
       ],
       "getMethod": "完成[浩瀚之旅]内全部关卡的突袭模式",
       "description": "您守望着她，而她守望着大地。\n在她这一次的生命中，她已经数次试图去阻止人类自取灭亡的行径。可她势单力薄，她需要真正的支持者。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -32860,8 +33174,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_18d0_09",
@@ -32879,7 +33192,6 @@
       ],
       "getMethod": "以3星评价完成WD-EX-5，且不击毁空援无人机（包含破片、破片U型、铁砧、铁砧B型）",
       "description": "您捡回来了不少的空援无人机。\n“干嘛要打坏？等它们燃料耗尽了再去回收，能省下多大一笔开支啊？”",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -32963,7 +33275,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_16d5_02",
@@ -32993,8 +33306,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_16d5_03",
@@ -33025,7 +33337,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_16d5_04",
@@ -33167,7 +33480,6 @@
       ],
       "getMethod": "完成[自问]中全部内容，并领取奖励",
       "description": "您游历了夕的画卷江山，如同嵯峨一般。\n嵯峨自己跑出来这件事，夕到现在都耿耿于怀。毕竟嵯峨也太年轻了，这不是显得很掉价吗？",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -33275,8 +33587,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_16d0_02",
@@ -33373,6 +33684,7 @@
       ],
       "getMethod": "在铅封行动中，完成全部轮替挑战任务（包括每日合约挑战与每日危机等级达到8）并领取奖励，累计10天",
       "description": "铅封行动中颁发给坚守阵线之人的蚀刻章。\n您已具备了指挥高强度阵地战的能力。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -33451,6 +33763,7 @@
       ],
       "getMethod": "在铅封行动中，常驻行动地点解锁4个3级合约",
       "description": "铅封行动中颁发给遍历战场之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -33512,7 +33825,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_15d0_01",
@@ -33549,7 +33863,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_15d0_02",
@@ -33610,7 +33925,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_15d0_04",
@@ -33657,7 +33973,6 @@
       ],
       "getMethod": "完成[越狱准备]中全部内容，并领取奖励",
       "description": "您完整参与了策划这场越狱行动。\n在执行过程中，米娜偶尔发现了这枚勋章，似乎是典狱长赠送给那些前来监狱做客的达官贵人的纪念品。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -33752,7 +34067,6 @@
       ],
       "getMethod": "完成[狱中生活]内全部关卡的突袭模式",
       "description": "您完全适应了囚犯们之间的冲突，甚至有些乐在其中。\n或许安东尼应当把他的位置让给您。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -33785,6 +34099,7 @@
       ],
       "getMethod": "以3星评价完成MB-8，且通关时存在4个禁锢装置",
       "description": "许多囚犯都屈服于您的“力量”。\n机械与智慧的结合不是蛮力所能对抗的。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -33864,8 +34179,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_14d5_02",
@@ -33892,7 +34206,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_14d5_03",
@@ -33946,7 +34261,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_14d5_05",
@@ -34068,7 +34384,6 @@
       ],
       "getMethod": "在燃灰行动中，在任意一个轮换行动地点获得S评价",
       "description": "燃灰行动中颁发给深思熟虑之人的蚀刻章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34171,8 +34486,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_13d5_03",
@@ -34221,6 +34535,7 @@
       ],
       "getMethod": "以3星评价完成MN-8，且通关时至少击落4架赞助无人机",
       "description": "您面对突如其来的袭击依旧反败为胜。\n面对商业联合会的处刑人，就要用商业联合会自己的方法打败他们。",
+      "advancedMedal": "medal_activity_13d5_045",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34235,8 +34550,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": "medal_activity_13d5_045"
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_13d5_05",
@@ -34329,7 +34643,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_13d5_08",
@@ -34345,6 +34660,7 @@
       ],
       "getMethod": "阅读玛莉娅·临光活动中的15条新闻",
       "description": "您阅览了许多媒体的表面功夫，辛苦您了。\n消磨骑士意义的并非只有骑士，每一个欢呼的观众都有责任，每一个制造欢呼的商人都在触犯信条。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34389,7 +34705,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_13d5_10",
@@ -34457,7 +34774,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_12d0_01",
@@ -34518,7 +34836,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_12d0_03",
@@ -34535,7 +34854,6 @@
       ],
       "getMethod": "活动期间，在[依娜姆商会]内消耗2400个机械零件",
       "description": "您在依娜姆的商店中一掷千金。\n没有商人会讨厌您这样的顾客。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34645,8 +34963,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_12d0_07",
@@ -34662,7 +34979,6 @@
       ],
       "getMethod": "完成[勇士试炼]中全部内容，并领取奖励",
       "description": "您充分享受了这场冒险。\n祖玛玛为您亲手打造了这枚奖章。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34776,8 +35092,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_11d5_02",
@@ -34795,6 +35110,7 @@
       ],
       "getMethod": "在利刃行动中，常驻行动地点达到S评价",
       "description": "利刃行动中颁发给面对逆境之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34883,7 +35199,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_11d5_06",
@@ -34892,12 +35209,38 @@
       "slotId": 709,
       "preMedalIdList": [],
       "rarity": "T1",
+      "template": "CrisisTaskSome",
       "unlockParam": [
         "rune_season_2_1",
         "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
         "1"
       ],
+      "getMethod": "在利刃行动中，完成常驻行动地点的1个合约挑战任务并领取奖励",
       "description": "利刃行动中颁发给随机应变之人的蚀刻章。",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1597089600,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_11d5_07",
+      "medalName": "利刃响应奖章·II",
+      "medalType": "activityMedal",
+      "slotId": 710,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "unlockParam": [
+        "rune_season_2_1",
+        "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
+        "8"
+      ],
+      "description": "利刃行动中颁发给当机立断之人的蚀刻章。\n您已具备了响应多种紧急事态的实力。",
       "displayTime": -1,
       "expireTimes": [
         {
@@ -34909,33 +35252,8 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "template": "CrisisTaskSome",
-      "getMethod": "在利刃行动中，完成常驻行动地点的1个合约挑战任务并领取奖励"
-    },
-    {
-      "medalId": "medal_activity_11d5_07",
-      "medalName": "利刃响应奖章·II",
-      "medalType": "activityMedal",
-      "slotId": 710,
-      "preMedalIdList": [],
-      "rarity": "T2",
-      "template": "CrisisTaskSome",
-      "unlockParam": [
-        "rune_season_2_1",
-        "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
-        "8"
-      ],
       "getMethod": "在利刃行动中，完成常驻行动地点的8个合约挑战任务并领取奖励",
-      "description": "利刃行动中颁发给当机立断之人的蚀刻章。\n您已具备了响应多种紧急事态的实力。",
-      "displayTime": -1,
-      "expireTimes": [
-        {
-          "start": 1597089600,
-          "end": -1,
-          "type": "PERM"
-        }
-      ],
-      "medalRewardGroup": [],
-      "isHidden": false
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_11d5_08",
@@ -34979,6 +35297,7 @@
       ],
       "getMethod": "在利刃行动中，在任意一个轮换行动地点获得S评价",
       "description": "利刃行动中颁发给深思熟虑之人的蚀刻章。",
+      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -35068,7 +35387,6 @@
       ],
       "getMethod": "以3星评价完成[议事高塔]内除沦陷区内容外的全部关卡（不包含教学关）",
       "description": "您解决了发生在莱塔尼亚边陲城镇的一起案件。\n并非所有人都怀揣恶意，但它依旧滑向深渊。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -35083,7 +35401,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_11d0_03",
@@ -35146,7 +35465,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "advancedMedal": null
     },
     {
       "medalId": "medal_activity_11d0_05",
@@ -35178,8 +35498,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_11d0_06",
@@ -35219,11 +35538,13 @@
       "slotId": 720,
       "preMedalIdList": [],
       "rarity": "T2",
+      "template": "PassStageSome",
       "unlockParam": [
         "3",
         "act11d0_mo01",
         "1"
       ],
+      "getMethod": "以3星评价完成TW-MO-1",
       "description": "您解决了暴乱的根源。\n暴力不能一直解决问题，我们需要秩序。",
       "displayTime": -1,
       "expireTimes": [
@@ -35240,8 +35561,6 @@
       ],
       "medalRewardGroup": [],
       "isHidden": false,
-      "template": "PassStageSome",
-      "getMethod": "以3星评价完成TW-MO-1",
       "advancedMedal": "medal_activity_11d0_075"
     },
     {
@@ -35289,7 +35608,6 @@
       ],
       "getMethod": "活动期间，在[八月集市]内消费2400老旧贵族领铸币",
       "description": "您在沃伦姆德一掷千金。\n人人都为商业行为的复苏欢呼雀跃。",
-      "advancedMedal": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -35396,8 +35714,7 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false,
-      "advancedMedal": null
+      "isHidden": false
     },
     {
       "medalId": "medal_activity_10d0_02",
@@ -37140,7 +37457,6 @@
       "medalName": "“圣山奶酪火锅”",
       "medalType": "hiddenMedal",
       "slotId": 23,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "PassTower",
       "unlockParam": [
@@ -37149,7 +37465,7 @@
         "0"
       ],
       "getMethod": "委托方许诺，如果施佩尔山脚保全工作没有出现失误，将会为罗德岛准备特别的答谢晚宴。",
-      "description": "以喀兰贸易委托方在答谢宴上准备的菜点为灵感制成的奖章。\n将上品奶酪雕成落雪圣山的模样，食用时以谢拉格特产的冰果酒溶化，然后叉取熟食蘸上奶酪，便可大快朵颐。其自由随性的搭配方式深受喀兰贸易员工喜爱，也是许多谢拉格人家庭聚会的首选。",
+      "originMedal": null,
       "displayTime": 1765828800,
       "expireTimes": [
         {
@@ -37159,14 +37475,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "以喀兰贸易委托方在答谢宴上准备的菜点为灵感制成的奖章。\n将上品奶酪雕成落雪圣山的模样，食用时以谢拉格特产的冰果酒溶化，然后叉取熟食蘸上奶酪，便可大快朵颐。其自由随性的搭配方式深受喀兰贸易员工喜爱，也是许多谢拉格人家庭聚会的首选。"
     },
     {
       "medalId": "medal_hidden_tower_21",
       "medalName": "“芥末酸奶烩驮兽肉”",
       "medalType": "hiddenMedal",
       "slotId": 24,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "PassTower",
       "unlockParam": [
@@ -37175,7 +37492,7 @@
         "0"
       ],
       "getMethod": "委托方许诺，如果日达诺夫园区保全工作没有出现失误，将会为罗德岛准备特别的答谢晚宴。",
-      "description": "以索罗科夫委托方在答谢宴上准备的菜点为灵感制成的奖章。\n选用品质上佳的嫩驮兽肉，加入醇厚的酸奶与风味芥末一同慢炖，将驮兽肉蘸取浓厚酱汁食用。菜品发源于乌萨斯的贵族阶层，以其层次丰富的风味和鲜嫩的口感而广受欢迎，搭配主食之后更是乌萨斯日常饮食中和宴席上的招牌菜品之一。",
+      "originMedal": null,
       "displayTime": 1786824000,
       "expireTimes": [
         {
@@ -37185,14 +37502,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "以索罗科夫委托方在答谢宴上准备的菜点为灵感制成的奖章。\n选用品质上佳的嫩驮兽肉，加入醇厚的酸奶与风味芥末一同慢炖，将驮兽肉蘸取浓厚酱汁食用。菜品发源于乌萨斯的贵族阶层，以其层次丰富的风味和鲜嫩的口感而广受欢迎，搭配主食之后更是乌萨斯日常饮食中和宴席上的招牌菜品之一。"
     },
     {
       "medalId": "medal_hidden_story_lolxh_1",
       "medalName": "“夜游船”",
       "medalType": "hiddenMedal",
       "slotId": 25,
-      "preMedalIdList": [],
       "rarity": "T1",
       "template": "CharStoryUnlock",
       "unlockParam": [
@@ -37200,7 +37518,7 @@
         "story_lolxh_set_1"
       ],
       "getMethod": "解锁干员罗小黑的干员密录《夜游船》",
-      "description": "师父教的，小黑都学得很好。",
+      "originMedal": null,
       "displayTime": 1663228800,
       "expireTimes": [
         {
@@ -37210,21 +37528,22 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "师父教的，小黑都学得很好。"
     },
     {
       "medalId": "medal_hidden_13mini_01",
       "medalName": "“没错，我要带它回家！”",
       "medalType": "hiddenMedal",
       "slotId": 26,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "UnlockStoryGroup",
       "unlockParam": [
         "act13mini"
       ],
       "getMethod": "解锁好久不见的全部故事",
-      "description": "你们相遇的那一天一定很特殊，所以每日每夜都要在你脑海里播一遍。\n只是因为那一天，你遇见了它，它遇见了你，从此你有了它，它有了家。",
+      "originMedal": null,
       "displayTime": 1663228800,
       "expireTimes": [
         {
@@ -37234,14 +37553,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "你们相遇的那一天一定很特殊，所以每日每夜都要在你脑海里播一遍。\n只是因为那一天，你遇见了它，它遇见了你，从此你有了它，它有了家。"
     },
     {
       "medalId": "medal_hidden_13mini_02",
       "medalName": "“小黑”",
       "medalType": "hiddenMedal",
       "slotId": 27,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "GotCharsBeforeTime",
       "unlockParam": [
@@ -37249,7 +37569,7 @@
         "1664049599"
       ],
       "getMethod": "好久不见活动期间内，获得干员罗小黑",
-      "description": "你遇到了一个在陌生环境中感到紧张的孩子。\n犹豫半天，他终于拉住你伸出的手，从他手心传来的温度让你不禁微笑。",
+      "originMedal": null,
       "displayTime": 1663228800,
       "expireTimes": [
         {
@@ -37264,14 +37584,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "你遇到了一个在陌生环境中感到紧张的孩子。\n犹豫半天，他终于拉住你伸出的手，从他手心传来的温度让你不禁微笑。"
     },
     {
       "medalId": "medal_hidden_24side_01",
       "medalName": "“艾露猫们的感谢状”",
       "medalType": "hiddenMedal",
       "slotId": 28,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "GotCharsBeforeTime",
       "unlockParam": [
@@ -37279,7 +37600,7 @@
         "1782676799"
       ],
       "getMethod": "落叶逐火活动期间，获得干员泰拉大陆调查团",
-      "description": "您为来到泰拉的艾露猫们提供了罗德岛上的工作。\n“看在您给了我们工作机会的份上……感谢您喵！”",
+      "originMedal": null,
       "displayTime": 1678161600,
       "expireTimes": [
         {
@@ -37299,14 +37620,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "您为来到泰拉的艾露猫们提供了罗德岛上的工作。\n“看在您给了我们工作机会的份上……感谢您喵！”"
     },
     {
       "medalId": "medal_hidden_24side_02",
       "medalName": "“浴火的狩猎矛”",
       "medalType": "hiddenMedal",
       "slotId": 29,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "PassStageSome",
       "unlockParam": [
@@ -37315,7 +37637,7 @@
         "9"
       ],
       "getMethod": "落叶逐火活动期间，以3星评价完成[苍暮山地]内的全部关卡（不包含教学关与剧情关）",
-      "description": "您击退了火龙，带领露华村村民安全撤离。\n狩猎矛上残留的熔痕，讲述着您浴火激战的旅程。",
+      "originMedal": null,
       "displayTime": 1678161600,
       "expireTimes": [
         {
@@ -37335,14 +37657,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "您击退了火龙，带领露华村村民安全撤离。\n狩猎矛上残留的熔痕，讲述着您浴火激战的旅程。"
     },
     {
       "medalId": "medal_hidden_32side_01",
       "medalName": "“混乱之友”",
       "medalType": "hiddenMedal",
       "slotId": 30,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "GotCharsBeforeTime",
       "unlockParam": [
@@ -37350,7 +37673,7 @@
         "1711569600"
       ],
       "getMethod": "水晶箭行动活动期间，获得干员导火索",
-      "description": "您结识了一位在战场上制造混乱的大师。\n爆炸声刚刚传进其他人的耳朵，而他已经看到了被烟雾和砖石掩盖住的捷径。",
+      "originMedal": null,
       "displayTime": 1709784000,
       "expireTimes": [
         {
@@ -37365,14 +37688,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "您结识了一位在战场上制造混乱的大师。\n爆炸声刚刚传进其他人的耳朵，而他已经看到了被烟雾和砖石掩盖住的捷径。"
     },
     {
       "medalId": "medal_hidden_32side_02",
       "medalName": "“热辣克里斯达尔”",
       "medalType": "hiddenMedal",
       "slotId": 31,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "PassStageSome",
       "unlockParam": [
@@ -37381,7 +37705,7 @@
         "8"
       ],
       "getMethod": "水晶箭行动活动期间，以3星评价完成[展厅漫游]内的全部关卡（不包含教学关与剧情关）",
-      "description": "您光顾了一家开在艺术馆里的奇特烤肉店。\n在您的指挥之下，艺术馆免于化作一地瓦砾。顺便，据说艺术馆的上一任主人对烤肉店本身没有意见，但是非常讨厌烤肉店的名字。",
+      "originMedal": null,
       "displayTime": 1709784000,
       "expireTimes": [
         {
@@ -37396,14 +37720,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "您光顾了一家开在艺术馆里的奇特烤肉店。\n在您的指挥之下，艺术馆免于化作一地瓦砾。顺便，据说艺术馆的上一任主人对烤肉店本身没有意见，但是非常讨厌烤肉店的名字。"
     },
     {
       "medalId": "medal_hidden_36side_01",
       "medalName": "资深料理人",
       "medalType": "hiddenMedal",
       "slotId": 32,
-      "preMedalIdList": [],
       "rarity": "T2",
       "template": "GotCharsBeforeTime",
       "unlockParam": [
@@ -37411,7 +37736,7 @@
         "1727035200"
       ],
       "getMethod": "泰拉饭活动期间，获得干员森西",
-      "description": "要记得改善饮食习惯！调整生活规律！还要适当运动！\n一定要做到这三点，森西非常关心您的身体！",
+      "originMedal": null,
       "displayTime": 1725249600,
       "expireTimes": [
         {
@@ -37426,7 +37751,9 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": true
+      "isHidden": true,
+      "preMedalIdList": [],
+      "description": "要记得改善饮食习惯！调整生活规律！还要适当运动！\n一定要做到这三点，森西非常关心您的身体！"
     },
     {
       "medalId": "medal_hidden_36side_02",
@@ -39658,6 +39985,7 @@
       "medalName": "“河谷遗哨”",
       "medalType": "activityMedal",
       "slotId": 101,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountLess",
       "unlockParam": [
@@ -39667,7 +39995,7 @@
         "4"
       ],
       "getMethod": "以3星评价通关UR-8，且被女妖河谷的拂哀菈的[归于遗忘]效果击倒的干员不超过4名",
-      "originMedal": "medal_activity_47side_10",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39677,13 +40005,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_47side_10"
     },
     {
       "medalId": "medal_activity_48side_105",
       "medalName": "“冲锋！”",
       "medalType": "activityMedal",
       "slotId": 91,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleTokenCountMore",
       "unlockParam": [
@@ -39693,7 +40023,7 @@
         "3"
       ],
       "getMethod": "以3星评价通关ME-7，且帕拉杜利斯在入戏状态下冲锋并命中地形3次",
-      "originMedal": "medal_activity_48side_10",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39703,13 +40033,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_48side_10"
     },
     {
       "medalId": "medal_activity_49side_105",
       "medalName": "“人间何世”",
       "medalType": "activityMedal",
       "slotId": 81,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleCountLess",
       "unlockParam": [
@@ -39720,7 +40052,7 @@
         "2"
       ],
       "getMethod": "以3星评价通关TA-10，并且岁至少2个部位未被封印",
-      "originMedal": "medal_activity_49side_10",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39730,13 +40062,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_49side_10"
     },
     {
       "medalId": "medal_activity_act2break_055",
       "medalName": "巫术之夜攻坚奖章",
       "medalType": "activityMedal",
       "slotId": 66,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActVecBreakV2PassStageBeforeTime",
       "unlockParam": [
@@ -39746,7 +40080,7 @@
         "1772524799"
       ],
       "getMethod": "矢量突破#2：巫术之夜活动期间，完成[核心突破]内的全部关卡，且在矢量突破#2：巫术之夜开始一周内完成（2026.03.03 15:59:59前）",
-      "originMedal": "medal_activity_act2break_05",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39756,13 +40090,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_act2break_05"
     },
     {
       "medalId": "medal_activity_2autochess_055",
       "medalName": "盟约统帅奖章",
       "medalType": "activityMedal",
       "slotId": 61,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "ActivityAutoChessPassWithBandAccumulative",
       "unlockParam": [
@@ -39770,7 +40106,7 @@
         "8"
       ],
       "getMethod": "卫戍协议:盟约下半期活动期间，以8种不同的策略通关过任意模拟（不包含入门协议）",
-      "originMedal": "medal_activity_2autochess_05",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39780,13 +40116,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_2autochess_05"
     },
     {
       "medalId": "medal_activity_51side_105",
       "medalName": "“无缚”",
       "medalType": "activityMedal",
       "slotId": 56,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "PassStageWithSimpleCountLess",
       "unlockParam": [
@@ -39797,7 +40135,7 @@
         "0"
       ],
       "getMethod": "以3星评价通关PA-8，且没有干员被关押至禁闭所",
-      "originMedal": "medal_activity_51side_10",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39807,13 +40145,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_51side_10"
     },
     {
       "medalId": "medal_sandbox_2_125",
       "medalName": "战无不胜作战奖章",
       "medalType": "rogueMedal",
       "slotId": 12,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Sbv3DungeonKillEnemyType",
       "unlockParam": [
@@ -39823,17 +40163,19 @@
         "3"
       ],
       "getMethod": "在生息演算：重启锚点中，在难度3以上的待开发区里累计击败3个领袖敌人",
-      "originMedal": "medal_sandbox_2_12",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_sandbox_2_12"
     },
     {
       "medalId": "medal_stage_sixstarpoint_035",
       "medalName": "再造新生奖章",
       "medalType": "stageMedal",
       "slotId": 61,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "GainSixStarGroupPoint",
       "unlockParam": [
@@ -39841,17 +40183,19 @@
         "15"
       ],
       "getMethod": "在第十七章的沙盘推演中累计获得15分",
-      "originMedal": "medal_stage_sixstarpoint_03",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_stage_sixstarpoint_03"
     },
     {
       "medalId": "medal_activity_act1football_055",
       "medalName": "锦标攻势奖章",
       "medalType": "activityMedal",
       "slotId": 44,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "Act1FootballScores",
       "unlockParam": [
@@ -39861,7 +40205,7 @@
         "act1football_tr01"
       ],
       "getMethod": "阵地足球锦标活动期间，累计8关的净胜球数达到3（不包含教学关）",
-      "originMedal": "medal_activity_act1football_05",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39871,13 +40215,15 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_act1football_05"
     },
     {
       "medalId": "medal_activity_5crisisv2_035",
       "medalName": "涤墨合约奖章·II",
       "medalType": "activityMedal",
       "slotId": 32,
+      "preMedalIdList": null,
       "rarity": "T2D5",
       "template": "CrisisV2DimScoreTotal",
       "unlockParam": [
@@ -39887,7 +40233,7 @@
         "620"
       ],
       "getMethod": "涤墨作战期间，主测试地总分达到620分",
-      "originMedal": "medal_activity_5crisisv2_03",
+      "description": null,
       "displayTime": -1,
       "expireTimes": [
         {
@@ -39897,7 +40243,8 @@
         }
       ],
       "medalRewardGroup": [],
-      "isHidden": false
+      "isHidden": false,
+      "originMedal": "medal_activity_5crisisv2_03"
     },
     {
       "medalId": "medal_activity_2recalrune_025",
@@ -40059,6 +40406,34 @@
       "medalRewardGroup": [],
       "isHidden": false,
       "originMedal": "medal_activity_1arkhub_02"
+    },
+    {
+      "medalId": "medal_activity_act3break_055",
+      "medalName": "拟生态攻坚奖章",
+      "medalType": "activityMedal",
+      "slotId": 5,
+      "preMedalIdList": null,
+      "rarity": "T2D5",
+      "template": "ActVecBreakV2PassStageWithBuff",
+      "unlockParam": [
+        "3",
+        "act3break_01;act3break_02;act3break_03;act3break_04;act3break_05;act3break_06;act3break_07;act3break_08;act3break_09;act3break_10;act3break_11;act3break_12",
+        "12",
+        "act3break_rune01;act3break_rune02;act3break_rune03;act3break_rune04;act3break_rune05;act3break_rune06;act3break_rune07;act3break_rune08"
+      ],
+      "getMethod": "矢量突破#3：拟生态活动期间，完成[核心突破]内的全部关卡，且通关时仅携带2026.10.06 16:00:00前开放的战备补给",
+      "description": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1792699200,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false,
+      "originMedal": "medal_activity_act3break_05"
     }
   ],
   "medalTypeData": {
@@ -42024,6 +42399,33 @@
               "start": 1787947200,
               "end": -1,
               "type": "TEMP"
+            }
+          ]
+        },
+        {
+          "groupId": "medalGroupActivityAct3break",
+          "groupName": "矢量突破#3 拟生态蚀刻章套组",
+          "groupDesc": "记录着矢量突破考核测试历程的蚀刻章套组。\n您的战术布局使各组干员成功通过了复杂的作战环境的考验。无论是应对复苏的拟生物还是挑战训练官，您都进行了完美的调度指挥。",
+          "medalId": [
+            "medal_activity_act3break_01",
+            "medal_activity_act3break_02",
+            "medal_activity_act3break_03",
+            "medal_activity_act3break_04",
+            "medal_activity_act3break_05",
+            "medal_activity_act3break_06",
+            "medal_activity_act3break_07",
+            "medal_activity_act3break_08",
+            "medal_activity_act3break_09",
+            "medal_activity_act3break_10"
+          ],
+          "sortId": 73,
+          "groupBackColor": "08f4fd",
+          "groupGetTime": 1790668800,
+          "sharedExpireTimes": [
+            {
+              "start": 1792699200,
+              "end": -1,
+              "type": "PERM"
             }
           ]
         }

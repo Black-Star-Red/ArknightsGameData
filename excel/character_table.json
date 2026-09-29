@@ -1472,7 +1472,7 @@
   "char_4000_jnight": {
     "name": "正义骑士号",
     "description": "优先攻击空中单位，且不受<@ba.kw>部署数量</>限制，但再部署时间极长",
-    "sortIndex": 1313,
+    "sortIndex": 1314,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": false,
     "canUseActivityPotentialItem": false,
@@ -9911,7 +9911,7 @@
   "char_514_rdfend": {
     "name": "预备干员-重装",
     "description": "能够阻挡三个敌人",
-    "sortIndex": 1253,
+    "sortIndex": 1254,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -11730,7 +11730,7 @@
   "char_507_rsnipe": {
     "name": "预备干员-狙击",
     "description": "优先攻击空中单位",
-    "sortIndex": 1246,
+    "sortIndex": 1247,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -14242,7 +14242,7 @@
   "char_505_rcast": {
     "name": "预备干员-术师",
     "description": "攻击造成<@ba.kw>法术伤害</>",
-    "sortIndex": 1249,
+    "sortIndex": 1248,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -14481,7 +14481,7 @@
   "char_278_orchid": {
     "name": "梓兰",
     "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
-    "sortIndex": 1356,
+    "sortIndex": 1357,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -15790,7 +15790,7 @@
   "char_604_ccast": {
     "name": "预备干员-术师",
     "description": "攻击造成<@ba.kw>法术伤害</>",
-    "sortIndex": 1248,
+    "sortIndex": 1249,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -21737,7 +21737,7 @@
   "char_126_shotst": {
     "name": "流星",
     "description": "优先攻击空中单位",
-    "sortIndex": 633,
+    "sortIndex": 634,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -24055,7 +24055,7 @@
   "char_603_csnipe": {
     "name": "预备干员-狙击",
     "description": "优先攻击空中单位",
-    "sortIndex": 1247,
+    "sortIndex": 1246,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -55184,7 +55184,7 @@
   "char_602_cdfend": {
     "name": "预备干员-重装",
     "description": "能够阻挡三个敌人",
-    "sortIndex": 1254,
+    "sortIndex": 1253,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -71125,7 +71125,7 @@
   "char_4023_rfalcn": {
     "name": "红隼",
     "description": "能够阻挡两个敌人",
-    "sortIndex": 385,
+    "sortIndex": 386,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -88207,7 +88207,7 @@
   "char_508_aguard": {
     "name": "Sharp",
     "description": "能够阻挡一个敌人",
-    "sortIndex": 846,
+    "sortIndex": 845,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -90195,7 +90195,7 @@
   "char_415_flint": {
     "name": "燧石",
     "description": "能够阻挡一个敌人",
-    "sortIndex": 943,
+    "sortIndex": 942,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -95778,7 +95778,7 @@
   "char_459_tachak": {
     "name": "战车",
     "description": "普通攻击连续造成<@ba.kw>两次</>伤害",
-    "sortIndex": 1287,
+    "sortIndex": 1288,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -100578,7 +100578,7 @@
   "char_333_sidero": {
     "name": "铸铁",
     "description": "攻击造成<@ba.kw>法术伤害</>",
-    "sortIndex": 1354,
+    "sortIndex": 1355,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -112329,7 +112329,7 @@
   "char_511_asnipe": {
     "name": "Stormeye",
     "description": "优先攻击空中单位",
-    "sortIndex": 936,
+    "sortIndex": 934,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -125545,7 +125545,7 @@
   "char_509_acast": {
     "name": "Pith",
     "description": "攻击造成<@ba.kw>群体法术伤害</>",
-    "sortIndex": 767,
+    "sortIndex": 768,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -138215,7 +138215,7 @@
   "char_4054_malist": {
     "name": "至简",
     "description": "操作<@ba.kw>浮游单元</>对敌人造成<@ba.kw>法术伤害</>\\n浮游单元连续攻击同一敌人时伤害提升（最高造成干员110%攻击力的伤害）",
-    "sortIndex": 1323,
+    "sortIndex": 1324,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -139897,7 +139897,7 @@
   "char_499_kaitou": {
     "name": "折光",
     "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素伤害</>",
-    "sortIndex": 1307,
+    "sortIndex": 1308,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -154603,7 +154603,7 @@
   "char_1024_hbisc2": {
     "name": "濯尘芙蓉",
     "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值",
-    "sortIndex": 1350,
+    "sortIndex": 1351,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -160391,7 +160391,7 @@
   "char_226_hmau": {
     "name": "吽",
     "description": "技能可以治疗友方单位",
-    "sortIndex": 380,
+    "sortIndex": 379,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -162722,7 +162722,7 @@
   "char_144_red": {
     "name": "红",
     "description": "再部署时间大幅度<@ba.kw>减少</>",
-    "sortIndex": 379,
+    "sortIndex": 380,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -170761,7 +170761,7 @@
   "char_4207_branch": {
     "name": "折桠",
     "description": "<@ba.kw>无法</>被友方角色治疗",
-    "sortIndex": 1319,
+    "sortIndex": 1320,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -174395,7 +174395,7 @@
   "char_457_blitz": {
     "name": "闪击",
     "description": "能够阻挡三个敌人，可以进行远程攻击",
-    "sortIndex": 840,
+    "sortIndex": 839,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -183985,7 +183985,7 @@
   "char_4014_lunacu": {
     "name": "子月",
     "description": "优先攻击攻击范围内<@ba.kw>防御力最低</>的敌方单位",
-    "sortIndex": 1361,
+    "sortIndex": 1362,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -196050,7 +196050,7 @@
   "char_195_glassb": {
     "name": "真理",
     "description": "攻击造成<@ba.kw>法术伤害</>，并对敌人造成短暂的<$ba.sluggish>停顿</>",
-    "sortIndex": 1316,
+    "sortIndex": 1317,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -226865,7 +226865,7 @@
   "char_611_acnipe": {
     "name": "Stormeye",
     "description": "优先攻击空中单位",
-    "sortIndex": 934,
+    "sortIndex": 935,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -234016,7 +234016,7 @@
   "char_197_poca": {
     "name": "早露",
     "description": "优先攻击重量最重的敌人",
-    "sortIndex": 1279,
+    "sortIndex": 1280,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -259663,7 +259663,7 @@
   "char_612_accast": {
     "name": "Pith",
     "description": "攻击造成<@ba.kw>群体法术伤害</>",
-    "sortIndex": 768,
+    "sortIndex": 767,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -260205,7 +260205,7 @@
   "char_472_pasngr": {
     "name": "异客",
     "description": "攻击造成<@ba.kw>法术伤害</>，且会在<@ba.kw>3</>个敌人间跳跃，每次跳跃伤害降低15%并造成短暂<$ba.sluggish>停顿</>",
-    "sortIndex": 1177,
+    "sortIndex": 1178,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -268962,7 +268962,7 @@
   "char_1040_blaze2": {
     "name": "烛煌",
     "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素伤害</>",
-    "sortIndex": 1347,
+    "sortIndex": 1348,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -269937,7 +269937,7 @@
   "char_4204_mantra": {
     "name": "真言",
     "description": "攻击造成<@ba.kw>法术伤害</>，可以造成<@ba.kw>元素伤害</>",
-    "sortIndex": 1318,
+    "sortIndex": 1319,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -277707,7 +277707,7 @@
   "char_1012_skadi2": {
     "name": "浊心斯卡蒂",
     "description": "不攻击，持续恢复范围内所有友军<@ba.kw>生命</>（每秒恢复相当于自身攻击力10%的生命），自身不受<$ba.inspire>鼓舞</>影响",
-    "sortIndex": 1353,
+    "sortIndex": 1354,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -321692,7 +321692,7 @@
   "char_416_zumama": {
     "name": "森蚺",
     "description": "只有阻挡敌人时才能够回复技力",
-    "sortIndex": 830,
+    "sortIndex": 829,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -328322,7 +328322,7 @@
   "char_1044_hsgma2": {
     "name": "斩业星熊",
     "description": "技能开启时普通攻击会造成法术伤害",
-    "sortIndex": 1301,
+    "sortIndex": 1302,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -349867,7 +349867,7 @@
   "char_4121_zuole": {
     "name": "左乐",
     "description": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身<@ba.kw>{value}</>生命",
-    "sortIndex": 1369,
+    "sortIndex": 1370,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352665,7 +352665,7 @@
   "char_4011_lessng": {
     "name": "止颂",
     "description": "能够阻挡一个敌人",
-    "sortIndex": 1336,
+    "sortIndex": 1337,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": true,
@@ -353548,7 +353548,7 @@
   "char_609_acguad": {
     "name": "Sharp",
     "description": "能够阻挡一个敌人",
-    "sortIndex": 845,
+    "sortIndex": 846,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -362524,7 +362524,7 @@
   "token_10006_vodfox_doll": {
     "name": "诅咒娃娃",
     "description": "不会受到攻击",
-    "sortIndex": 1373,
+    "sortIndex": 1374,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -371555,7 +371555,7 @@
   "token_10022_kazema_shadow": {
     "name": "纸偶",
     "description": "不阻挡敌人",
-    "sortIndex": 1332,
+    "sortIndex": 1333,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -374812,7 +374812,7 @@
   "token_10027_ironmn_pile1": {
     "name": "白铁™多功能平台",
     "description": "不会受到攻击",
-    "sortIndex": 41,
+    "sortIndex": 40,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375272,7 +375272,7 @@
   "token_10027_ironmn_pile2": {
     "name": "白铁™多功能平台",
     "description": "不会受到攻击",
-    "sortIndex": 40,
+    "sortIndex": 41,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377219,7 +377219,7 @@
   "token_10030_mlyss_wtrman": {
     "name": "流形",
     "description": "初始攻击造成<@ba.kw>法术伤害</>，只能部署在召唤者攻击范围内",
-    "sortIndex": 634,
+    "sortIndex": 633,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -382866,7 +382866,7 @@
   "token_10050_monstr_prosts": {
     "name": "重构体",
     "description": "自身生命会不断流失",
-    "sortIndex": 1337,
+    "sortIndex": 1338,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385153,7 +385153,7 @@
   "token_10057_svash2_eagle2": {
     "name": "风雪之眼",
     "description": "凛御银灰在场时添加至待部署区。部署费用随凛御银灰的技能而变化",
-    "sortIndex": 285,
+    "sortIndex": 286,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385565,7 +385565,7 @@
   "token_10057_svash2_eagle3": {
     "name": "风雪之眼",
     "description": "凛御银灰在场时添加至待部署区。部署费用随凛御银灰的技能而变化",
-    "sortIndex": 286,
+    "sortIndex": 285,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386439,7 +386439,7 @@
   "token_10059_nasti_nstdef": {
     "name": "“质检专员”",
     "description": "不会受到攻击，可部署在地面或高台位",
-    "sortIndex": 1324,
+    "sortIndex": 1325,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -388947,7 +388947,7 @@
   "token_10068_kalts2_mtship": {
     "name": "战术锚点",
     "description": "不会受到攻击，仅可以部署在凯尔希·思衡托攻击范围外的远程位",
-    "sortIndex": 1297,
+    "sortIndex": 1298,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -389431,7 +389431,7 @@
   "token_10066_closur_ourbase": {
     "name": "指挥中心",
     "description": "不攻击，能够阻挡两个敌人，只能部署在召唤者攻击范围内",
-    "sortIndex": 1322,
+    "sortIndex": 1323,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -390523,7 +390523,7 @@
   "token_10070_aphris_pc": {
     "name": "中继器",
     "description": "不会受到攻击，可部署在地面或高台位",
-    "sortIndex": 1338,
+    "sortIndex": 1339,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -391449,7 +391449,7 @@
   },
   "trap_001_crate": {
     "name": "障碍物",
-    "sortIndex": 1292,
+    "sortIndex": 1293,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -391551,7 +391551,7 @@
   },
   "trap_002_emp": {
     "name": "震撼装置",
-    "sortIndex": 1315,
+    "sortIndex": 1316,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -391653,7 +391653,7 @@
   },
   "trap_003_gate": {
     "name": "闸门",
-    "sortIndex": 1281,
+    "sortIndex": 1282,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -391755,7 +391755,7 @@
   },
   "trap_005_sensor": {
     "name": "侦测器",
-    "sortIndex": 1308,
+    "sortIndex": 1309,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -392063,7 +392063,7 @@
   "trap_008_farm": {
     "name": "指挥终端",
     "description": "被摧毁时扣除1点关卡生命值",
-    "sortIndex": 1321,
+    "sortIndex": 1322,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -392312,7 +392312,7 @@
   },
   "trap_010_frosts": {
     "name": "源石冰晶",
-    "sortIndex": 1226,
+    "sortIndex": 1227,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -392748,7 +392748,7 @@
   "trap_014_tower": {
     "name": "L-44\"留声机\"",
     "description": "优先攻击生命上限最高的单位",
-    "sortIndex": 637,
+    "sortIndex": 638,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -393249,7 +393249,7 @@
   "trap_019_electric": {
     "name": "梅什科线圈",
     "description": "攻击范围内存在其他梅什科线圈时获得激活效果",
-    "sortIndex": 674,
+    "sortIndex": 675,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -394077,7 +394077,7 @@
   "trap_027_stone": {
     "name": "碎石",
     "description": "改变敌人行径路线",
-    "sortIndex": 942,
+    "sortIndex": 943,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -395546,7 +395546,7 @@
   "trap_039_dstnta": {
     "name": "子代",
     "description": "<幼体>形态时<$ba.invisible>隐匿</>，之后解除<$ba.invisible>隐匿</>并<摄食>周围目标；可以受到我方攻击",
-    "sortIndex": 1355,
+    "sortIndex": 1356,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -395888,7 +395888,7 @@
   },
   "trap_042_tidectrl": {
     "name": "涨潮控制",
-    "sortIndex": 1294,
+    "sortIndex": 1295,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -396134,7 +396134,7 @@
   "trap_044_duruin": {
     "name": "战场废墟",
     "description": "改变敌人的行进路线",
-    "sortIndex": 1284,
+    "sortIndex": 1285,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -397239,7 +397239,7 @@
   },
   "trap_055_tileblock": {
     "name": "封印的地面",
-    "sortIndex": 289,
+    "sortIndex": 288,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398563,7 +398563,7 @@
   },
   "trap_069_buffcard": {
     "name": "战备激活阀",
-    "sortIndex": 1283,
+    "sortIndex": 1284,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -399867,7 +399867,7 @@
   },
   "trap_080_garage": {
     "name": "自走车出发点",
-    "sortIndex": 1362,
+    "sortIndex": 1363,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -399977,7 +399977,7 @@
   },
   "trap_081_turngear": {
     "name": "自走车单行道",
-    "sortIndex": 1363,
+    "sortIndex": 1364,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -406409,7 +406409,7 @@
   },
   "trap_066_rarebox": {
     "name": "尖刺宝箱",
-    "sortIndex": 428,
+    "sortIndex": 429,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -407176,7 +407176,7 @@
   },
   "trap_088_dice2": {
     "name": "8面骰子",
-    "sortIndex": 682,
+    "sortIndex": 683,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -407338,7 +407338,7 @@
   },
   "trap_089_dice3": {
     "name": "12面骰子",
-    "sortIndex": 683,
+    "sortIndex": 682,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408273,7 +408273,7 @@
   },
   "trap_098_mire": {
     "name": "沼泽控制",
-    "sortIndex": 1302,
+    "sortIndex": 1303,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409057,7 +409057,7 @@
   },
   "trap_102_mhwrbg": {
     "name": "滞空牵引无人机",
-    "sortIndex": 1326,
+    "sortIndex": 1327,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409176,7 +409176,7 @@
   },
   "trap_105_mhwrct": {
     "name": "滞空牵引无人机",
-    "sortIndex": 1325,
+    "sortIndex": 1326,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409604,7 +409604,7 @@
   },
   "trap_108_smbox": {
     "name": "宝箱",
-    "sortIndex": 57,
+    "sortIndex": 56,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409706,7 +409706,7 @@
   },
   "trap_109_smrbox": {
     "name": "尖刺宝箱",
-    "sortIndex": 429,
+    "sortIndex": 428,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409933,7 +409933,7 @@
   },
   "trap_700_cdabyss": {
     "name": "阿戈尔示波器",
-    "sortIndex": 1,
+    "sortIndex": 3,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410064,7 +410064,7 @@
   },
   "trap_701_cdabyssa": {
     "name": "阿戈尔示波器",
-    "sortIndex": 3,
+    "sortIndex": 2,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410195,7 +410195,7 @@
   },
   "trap_702_cdabyssb": {
     "name": "阿戈尔示波器",
-    "sortIndex": 2,
+    "sortIndex": 1,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410326,7 +410326,7 @@
   },
   "trap_703_cdcredit": {
     "name": "自适应补给元件",
-    "sortIndex": 1359,
+    "sortIndex": 1360,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410448,7 +410448,7 @@
   },
   "trap_704_cdcredita": {
     "name": "自适应补给元件",
-    "sortIndex": 1358,
+    "sortIndex": 1359,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410570,7 +410570,7 @@
   },
   "trap_705_cdcreditb": {
     "name": "自适应补给元件",
-    "sortIndex": 1357,
+    "sortIndex": 1358,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410818,7 +410818,7 @@
   },
   "trap_707_cdshielda": {
     "name": "重整导能组件",
-    "sortIndex": 1340,
+    "sortIndex": 1341,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -411186,7 +411186,7 @@
   },
   "trap_710_cdbeacona": {
     "name": "阻断波长",
-    "sortIndex": 1365,
+    "sortIndex": 1366,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412587,7 +412587,7 @@
   "trap_409_xbwood": {
     "name": "杂木林",
     "description": "可开采资源",
-    "sortIndex": 1274,
+    "sortIndex": 1276,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412707,7 +412707,7 @@
   "trap_410_xbstone": {
     "name": "巨大岩石",
     "description": "可开采资源",
-    "sortIndex": 531,
+    "sortIndex": 530,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412827,7 +412827,7 @@
   "trap_411_xbiron": {
     "name": "奇异矿脉",
     "description": "可开采资源",
-    "sortIndex": 794,
+    "sortIndex": 793,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -413281,7 +413281,7 @@
   "trap_416_gtreasure": {
     "name": "埋没金属箱",
     "description": "击破后可获得一些宝物",
-    "sortIndex": 663,
+    "sortIndex": 661,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -414167,7 +414167,7 @@
   "trap_427_xbprsh": {
     "name": "资源规划站",
     "description": "可部署在低地",
-    "sortIndex": 1360,
+    "sortIndex": 1361,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -415284,7 +415284,7 @@
   "trap_403_wfactory": {
     "name": "蟹蟹抽水泵",
     "description": "可部署在<清澈水域>地块上",
-    "sortIndex": 1072,
+    "sortIndex": 1073,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -417936,7 +417936,7 @@
   },
   "trap_121_gractrl": {
     "name": "重力",
-    "sortIndex": 1339,
+    "sortIndex": 1340,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418039,7 +418039,7 @@
   "trap_714_cdaltar": {
     "name": "能量扰动放大器",
     "description": "高低地都可部署",
-    "sortIndex": 728,
+    "sortIndex": 730,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418143,7 +418143,7 @@
   "trap_715_cdaltara": {
     "name": "能量扰动放大器",
     "description": "高低地都可部署",
-    "sortIndex": 729,
+    "sortIndex": 728,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418247,7 +418247,7 @@
   "trap_716_cdaltarb": {
     "name": "能量扰动放大器",
     "description": "高低地都可部署",
-    "sortIndex": 730,
+    "sortIndex": 729,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418350,7 +418350,7 @@
   },
   "trap_717_cddiff": {
     "name": "战术装备整理箱",
-    "sortIndex": 1299,
+    "sortIndex": 1301,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418453,7 +418453,7 @@
   },
   "trap_718_cddiffa": {
     "name": "战术装备整理箱",
-    "sortIndex": 1298,
+    "sortIndex": 1299,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418762,7 +418762,7 @@
   },
   "trap_721_cdheala": {
     "name": "便携式医疗设备",
-    "sortIndex": 79,
+    "sortIndex": 80,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418865,7 +418865,7 @@
   },
   "trap_722_cdhealb": {
     "name": "便携式医疗设备",
-    "sortIndex": 80,
+    "sortIndex": 79,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -418968,7 +418968,7 @@
   },
   "trap_723_cdcvrt": {
     "name": "溢能回收转化器",
-    "sortIndex": 1183,
+    "sortIndex": 1185,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -419106,7 +419106,7 @@
   },
   "trap_724_cdcvrta": {
     "name": "溢能回收转化器",
-    "sortIndex": 1184,
+    "sortIndex": 1183,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -419244,7 +419244,7 @@
   },
   "trap_725_cdcvrtb": {
     "name": "溢能回收转化器",
-    "sortIndex": 1185,
+    "sortIndex": 1184,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -419503,7 +419503,7 @@
   "trap_727_cdronea": {
     "name": "战地援护无人机",
     "description": "高低地都可部署",
-    "sortIndex": 1288,
+    "sortIndex": 1291,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -419742,7 +419742,7 @@
   },
   "trap_729_cdkzmr": {
     "name": "竞技记录分析仪",
-    "sortIndex": 499,
+    "sortIndex": 500,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -419861,7 +419861,7 @@
   },
   "trap_733_cdkzmra": {
     "name": "竞技记录分析仪",
-    "sortIndex": 498,
+    "sortIndex": 499,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -419980,7 +419980,7 @@
   },
   "trap_734_cdkzmrb": {
     "name": "竞技记录分析仪",
-    "sortIndex": 500,
+    "sortIndex": 498,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -420930,7 +420930,7 @@
   },
   "trap_126_outset": {
     "name": "炸弹载荷点",
-    "sortIndex": 1280,
+    "sortIndex": 1281,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -421580,7 +421580,7 @@
   },
   "trap_131_toolgun": {
     "name": "战场装置LUD-99X",
-    "sortIndex": 1286,
+    "sortIndex": 1287,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -422665,7 +422665,7 @@
   },
   "trap_736_mercha": {
     "name": "可充能督战音响",
-    "sortIndex": 555,
+    "sortIndex": 554,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -422897,7 +422897,7 @@
   },
   "trap_738_merchab": {
     "name": "可充能督战音响",
-    "sortIndex": 554,
+    "sortIndex": 555,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -423013,7 +423013,7 @@
   },
   "trap_739_sniper": {
     "name": "智能空域控制机",
-    "sortIndex": 1331,
+    "sortIndex": 1330,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -423157,7 +423157,7 @@
   },
   "trap_740_snipera": {
     "name": "智能空域控制机",
-    "sortIndex": 1330,
+    "sortIndex": 1331,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -423301,7 +423301,7 @@
   },
   "trap_741_sniperb": {
     "name": "智能空域控制机",
-    "sortIndex": 1329,
+    "sortIndex": 1332,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -423445,7 +423445,7 @@
   },
   "trap_742_gasbot": {
     "name": "速冷喷雾发射台",
-    "sortIndex": 945,
+    "sortIndex": 947,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -423583,7 +423583,7 @@
   },
   "trap_743_gasbota": {
     "name": "速冷喷雾发射台",
-    "sortIndex": 947,
+    "sortIndex": 946,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -423721,7 +423721,7 @@
   },
   "trap_744_gasbotb": {
     "name": "速冷喷雾发射台",
-    "sortIndex": 946,
+    "sortIndex": 945,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -424022,7 +424022,7 @@
   },
   "trap_747_cdrhinea": {
     "name": "尖端研究成果共享终端",
-    "sortIndex": 431,
+    "sortIndex": 430,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -424176,7 +424176,7 @@
   },
   "trap_748_cdrhineb": {
     "name": "尖端研究成果共享终端",
-    "sortIndex": 430,
+    "sortIndex": 431,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -424330,7 +424330,7 @@
   },
   "trap_749_cd1punch": {
     "name": "声波记录扩音器",
-    "sortIndex": 852,
+    "sortIndex": 853,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -424517,7 +424517,7 @@
   },
   "trap_750_cd1puncha": {
     "name": "声波记录扩音器",
-    "sortIndex": 853,
+    "sortIndex": 854,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -424704,7 +424704,7 @@
   },
   "trap_751_cd1punchb": {
     "name": "声波记录扩音器",
-    "sortIndex": 854,
+    "sortIndex": 852,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -424917,7 +424917,7 @@
   },
   "trap_752_cdcaster": {
     "name": "法术调和能量场",
-    "sortIndex": 253,
+    "sortIndex": 254,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -425117,7 +425117,7 @@
   },
   "trap_753_cdcastera": {
     "name": "法术调和能量场",
-    "sortIndex": 252,
+    "sortIndex": 253,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -425317,7 +425317,7 @@
   },
   "trap_754_cdcasterb": {
     "name": "法术调和能量场",
-    "sortIndex": 254,
+    "sortIndex": 252,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -425881,7 +425881,7 @@
   },
   "trap_139_dhtl": {
     "name": "阻流阀",
-    "sortIndex": 1367,
+    "sortIndex": 1368,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -426708,7 +426708,7 @@
   },
   "trap_443_xbtent": {
     "name": "作战中心",
-    "sortIndex": 1370,
+    "sortIndex": 1371,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -428515,7 +428515,7 @@
   },
   "trap_452_xbcage": {
     "name": "捕猎笼",
-    "sortIndex": 116,
+    "sortIndex": 117,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -429107,7 +429107,7 @@
   },
   "trap_456_xbfarmm": {
     "name": "种植箱集群\n",
-    "sortIndex": 1341,
+    "sortIndex": 1342,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -429907,7 +429907,7 @@
   },
   "trap_460_xbdiam": {
     "name": "澄亮矿脉",
-    "sortIndex": 144,
+    "sortIndex": 145,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -430691,7 +430691,7 @@
   },
   "trap_466_tzumama": {
     "name": "森蚺",
-    "sortIndex": 829,
+    "sortIndex": 830,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -431000,7 +431000,7 @@
   },
   "trap_469_tpasngr": {
     "name": "异客",
-    "sortIndex": 1178,
+    "sortIndex": 1177,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -431309,7 +431309,7 @@
   },
   "trap_472_tfalco": {
     "name": "红隼",
-    "sortIndex": 386,
+    "sortIndex": 385,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -431626,7 +431626,7 @@
   },
   "trap_475_xbcbag": {
     "name": "猎获笼",
-    "sortIndex": 606,
+    "sortIndex": 607,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -432260,7 +432260,7 @@
   "trap_481_gtreasureb": {
     "name": "埋没金属箱",
     "description": "击破后可获得一些宝物",
-    "sortIndex": 662,
+    "sortIndex": 660,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -433717,7 +433717,7 @@
   },
   "trap_163_foolcrate": {
     "name": "障碍物",
-    "sortIndex": 1291,
+    "sortIndex": 1294,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -434046,7 +434046,7 @@
   "trap_151_muruinw": {
     "name": "折叠式堡垒模块",
     "description": "经过<折叠设施维护员>维护后方可生效",
-    "sortIndex": 1303,
+    "sortIndex": 1304,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -434178,7 +434178,7 @@
   "trap_152_muruino": {
     "name": "折叠式辅助器械",
     "description": "经过<折叠设施维护员>维护后方可生效",
-    "sortIndex": 1304,
+    "sortIndex": 1305,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -434305,7 +434305,7 @@
   "trap_154_mugtps": {
     "name": "阵地屏障",
     "description": "可以反弹<足球>",
-    "sortIndex": 1310,
+    "sortIndex": 1311,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -434423,7 +434423,7 @@
   "trap_165_muftbl": {
     "name": "足球",
     "description": "可部署至场上以重新发球",
-    "sortIndex": 1372,
+    "sortIndex": 1373,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -434681,7 +434681,7 @@
   "trap_167_muruinf": {
     "name": "折叠式维护车",
     "description": "经过<折叠设施维护员>维护后方可生效",
-    "sortIndex": 1306,
+    "sortIndex": 1307,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -434815,7 +434815,7 @@
   "trap_169_muruinb": {
     "name": "折叠式后勤站",
     "description": "经过<折叠设施维护员>维护后方可生效",
-    "sortIndex": 1305,
+    "sortIndex": 1306,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -435866,7 +435866,7 @@
   },
   "trap_164_lrsiege": {
     "name": "振奋荣光",
-    "sortIndex": 1311,
+    "sortIndex": 1312,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -436232,7 +436232,7 @@
   },
   "trap_156_dsshell": {
     "name": "赘生甲壳",
-    "sortIndex": 1349,
+    "sortIndex": 1350,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -436480,7 +436480,7 @@
   },
   "trap_180_dsblock": {
     "name": "封印的地面",
-    "sortIndex": 290,
+    "sortIndex": 289,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -436573,7 +436573,7 @@
   },
   "trap_757_skzbox": {
     "name": "宝箱",
-    "sortIndex": 55,
+    "sortIndex": 54,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -436993,7 +436993,7 @@
   },
   "trap_761_skzthx": {
     "name": "尊主的残影",
-    "sortIndex": 1368,
+    "sortIndex": 1369,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -437657,7 +437657,7 @@
   "trap_766_duelwal": {
     "name": "狭路相逢",
     "description": "可部署近战与远程干员",
-    "sortIndex": 1045,
+    "sortIndex": 1044,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -437851,7 +437851,7 @@
   },
   "trap_767_duelcdt": {
     "name": "狭路相逢",
-    "sortIndex": 1044,
+    "sortIndex": 1045,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -438233,7 +438233,7 @@
   "trap_183_sheltk": {
     "name": "作战专用掩体",
     "description": "不会被敌人远程攻击",
-    "sortIndex": 1371,
+    "sortIndex": 1372,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -438961,7 +438961,7 @@
   },
   "trap_772_bqrngea": {
     "name": "专业显示模块",
-    "sortIndex": 1345,
+    "sortIndex": 1346,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -439533,7 +439533,7 @@
   },
   "trap_776_bqmleeb": {
     "name": "长距增运改装",
-    "sortIndex": 1295,
+    "sortIndex": 1296,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -439681,7 +439681,7 @@
   },
   "trap_493_xbabal": {
     "name": "追猎发射台",
-    "sortIndex": 1348,
+    "sortIndex": 1349,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -442672,7 +442672,7 @@
   },
   "trap_172_trbox": {
     "name": "“宝箱”",
-    "sortIndex": 54,
+    "sortIndex": 57,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -443468,7 +443468,7 @@
   },
   "trap_178_trrbox": {
     "name": "“宝箱”",
-    "sortIndex": 56,
+    "sortIndex": 55,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -445059,7 +445059,7 @@
   },
   "trap_1007_acarm007": {
     "name": "源石溶剂",
-    "sortIndex": 1238,
+    "sortIndex": 1237,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -445171,7 +445171,7 @@
   },
   "trap_1008_acarm008": {
     "name": "激光发射器",
-    "sortIndex": 482,
+    "sortIndex": 483,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -445731,7 +445731,7 @@
   },
   "trap_1013_acarm013": {
     "name": "蜂鸣器",
-    "sortIndex": 279,
+    "sortIndex": 278,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -445843,7 +445843,7 @@
   },
   "trap_1014_acarm014": {
     "name": "精打细算玩偶",
-    "sortIndex": 491,
+    "sortIndex": 492,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -446179,7 +446179,7 @@
   },
   "trap_1017_acarm017": {
     "name": "战场分析仪",
-    "sortIndex": 1285,
+    "sortIndex": 1286,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -446291,7 +446291,7 @@
   },
   "trap_1018_acarm018": {
     "name": "震撼弹",
-    "sortIndex": 1314,
+    "sortIndex": 1315,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -446403,7 +446403,7 @@
   },
   "trap_1019_acarm019": {
     "name": "制式重装盾",
-    "sortIndex": 1335,
+    "sortIndex": 1336,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -446515,7 +446515,7 @@
   },
   "trap_1020_acarm020": {
     "name": "制式狙击镜",
-    "sortIndex": 1333,
+    "sortIndex": 1334,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -446627,7 +446627,7 @@
   },
   "trap_1021_acarm021": {
     "name": "制式术师杖",
-    "sortIndex": 1334,
+    "sortIndex": 1335,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -447075,7 +447075,7 @@
   },
   "trap_1025_acarm025": {
     "name": "休眠子裔",
-    "sortIndex": 1095,
+    "sortIndex": 1094,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -447971,7 +447971,7 @@
   },
   "trap_1033_acarm033": {
     "name": "歌利亚头盔",
-    "sortIndex": 327,
+    "sortIndex": 328,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -448419,7 +448419,7 @@
   },
   "trap_1037_acarm037": {
     "name": "有限加速器",
-    "sortIndex": 1218,
+    "sortIndex": 1219,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -448643,7 +448643,7 @@
   },
   "trap_1039_acarm039": {
     "name": "博士投影",
-    "sortIndex": 100,
+    "sortIndex": 99,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -451467,7 +451467,7 @@
   "trap_778_giatow": {
     "name": "L-44\"留声机\"",
     "description": "优先攻击生命上限最高的单位",
-    "sortIndex": 638,
+    "sortIndex": 637,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -456936,7 +456936,7 @@
   },
   "trap_239_dyffgd": {
     "name": "狭路相逢",
-    "sortIndex": 1046,
+    "sortIndex": 1047,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -457064,7 +457064,7 @@
   },
   "trap_240_dyffdd": {
     "name": "狭路相逢",
-    "sortIndex": 1047,
+    "sortIndex": 1046,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -459082,7 +459082,7 @@
   },
   "trap_214_dqballis": {
     "name": "弩炮",
-    "sortIndex": 749,
+    "sortIndex": 747,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -459287,7 +459287,7 @@
   "trap_216_dqelec": {
     "name": "梅什科线圈",
     "description": "攻击范围内存在其他梅什科线圈时获得激活效果",
-    "sortIndex": 675,
+    "sortIndex": 673,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -461126,7 +461126,7 @@
   },
   "trap_255_pckzhn": {
     "name": "“斩”",
-    "sortIndex": 1282,
+    "sortIndex": 1283,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -461515,7 +461515,7 @@
   },
   "trap_272_nomstn": {
     "name": "阻道岩壁",
-    "sortIndex": 1364,
+    "sortIndex": 1365,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -464033,7 +464033,7 @@
   },
   "trap_1517_lhcol": {
     "name": "藏书馆",
-    "sortIndex": 1278,
+    "sortIndex": 1279,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -464791,7 +464791,7 @@
   },
   "trap_1523_lhtown": {
     "name": "侦测中心",
-    "sortIndex": 1309,
+    "sortIndex": 1310,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -464921,7 +464921,7 @@
   },
   "trap_1524_lhport": {
     "name": "装卸机",
-    "sortIndex": 1344,
+    "sortIndex": 1345,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -467263,7 +467263,7 @@
   },
   "trap_1042_acarm042": {
     "name": "灼燃维式重锤",
-    "sortIndex": 1351,
+    "sortIndex": 1352,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -467599,7 +467599,7 @@
   },
   "trap_1045_acarm045": {
     "name": "战栗维式重锤",
-    "sortIndex": 1296,
+    "sortIndex": 1297,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -468047,7 +468047,7 @@
   },
   "trap_1049_acarm049": {
     "name": "歌利亚头盔",
-    "sortIndex": 328,
+    "sortIndex": 327,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -468383,7 +468383,7 @@
   },
   "trap_1052_acarm052": {
     "name": "有限加速器",
-    "sortIndex": 1219,
+    "sortIndex": 1218,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -468495,7 +468495,7 @@
   },
   "trap_1053_acarm053": {
     "name": "激光发射器",
-    "sortIndex": 483,
+    "sortIndex": 482,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -468607,7 +468607,7 @@
   },
   "trap_1054_acarm054": {
     "name": "蜂鸣器",
-    "sortIndex": 278,
+    "sortIndex": 279,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -469839,7 +469839,7 @@
   },
   "trap_1065_acarm065": {
     "name": "休眠子裔",
-    "sortIndex": 1094,
+    "sortIndex": 1095,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -470547,7 +470547,7 @@
   },
   "trap_1071_acarm071": {
     "name": "博士投影",
-    "sortIndex": 99,
+    "sortIndex": 100,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -471497,7 +471497,7 @@
   },
   "trap_1079_acarm079": {
     "name": "蒸汽之心",
-    "sortIndex": 1312,
+    "sortIndex": 1313,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -471936,7 +471936,7 @@
   },
   "trap_1105_accrate": {
     "name": "阻隔工事",
-    "sortIndex": 1366,
+    "sortIndex": 1367,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -472158,7 +472158,7 @@
   },
   "trap_1107_acblock": {
     "name": "封印的地面",
-    "sortIndex": 288,
+    "sortIndex": 290,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -475202,7 +475202,7 @@
   },
   "trap_792_healbf": {
     "name": "“主动脉”支援系统",
-    "sortIndex": 1346,
+    "sortIndex": 1347,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -475695,7 +475695,7 @@
   "trap_285_tjggt": {
     "name": "山脊",
     "description": "可以部署高台干员，自身不会被敌人远程攻击，使所在字格失效",
-    "sortIndex": 839,
+    "sortIndex": 840,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -476074,7 +476074,7 @@
   },
   "trap_288_sunmao": {
     "name": "镇岁柱",
-    "sortIndex": 1317,
+    "sortIndex": 1318,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -477088,7 +477088,7 @@
   },
   "trap_1113_acarm113": {
     "name": "精打细算玩偶",
-    "sortIndex": 492,
+    "sortIndex": 491,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -478432,7 +478432,7 @@
   },
   "trap_1125_acarm125": {
     "name": "源石溶剂",
-    "sortIndex": 1237,
+    "sortIndex": 1238,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -481222,7 +481222,7 @@
   "trap_515_xb2wdo": {
     "name": "杂木林",
     "description": "可以被攻击",
-    "sortIndex": 1275,
+    "sortIndex": 1277,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -481326,7 +481326,7 @@
   "trap_516_xb2wod": {
     "name": "杂木林",
     "description": "可开采<木材>",
-    "sortIndex": 1276,
+    "sortIndex": 1275,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -481469,7 +481469,7 @@
   "trap_517_xb2stn": {
     "name": "巨大岩石",
     "description": "可开采<石材>",
-    "sortIndex": 530,
+    "sortIndex": 531,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -481612,7 +481612,7 @@
   "trap_518_xb2irn": {
     "name": "奇异矿脉",
     "description": "可开采<铁矿石>",
-    "sortIndex": 793,
+    "sortIndex": 794,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -481755,7 +481755,7 @@
   "trap_519_xb2dmn": {
     "name": "澄亮矿脉",
     "description": "可开采<澄亮石>",
-    "sortIndex": 145,
+    "sortIndex": 144,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -483112,7 +483112,7 @@
   "trap_530_xb2gtr": {
     "name": "埋没金属箱",
     "description": "击破后可获得一些宝物",
-    "sortIndex": 661,
+    "sortIndex": 662,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -484200,7 +484200,7 @@
   },
   "trap_541_xb2rgw": {
     "name": "杂木林再生站",
-    "sortIndex": 1277,
+    "sortIndex": 1278,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -484510,7 +484510,7 @@
   "trap_544_xb2fmr": {
     "name": "稻谷种植槽",
     "description": "可以被攻击；周围8格内存在水地形时，美观度+4",
-    "sortIndex": 192,
+    "sortIndex": 191,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -484897,7 +484897,7 @@
   "trap_546_xb2fmr2": {
     "name": "稻谷幼苗",
     "description": "可以被治疗，每秒恢复50生命值；周围8格内存在水地形时，美观度+4",
-    "sortIndex": 190,
+    "sortIndex": 189,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -485424,7 +485424,7 @@
   "trap_550_xb2ltr": {
     "name": "引雷针",
     "description": "攻击范围内有雷击点时，将雷击点改为自身地块；自身免疫雷击伤害",
-    "sortIndex": 1200,
+    "sortIndex": 1201,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -485655,7 +485655,7 @@
   "trap_552_xb2fnc2": {
     "name": "大型兽栏",
     "description": "可以圈养大型生物和野生动物：\n角跳兽→毛线\n苔生兽→皮毛\n岩壳蟹→蟹壳碎片\n荧羽兽/啄奔羽兽→羽兽蛋\n绒绒兽/灵绒兽→粗制赤金\n落沙晶蹄兽→晶肝茸髓",
-    "sortIndex": 199,
+    "sortIndex": 198,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -485749,7 +485749,7 @@
   "trap_553_xb2wfty": {
     "name": "蟹蟹抽水泵",
     "description": "攻击范围内每有1名干员或召唤物时技力回复速度+0.5/秒（可叠加）",
-    "sortIndex": 1073,
+    "sortIndex": 1072,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -486305,7 +486305,7 @@
   "trap_558_xb2ppt": {
     "name": "清幽盆栽",
     "description": "周围4格内存在稻谷种植槽、亚麻种植槽、杂木林、巨大岩石、奇异矿脉和澄亮矿脉时，自身技力恢复速度+0.4/秒",
-    "sortIndex": 782,
+    "sortIndex": 783,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -486433,7 +486433,7 @@
   "trap_559_xb2bch": {
     "name": "简约长椅",
     "description": "周围4格内存在高台、水地形或草丛时，自身技力恢复速度+0.4/秒",
-    "sortIndex": 447,
+    "sortIndex": 448,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -486800,7 +486800,7 @@
   "trap_563_xb2bbq2": {
     "name": "制备加工厂",
     "description": "位于罗德岛采集基站攻击范围内时技力回复速度+0.5/秒",
-    "sortIndex": 1320,
+    "sortIndex": 1321,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -487950,7 +487950,7 @@
   },
   "trap_582_xb2dstr": {
     "name": "饮品供给站",
-    "sortIndex": 1205,
+    "sortIndex": 1204,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -488362,7 +488362,7 @@
   },
   "trap_586_xb2eqstr": {
     "name": "装备供给站",
-    "sortIndex": 1342,
+    "sortIndex": 1344,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -488466,7 +488466,7 @@
   "trap_587_xb2sqr": {
     "name": "迎风招展",
     "description": "使范围内的生产设施和景观建筑美观度+10",
-    "sortIndex": 1187,
+    "sortIndex": 1188,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -490087,7 +490087,7 @@
   },
   "trap_597_xb2cage": {
     "name": "捕猎笼",
-    "sortIndex": 117,
+    "sortIndex": 116,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -490343,7 +490343,7 @@
   },
   "trap_599_xb2ofmf2": {
     "name": "稻谷种植槽",
-    "sortIndex": 191,
+    "sortIndex": 192,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -490446,7 +490446,7 @@
   },
   "trap_600_xb2ofmr": {
     "name": "稻谷幼苗",
-    "sortIndex": 189,
+    "sortIndex": 190,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -490755,7 +490755,7 @@
   },
   "trap_603_xb2ofnc2": {
     "name": "大型兽栏",
-    "sortIndex": 198,
+    "sortIndex": 199,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -492135,7 +492135,7 @@
   },
   "trap_608_xb2ostr": {
     "name": "饮品供给站",
-    "sortIndex": 1204,
+    "sortIndex": 1205,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -492877,7 +492877,7 @@
   },
   "trap_611_xb2oppt": {
     "name": "清幽盆栽",
-    "sortIndex": 783,
+    "sortIndex": 782,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -493013,7 +493013,7 @@
   },
   "trap_612_xb2obch": {
     "name": "简约长椅",
-    "sortIndex": 448,
+    "sortIndex": 447,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -493149,7 +493149,7 @@
   },
   "trap_613_xb2osqr": {
     "name": "迎风招展",
-    "sortIndex": 1188,
+    "sortIndex": 1187,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -493285,7 +493285,7 @@
   },
   "trap_614_xb2oltr": {
     "name": "引雷针",
-    "sortIndex": 1201,
+    "sortIndex": 1200,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -494342,7 +494342,7 @@
   },
   "trap_623_xb2fke": {
     "name": "埋没金属箱",
-    "sortIndex": 660,
+    "sortIndex": 663,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -494548,7 +494548,7 @@
   },
   "trap_625_xb2smy": {
     "name": "Stormeye",
-    "sortIndex": 935,
+    "sortIndex": 936,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -496381,7 +496381,7 @@
   },
   "trap_640_xbcbag2": {
     "name": "猎获笼",
-    "sortIndex": 607,
+    "sortIndex": 606,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -497240,7 +497240,7 @@
   },
   "trap_309_muctba": {
     "name": "智能裁判官",
-    "sortIndex": 1328,
+    "sortIndex": 1329,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -498386,6 +498386,209 @@
     "potentialRanks": [],
     "allSkillLvlup": []
   },
+  "trap_339_tchray": {
+    "name": "“再度绽放”",
+    "description": null,
+    "sortIndex": 1274,
+    "spTargetType": "NONE",
+    "canUseGeneralPotentialItem": true,
+    "canUseActivityPotentialItem": false,
+    "potentialItemId": null,
+    "classicPotentialItemId": null,
+    "nationId": null,
+    "teamId": null,
+    "mainPower": {
+      "nationId": null,
+      "teamId": null
+    },
+    "subPower": null,
+    "displayNumber": null,
+    "appellation": "“Re-blossom”",
+    "position": "NONE",
+    "tagList": null,
+    "itemUsage": null,
+    "itemDesc": null,
+    "itemObtainApproach": null,
+    "isNotObtainable": false,
+    "isSpChar": false,
+    "maxPotentialLevel": 0,
+    "rarity": "TIER_1",
+    "profession": "TRAP",
+    "subProfessionId": "notchar2",
+    "trait": null,
+    "phases": [
+      {
+        "characterPrefabKey": "trap_339_tchray",
+        "rangeId": "x-4",
+        "maxLevel": 30,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 1000,
+              "atk": 100,
+              "def": 100,
+              "magicResistance": 0.0,
+              "cost": 10,
+              "blockCnt": 0,
+              "moveSpeed": 1.0,
+              "attackSpeed": 100.0,
+              "baseAttackTime": 1.0,
+              "respawnTime": 30,
+              "hpRecoveryPerSec": 0.0,
+              "spRecoveryPerSec": 1.0,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false,
+              "teleportImmune": false,
+              "groundBoundImmune": false
+            }
+          },
+          {
+            "level": 2,
+            "data": {
+              "maxHp": 1000,
+              "atk": 100,
+              "def": 100,
+              "magicResistance": 0.0,
+              "cost": 10,
+              "blockCnt": 0,
+              "moveSpeed": 1.0,
+              "attackSpeed": 100.0,
+              "baseAttackTime": 1.0,
+              "respawnTime": 30,
+              "hpRecoveryPerSec": 0.0,
+              "spRecoveryPerSec": 1.0,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false,
+              "teleportImmune": false,
+              "groundBoundImmune": false
+            }
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "skillId": "sktok_tchray",
+        "levelUpCostCond": [],
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        }
+      }
+    ],
+    "talents": [
+      {
+        "candidates": [
+          {
+            "unlockCondition": {
+              "phase": "PHASE_0",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "净化因子",
+            "description": "部署后净化9格范围内的<活性躁乱>，治疗其中我方干员800点生命值并使其获得3点技力；随后每个被净化的<活性躁乱>附近各生成1只“再灌注”向目标点移动",
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "value",
+                "value": 800.0,
+                "valueStr": null
+              },
+              {
+                "key": "sp",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "unmovable_time",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0.0,
+                "valueStr": "enemy_8019_pollut"
+              }
+            ],
+            "isHideTalent": false,
+            "rangeId": "x-4"
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_0",
+              "level": 2
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "净化因子",
+            "description": "部署后净化9格范围内的<活性躁乱>，治疗其中我方干员800点生命值并使其获得3点技力；随后每个被净化的<活性躁乱>附近各生成1只“过灌注”向目标点移动",
+            "blackboard": [
+              {
+                "key": "cnt",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "value",
+                "value": 800.0,
+                "valueStr": null
+              },
+              {
+                "key": "sp",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "unmovable_time",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "enemy_key",
+                "value": 0.0,
+                "valueStr": "enemy_8019_pollut_2"
+              }
+            ],
+            "isHideTalent": false,
+            "rangeId": "x-4"
+          }
+        ]
+      }
+    ],
+    "potentialRanks": [],
+    "favorKeyFrames": null,
+    "allSkillLvlup": []
+  },
   "trap_1601_akshept": {
     "name": "星术绒绒",
     "sortIndex": 1084,
@@ -498876,7 +499079,7 @@
   },
   "trap_1610_akplsnt": {
     "name": "直立小雪怪",
-    "sortIndex": 1327,
+    "sortIndex": 1328,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -499486,7 +499689,7 @@
   },
   "trap_1624_akfiret": {
     "name": "灼热跳跳蜥",
-    "sortIndex": 1352,
+    "sortIndex": 1353,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -500218,7 +500421,7 @@
   },
   "trap_1640_akbtst": {
     "name": "障碍物",
-    "sortIndex": 1293,
+    "sortIndex": 1292,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -500288,7 +500491,7 @@
   },
   "trap_1641_akbtel": {
     "name": "梅什科线圈",
-    "sortIndex": 673,
+    "sortIndex": 674,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -500428,7 +500631,7 @@
   },
   "trap_1643_akbtbd": {
     "name": "源石冰晶",
-    "sortIndex": 1227,
+    "sortIndex": 1226,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -500498,7 +500701,7 @@
   },
   "trap_1644_akbowf": {
     "name": "弩炮",
-    "sortIndex": 747,
+    "sortIndex": 749,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
