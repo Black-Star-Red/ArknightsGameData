@@ -1,23 +1,23 @@
 {
-  "probed_at": "2026-09-29T11:39:05Z",
+  "probed_at": "2026-10-08T22:14:56Z",
   "apk": {
     "entry": "https://ak.hypergryph.com/downloads/android_lastest",
-    "final_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/77.0/package/1/1/Android/77.0.0_o2Ri5AN2Z7XXjdtF/arknights-hg-2771.apk",
-    "filename": "arknights-hg-2771.apk",
-    "content_length": "1882311496",
-    "etag": "\"BE459408D7BBA73A9FDD08CE8BCCA119-400\"",
-    "last_modified": "Mon, 31 Aug 2026 04:36:15 GMT",
-    "hash": "343d008bcadd0b9400a223b58effd764a8c402e67dcdca82d0447d400eb6aa1a"
+    "final_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/78.0/package/1/1/Android/78.0.0_JUx7W5FdXjUAfFDx/arknights-hg-2781.apk",
+    "filename": "arknights-hg-2781.apk",
+    "content_length": "1861585573",
+    "etag": "\"2350854EA43B876EFAA31C2DC1A22FF6-400\"",
+    "last_modified": "Wed, 30 Sep 2026 09:17:18 GMT",
+    "hash": "a9b23390fdb63e5bf6c80033adfdc3745cdf84c53cd1f0473fb48bcfeda84673"
   },
   "hot": {
     "platform": "Android",
-    "resVersion": "26-09-22-07-47-20_6c71fa",
-    "clientVersion": "2.7.71",
-    "versionId": "26-09-22-07-47-20_6c71fa",
-    "hot_update_list_url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-09-22-07-47-20_6c71fa/hot_update_list.json",
-    "ab_count": 15298,
-    "hash": "d72f23de01c4c63116eb5f885da0540a63084d8ac3e47f3826a4479b42b49b62",
-    "list_sha256": "d1ac02a61d98e6e4c772335bb85dc44da4794a0a8bc915354b6f9ffbc7ec1f35"
+    "resVersion": "26-10-08-04-51-28-56071834",
+    "clientVersion": "2.7.81",
+    "versionId": "26-10-08-04-51-28-56071834",
+    "hot_update_list_url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-08-04-51-28-56071834/hot_update_list.json",
+    "ab_count": 15308,
+    "hash": "2758067cf57e3f0ceb94e245cb63f1e1028cbe2760ab785b054b10b157a8d03d",
+    "list_sha256": "5669da9e0af81dc43ab0ee13ae0c22ed96a80915b9c8986cb01113c251ddb79b"
   },
   "fbs": {
     "repo": "MooncellWiki/OpenArknightsFBS",

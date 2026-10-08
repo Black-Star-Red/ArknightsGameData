@@ -693,6 +693,39 @@
       "endTime": 1789675199,
       "picType": "SKIN",
       "logoId": "p3r"
+    },
+    {
+      "picId": "pic77_a_2",
+      "groupId": 22,
+      "sortId": 2,
+      "startTime": 1789891200,
+      "endTime": 1790711999,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic77_a_3",
+      "groupId": 22,
+      "sortId": 1,
+      "startTime": 1790668800,
+      "endTime": 1792439999,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic78_a_1",
+      "groupId": 23,
+      "sortId": 3,
+      "startTime": 1791500400,
+      "endTime": 1792699199,
+      "picType": "NONE"
+    },
+    {
+      "picId": "pic78_s_1",
+      "groupId": 23,
+      "sortId": 5,
+      "startTime": 1791500400,
+      "endTime": 1792699199,
+      "picType": "SKIN",
+      "logoId": "sightseer"
     }
   ]
 }
