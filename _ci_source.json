@@ -1,5 +1,5 @@
 {
-  "probed_at": "2026-10-09T09:10:20Z",
+  "probed_at": "2026-10-16T08:32:43Z",
   "apk": {
     "entry": "https://ak.hypergryph.com/downloads/android_lastest",
     "final_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/78.0/package/1/1/Android/78.0.0_JUx7W5FdXjUAfFDx/arknights-hg-2781.apk",
@@ -11,13 +11,13 @@
   },
   "hot": {
     "platform": "Android",
-    "resVersion": "26-10-08-04-51-28-56071834",
+    "resVersion": "26-10-14-13-45-10-99469376",
     "clientVersion": "2.7.81",
-    "versionId": "26-10-08-04-51-28-56071834",
-    "hot_update_list_url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-08-04-51-28-56071834/hot_update_list.json",
-    "ab_count": 15308,
-    "hash": "2758067cf57e3f0ceb94e245cb63f1e1028cbe2760ab785b054b10b157a8d03d",
-    "list_sha256": "5669da9e0af81dc43ab0ee13ae0c22ed96a80915b9c8986cb01113c251ddb79b"
+    "versionId": "26-10-14-13-45-10-99469376",
+    "hot_update_list_url": "https://ak.hycdn.cn/assetbundle/official/Android/assets/26-10-14-13-45-10-99469376/hot_update_list.json",
+    "ab_count": 15384,
+    "hash": "3f932446d40e373d5604a38e08984310196b9debc847ceec6045142cae7ea11c",
+    "list_sha256": "aa969ab4bb1578f860fdf1e1028f7a41b5be87aabb7e7fa8076adcad384207fa"
   },
   "fbs": {
     "repo": "MooncellWiki/OpenArknightsFBS",
