@@ -469460,6 +469460,1314 @@
       ]
     },
     {
+      "Key": "enemy_5508_hrgyfsh",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“再吃一口”源石虫"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "只会向前爬行，梦想是吃下许多源石，成为大地上最大的源石虫！"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_5508_hrgyfsh"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 2000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 100
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 100
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.1
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "attractImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "NONE"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": []
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "NORMAL"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": -1.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "talentBlackboard": [
+              {
+                "key": "Passive.init_fish_level",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.fish_exp",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "HitTurngear.move_speed",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "HitTurngear.duration",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.highland_beh",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.radius_delta",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.fish max level",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_5509_revfish",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "闪耀源石"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "非常漂亮，能让吃下它的源石虫获得无可比拟的力量。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_5509_revfish"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 9000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 500
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 10.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 3.5
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "attractImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "MELEE"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": []
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "NORMAL"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": -1.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "talentBlackboard": [
+              {
+                "key": "Passive.init_fish_level",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.duration",
+                "value": 15.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.scale",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_5511_bigfish",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“大吨位！”源石虫"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "这一带的老大，当心点，抢走源石会让它生气暴走！"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_5511_bigfish"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 18000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 800
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 800
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 20.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.1
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "attractImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "MELEE"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": []
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "ELITE"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": -1.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "talentBlackboard": [
+              {
+                "key": "Passive.init_fish_level",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.interval",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.move_speed",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.scale",
+                "value": 3000.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.attack_speed",
+                "value": 200.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_5512_stkslm",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "源石碎块"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "随意滚动的小块源石，累积起来的分量不容小觑。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_5512_stkslm"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 3000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 300
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 300
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "attractImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "MELEE"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": null
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "NORMAL"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": -1.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "talentBlackboard": [
+              {
+                "key": "Passive.max_stack",
+                "value": 16.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.scale",
+                "value": 500.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.init_fish_level",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_5513_porter",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“抢零食！”鳞兽"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "它也喜欢收集源石，别让它得逞。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_5513_porter"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 50000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 800
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 20.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.2
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 4
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "attractImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "MELEE"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": []
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "ELITE"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": -1.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "skills": null,
+            "talentBlackboard": [
+              {
+                "key": "Passive.init_fish_level",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "PorterEat.max_cnt",
+                "value": 5.0
+              },
+              {
+                "key": "PorterEat.passenger_bonus_mul",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.scale",
+                "value": 500.0,
+                "valueStr": null
+              },
+              {
+                "key": "PorterEat.target",
+                "value": 0.0,
+                "valueStr": "enemy_5513_porter"
+              },
+              {
+                "key": "PorterEat.target_1",
+                "value": 0.0,
+                "valueStr": "enemy_5509_revfish"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_5514_poslam",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "喷泉“甜蜜气泡”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "受到数次攻击后获得无敌效果，并向前冲刺留下纯白水汽。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_5514_poslam"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 12000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 700
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 30.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "attractImmune": {
+                "m_defined": true,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "MELEE"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": []
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "NORMAL"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": -1.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "talentBlackboard": [
+              {
+                "key": "Passive.duration",
+                "value": 8.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.rush_hit_threshold",
+                "value": 8.0,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.damage_resistance",
+                "value": 0.95,
+                "valueStr": null
+              },
+              {
+                "key": "Passive.move_speed",
+                "value": 2.5,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "EnterPaintAnim",
+                "priority": 0,
+                "cooldown": 0.0,
+                "initCooldown": 0.0,
+                "spCost": 0,
+                "blackboard": []
+              },
+              {
+                "prefabKey": "ExitPaintAnim",
+                "priority": 0,
+                "cooldown": 0.0,
+                "initCooldown": 0.0,
+                "spCost": 0,
+                "blackboard": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "Key": "enemy_5601_entlec",
       "Value": [
         {
@@ -469851,7 +471159,8 @@
                 "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -470497,6 +471806,23 @@
               "m_defined": false,
               "m_value": false
             },
+            "talentBlackboard": [
+              {
+                "key": "selfbuff.atk",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "selfbuff.hp_ratio",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "selfbuff.damage_resistance",
+                "value": 0.25,
+                "valueStr": null
+              }
+            ],
             "skills": [
               {
                 "prefabKey": "TauntCard",
@@ -470537,22 +471863,7 @@
                 ]
               }
             ],
-            "talentBlackboard": [
-              {
-                "key": "selfbuff.atk",
-                "value": 1.8,
-                "valueStr": null
-              },
-              {
-                "key": "selfbuff.hp_ratio",
-                "value": 0.5
-              },
-              {
-                "key": "selfbuff.damage_resistance",
-                "value": 0.25,
-                "valueStr": null
-              }
-            ]
+            "spData": null
           }
         }
       ]
@@ -470969,8 +472280,7 @@
                 "value": 0.04,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -471183,8 +472493,7 @@
                   }
                 ]
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -471376,7 +472685,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -471570,23 +472880,19 @@
             "talentBlackboard": [
               {
                 "key": "Passive.damage_resistance",
-                "value": 0.35,
-                "valueStr": null
+                "value": 0.35
               },
               {
                 "key": "Shield.hp_ratio",
-                "value": 0.25,
-                "valueStr": null
+                "value": 0.25
               },
               {
                 "key": "Shield.hp_shield_scale",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "Passive.damage",
-                "value": 15.0,
-                "valueStr": null
+                "value": 15.0
               }
             ],
             "skills": [
@@ -471614,7 +472920,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -471865,8 +473172,7 @@
                   }
                 ]
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -472108,8 +473414,7 @@
                 "priority": 0,
                 "cooldown": 8.0,
                 "initCooldown": 5.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               }
             ]
           }
@@ -472302,7 +473607,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -472527,7 +473833,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -472742,8 +474049,7 @@
                 "spCost": 0,
                 "blackboard": null
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -472937,31 +474243,38 @@
             "talentBlackboard": [
               {
                 "key": "CrashProgress.crash_time",
-                "value": 30.0
+                "value": 30.0,
+                "valueStr": null
               },
               {
                 "key": "Crash.cnt",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "Crash.value",
-                "value": 4.0
+                "value": 4.0,
+                "valueStr": null
               },
               {
                 "key": "Weak.weak_duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Weak.damage_scale",
-                "value": 1.5
+                "value": 1.5,
+                "valueStr": null
               },
               {
                 "key": "CrashProgress.atk",
-                "value": 0.5
+                "value": 0.5,
+                "valueStr": null
               },
               {
                 "key": "CrashProgress.move_speed",
-                "value": 0.5
+                "value": 0.5,
+                "valueStr": null
               }
             ],
             "skills": [
@@ -473353,7 +474666,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -473556,7 +474870,8 @@
                 "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -473784,8 +475099,7 @@
                   },
                   {
                     "key": "cnt",
-                    "value": 2.0,
-                    "valueStr": null
+                    "value": 2.0
                   }
                 ]
               },
@@ -473798,23 +475112,19 @@
                 "blackboard": [
                   {
                     "key": "inspire_duration",
-                    "value": 20.0,
-                    "valueStr": null
+                    "value": 20.0
                   },
                   {
                     "key": "cnt",
-                    "value": 3.0,
-                    "valueStr": null
+                    "value": 3.0
                   },
                   {
                     "key": "weak_duration",
-                    "value": 15.0,
-                    "valueStr": null
+                    "value": 15.0
                   },
                   {
                     "key": "range_radius",
-                    "value": 2.0,
-                    "valueStr": null
+                    "value": 2.0
                   },
                   {
                     "key": "enemy_key",
@@ -473823,12 +475133,12 @@
                   },
                   {
                     "key": "damage_scale",
-                    "value": 1.25,
-                    "valueStr": null
+                    "value": 1.25
                   }
                 ]
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -474279,10 +475589,10 @@
                 "priority": 0,
                 "cooldown": 0.0,
                 "initCooldown": 0.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -474472,7 +475782,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -475031,8 +476342,7 @@
                   }
                 ]
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -475222,8 +476532,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -475422,7 +476731,8 @@
               },
               {
                 "key": "halfHp.damage_resistance",
-                "value": 0.9
+                "value": 0.9,
+                "valueStr": null
               },
               {
                 "key": "halfHp.hp_ratio",
@@ -475716,8 +477026,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -476032,8 +477341,7 @@
                 "spCost": 0,
                 "blackboard": []
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -476256,8 +477564,7 @@
                   }
                 ]
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -476717,8 +478024,7 @@
                 "value": 6.0,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -476916,8 +478222,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -477788,7 +479093,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -477980,18 +479286,15 @@
             "talentBlackboard": [
               {
                 "key": "blwzad[dot].atk_scale",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "blwzad[dot].duration",
-                "value": 10.0,
-                "valueStr": null
+                "value": 10.0
               },
               {
                 "key": "blwzad[dot].max_stack_cnt",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               }
             ],
             "skills": null
@@ -478199,7 +479502,8 @@
                 "value": 5.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "skills": null
           }
         }
       ]
@@ -478397,7 +479701,8 @@
                 "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -478595,7 +479900,8 @@
                 "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -478793,7 +480099,8 @@
                 "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -479186,18 +480493,22 @@
             "talentBlackboard": [
               {
                 "key": "Run.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Run.move_speed",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "TraceTile.range_radius",
-                "value": 4.0
+                "value": 4.0,
+                "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -480202,8 +481513,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -480808,7 +482118,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -481680,8 +482991,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -481873,13 +483183,11 @@
             "talentBlackboard": [
               {
                 "key": "Reborn.wildmn_invinsible.duration",
-                "value": 10.0,
-                "valueStr": null
+                "value": 10.0
               },
               {
                 "key": "Reborn.duration",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               }
             ],
             "skills": [
@@ -481928,8 +483236,7 @@
                   }
                 ]
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -482123,53 +483430,43 @@
             "talentBlackboard": [
               {
                 "key": "S1Reborn.duration",
-                "value": 3.5,
-                "valueStr": null
+                "value": 3.5
               },
               {
                 "key": "S1Reborn.range_radius",
-                "value": 1.5,
-                "valueStr": null
+                "value": 1.5
               },
               {
                 "key": "S1Reborn.stun",
-                "value": 10.0,
-                "valueStr": null
+                "value": 10.0
               },
               {
                 "key": "S1Reborn.atk_scale",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "S2Reborn.duration",
-                "value": 1.7,
-                "valueStr": null
+                "value": 1.7
               },
               {
                 "key": "S2Recover.duration",
-                "value": 30.0,
-                "valueStr": null
+                "value": 30.0
               },
               {
                 "key": "S2Recover.atk",
-                "value": 0.0,
-                "valueStr": null
+                "value": 0.0
               },
               {
                 "key": "CheckSp.sp",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "S2Recover.max_hp",
-                "value": -0.8,
-                "valueStr": null
+                "value": -0.8
               },
               {
                 "key": "S2Recover.atk_scale",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               }
             ],
             "skills": [
@@ -482392,13 +483689,11 @@
             "talentBlackboard": [
               {
                 "key": "Trace.view_radius",
-                "value": 1.5,
-                "valueStr": null
+                "value": 1.5
               },
               {
                 "key": "TraceTime.duration",
-                "value": 20.0,
-                "valueStr": null
+                "value": 20.0
               }
             ],
             "skills": null,
@@ -482603,8 +483898,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -482796,7 +484090,8 @@
             "talentBlackboard": [
               {
                 "key": "1.res_damage",
-                "value": 2000.0
+                "value": 2000.0,
+                "valueStr": null
               }
             ],
             "skills": null
@@ -483008,9 +484303,11 @@
                 "priority": 0,
                 "cooldown": 0.0,
                 "initCooldown": 0.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -483221,7 +484518,8 @@
                 "value": 1.0
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -483412,20 +484710,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": [
-              {
-                "key": "1.trigger_delay",
-                "value": 1.0
-              },
-              {
-                "key": "TraceTime.duration",
-                "value": 20.0
-              },
-              {
-                "key": "Trace.view_radius",
-                "value": 1.5
-              }
-            ],
             "skills": [
               {
                 "prefabKey": "Hide",
@@ -483456,7 +484740,25 @@
                   }
                 ]
               }
-            ]
+            ],
+            "talentBlackboard": [
+              {
+                "key": "1.trigger_delay",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ],
+            "spData": null
           }
         }
       ]
@@ -483879,23 +485181,19 @@
             "talentBlackboard": [
               {
                 "key": "t.resistance_scale",
-                "value": 0.02,
-                "valueStr": null
+                "value": 0.02
               },
               {
                 "key": "t.hp_ratio",
-                "value": 0.01,
-                "valueStr": null
+                "value": 0.01
               },
               {
                 "key": "t.min_hp_ratio",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "t.total_damage_range",
-                "value": 20000.0,
-                "valueStr": null
+                "value": 20000.0
               },
               {
                 "key": "t.branch_id",
@@ -483904,11 +485202,11 @@
               },
               {
                 "key": "t.atk",
-                "value": 0.4,
-                "valueStr": null
+                "value": 0.4
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -484104,7 +485402,8 @@
                 "valueStr": null
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -484535,8 +485834,7 @@
                 "value": 0.5
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -484725,6 +486023,23 @@
               "m_defined": false,
               "m_value": false
             },
+            "talentBlackboard": [
+              {
+                "key": "low_hp.attack_speed",
+                "value": 50.0,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ],
             "skills": [
               {
                 "prefabKey": "AOE",
@@ -484749,23 +486064,6 @@
                     "valueStr": null
                   }
                 ]
-              }
-            ],
-            "talentBlackboard": [
-              {
-                "key": "low_hp.attack_speed",
-                "value": 50.0,
-                "valueStr": null
-              },
-              {
-                "key": "TraceTime.duration",
-                "value": 20.0,
-                "valueStr": null
-              },
-              {
-                "key": "Trace.view_radius",
-                "value": 1.5,
-                "valueStr": null
               }
             ],
             "spData": {
@@ -485196,27 +486494,33 @@
             "talentBlackboard": [
               {
                 "key": "ShieldTrigger.interval",
-                "value": 120.0
+                "value": 120.0,
+                "valueStr": null
               },
               {
                 "key": "TraceTime.duration",
-                "value": 20.0
+                "value": 20.0,
+                "valueStr": null
               },
               {
                 "key": "Trace.view_radius",
-                "value": 2.0
+                "value": 2.0,
+                "valueStr": null
               },
               {
                 "key": "StartRun.move_speed",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "StartRun.duration",
-                "value": 2.0
+                "value": 2.0,
+                "valueStr": null
               },
               {
                 "key": "Trace.range_radius",
-                "value": 2.5
+                "value": 2.5,
+                "valueStr": null
               }
             ],
             "skills": [
@@ -485937,15 +487241,18 @@
             "talentBlackboard": [
               {
                 "key": "FirstCrashTrigger.duration",
-                "value": 20.0
+                "value": 20.0,
+                "valueStr": null
               },
               {
                 "key": "FirstCrashTrigger.hp_ratio",
-                "value": 0.8
+                "value": 0.8,
+                "valueStr": null
               },
               {
                 "key": "Fly.atk",
-                "value": 0.0
+                "value": 0.0,
+                "valueStr": null
               }
             ],
             "skills": [
@@ -485998,7 +487305,8 @@
                   }
                 ]
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -486190,63 +487498,51 @@
             "talentBlackboard": [
               {
                 "key": "Sand1.move_speed",
-                "value": 0.0,
-                "valueStr": null
+                "value": 0.0
               },
               {
                 "key": "Sand1.attack_speed",
-                "value": 20.0,
-                "valueStr": null
+                "value": 20.0
               },
               {
                 "key": "Sand2.move_speed",
-                "value": 0.2,
-                "valueStr": null
+                "value": 0.2
               },
               {
                 "key": "Sand2.attack_speed",
-                "value": 50.0,
-                "valueStr": null
+                "value": 50.0
               },
               {
                 "key": "Sand3.move_speed",
-                "value": 0.4,
-                "valueStr": null
+                "value": 0.4
               },
               {
                 "key": "Sand3.attack_speed",
-                "value": 80.0,
-                "valueStr": null
+                "value": 80.0
               },
               {
                 "key": "Sand4.move_speed",
-                "value": 0.6,
-                "valueStr": null
+                "value": 0.6
               },
               {
                 "key": "Sand4.attack_speed",
-                "value": 110.0,
-                "valueStr": null
+                "value": 110.0
               },
               {
                 "key": "Sand1.range_radius",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "Sand2.range_radius",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "Sand3.range_radius",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "Sand4.range_radius",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               }
             ],
             "skills": [
@@ -486455,23 +487751,28 @@
             "talentBlackboard": [
               {
                 "key": "GhostBurn.range_radius",
-                "value": 0.5
+                "value": 0.5,
+                "valueStr": null
               },
               {
                 "key": "GhostBurn.atk_scale",
-                "value": 3.0
+                "value": 3.0,
+                "valueStr": null
               },
               {
                 "key": "AfterReborn.atk",
-                "value": 0.5
+                "value": 0.5,
+                "valueStr": null
               },
               {
                 "key": "AfterReborn.attack_speed",
-                "value": 100.0
+                "value": 100.0,
+                "valueStr": null
               },
               {
                 "key": "Reborn.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               }
             ],
             "skills": [
@@ -487093,8 +488394,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -487284,8 +488584,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -487479,15 +488778,18 @@
             "talentBlackboard": [
               {
                 "key": "Run.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Run.move_speed",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "TraceTile.range_radius",
-                "value": 4.0
+                "value": 4.0,
+                "valueStr": null
               }
             ],
             "skills": null
@@ -487698,8 +489000,7 @@
                 "valueStr": null
               }
             ],
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -487890,6 +489191,8 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Trace.view_radius",
@@ -487899,9 +489202,7 @@
                 "key": "TraceTime.duration",
                 "value": 20.0
               }
-            ],
-            "skills": null,
-            "spData": null
+            ]
           }
         }
       ]
@@ -488092,6 +489393,8 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Trace.view_radius",
@@ -488103,8 +489406,7 @@
                 "value": 20.0,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -488295,19 +489597,18 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Trace.view_radius",
-                "value": 1.5,
-                "valueStr": null
+                "value": 1.5
               },
               {
                 "key": "TraceTime.duration",
-                "value": 20.0,
-                "valueStr": null
+                "value": 20.0
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -488498,6 +489799,8 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Trace.view_radius",
@@ -488509,8 +489812,7 @@
                 "value": 20.0,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -488701,6 +490003,8 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Run.duration",
@@ -488717,8 +490021,7 @@
                 "value": 6.0,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -488909,6 +490212,8 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Trace.view_radius",
@@ -488920,8 +490225,7 @@
                 "value": 20.0,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -489151,7 +490455,8 @@
               },
               {
                 "key": "TraceTime.duration",
-                "value": 20.0
+                "value": 20.0,
+                "valueStr": null
               },
               {
                 "key": "Trace.view_radius",
@@ -490199,8 +491504,7 @@
             "talentBlackboard": [
               {
                 "key": "DamageReduce.damage_scale",
-                "value": 0.2,
-                "valueStr": null
+                "value": 0.2
               }
             ]
           }
@@ -490398,7 +491702,8 @@
             "talentBlackboard": [
               {
                 "key": "born.wait",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "born.mv1",
@@ -490407,51 +491712,63 @@
               },
               {
                 "key": "born.mv2",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "born.mv3",
-                "value": 0.8
+                "value": 0.8,
+                "valueStr": null
               },
               {
                 "key": "born.mv4",
-                "value": 0.3
+                "value": 0.3,
+                "valueStr": null
               },
               {
                 "key": "born.mv5",
-                "value": 0.3
+                "value": 0.3,
+                "valueStr": null
               },
               {
                 "key": "born.mv6",
-                "value": 0.4
+                "value": 0.4,
+                "valueStr": null
               },
               {
                 "key": "born.mv7",
-                "value": 0.5
+                "value": 0.5,
+                "valueStr": null
               },
               {
                 "key": "born.mv8",
-                "value": 0.7
+                "value": 0.7,
+                "valueStr": null
               },
               {
                 "key": "born.mv9",
-                "value": 0.8
+                "value": 0.8,
+                "valueStr": null
               },
               {
                 "key": "born.mv10",
-                "value": 1.3
+                "value": 1.3,
+                "valueStr": null
               },
               {
                 "key": "born.mv11",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "Trace.view_radius",
-                "value": 1.5
+                "value": 1.5,
+                "valueStr": null
               },
               {
                 "key": "TraceTime.duration",
-                "value": 20.0
+                "value": 20.0,
+                "valueStr": null
               }
             ]
           }
@@ -490912,15 +492229,18 @@
             "talentBlackboard": [
               {
                 "key": "fallTrigger.ratio",
-                "value": 0.05
+                "value": 0.05,
+                "valueStr": null
               },
               {
                 "key": "Trace.view_radius",
-                "value": 1.5
+                "value": 1.5,
+                "valueStr": null
               },
               {
                 "key": "TraceTime.duration",
-                "value": 20.0
+                "value": 20.0,
+                "valueStr": null
               }
             ]
           }
@@ -491316,18 +492636,15 @@
             "talentBlackboard": [
               {
                 "key": "aura.range_radius",
-                "value": 2.0,
-                "valueStr": null
+                "value": 2.0
               },
               {
                 "key": "aura.value",
-                "value": 300.0,
-                "valueStr": null
+                "value": 300.0
               },
               {
                 "key": "aura.attack@ep_damage_ratio",
-                "value": 0.15,
-                "valueStr": null
+                "value": 0.15
               }
             ]
           }
@@ -491726,8 +493043,6 @@
               "m_defined": true,
               "m_value": true
             },
-            "skills": null,
-            "spData": null,
             "talentBlackboard": [
               {
                 "key": "aura.range_radius",
@@ -491744,7 +493059,8 @@
                 "value": 0.09,
                 "valueStr": null
               }
-            ]
+            ],
+            "skills": null
           }
         }
       ]
@@ -491935,38 +493251,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": [
-              {
-                "prefabKey": "SunshineFlames",
-                "priority": 0,
-                "cooldown": 0.0,
-                "initCooldown": 0.0,
-                "spCost": 30,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.5,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "max_target",
-                    "value": 2.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "respawn_time",
-                    "value": 1.8,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": {
-              "spType": "INCREASE_WITH_TIME",
-              "maxSp": 30,
-              "initSp": 0,
-              "increment": 1.0
-            },
             "talentBlackboard": [
               {
                 "key": "Aromatic.attack_speed",
@@ -492018,7 +493302,39 @@
                 "value": 3.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "skills": [
+              {
+                "prefabKey": "SunshineFlames",
+                "priority": 0,
+                "cooldown": 0.0,
+                "initCooldown": 0.0,
+                "spCost": 30,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_target",
+                    "value": 2.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "respawn_time",
+                    "value": 1.8,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "maxSp": 30,
+              "initSp": 0,
+              "increment": 1.0
+            }
           }
         }
       ]
@@ -492209,38 +493525,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": [
-              {
-                "prefabKey": "SunshineFlames",
-                "priority": 0,
-                "cooldown": 30.0,
-                "initCooldown": 5.0,
-                "spCost": 30,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.5,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "max_target",
-                    "value": 2.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "respawn_time",
-                    "value": 1.9,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": {
-              "spType": "INCREASE_WITH_TIME",
-              "maxSp": 60,
-              "initSp": 30,
-              "increment": 1.0
-            },
             "talentBlackboard": [
               {
                 "key": "Aromatic.attack_speed",
@@ -492282,7 +493566,39 @@
                 "value": 0.3,
                 "valueStr": null
               }
-            ]
+            ],
+            "skills": [
+              {
+                "prefabKey": "SunshineFlames",
+                "priority": 0,
+                "cooldown": 30.0,
+                "initCooldown": 5.0,
+                "spCost": 30,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "max_target",
+                    "value": 2.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "respawn_time",
+                    "value": 1.9,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": {
+              "spType": "INCREASE_WITH_TIME",
+              "maxSp": 60,
+              "initSp": 30,
+              "increment": 1.0
+            }
           }
         }
       ]
@@ -492498,11 +493814,13 @@
             "talentBlackboard": [
               {
                 "key": "TraceTarget.range_radius",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "MarkTarget.mark_duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "range_id",
@@ -492511,11 +493829,13 @@
               },
               {
                 "key": "Aromatic.attack_speed",
-                "value": 40.0
+                "value": 40.0,
+                "valueStr": null
               },
               {
                 "key": "Aromatic.damage_scale",
-                "value": 1.4
+                "value": 1.4,
+                "valueStr": null
               }
             ]
           }
@@ -492749,7 +494069,8 @@
               },
               {
                 "key": "Escape.escape_time",
-                "value": 30.0
+                "value": 30.0,
+                "valueStr": null
               },
               {
                 "key": "RushDamage.atk_scale",
@@ -492761,8 +494082,7 @@
               },
               {
                 "key": "RushDamage.enemy_xbrok_rush_speed.max_stack_cnt",
-                "value": 100.0,
-                "valueStr": null
+                "value": 100.0
               },
               {
                 "key": "RushDamage.enemy_xbrok_rush_speed.interval",
@@ -493024,8 +494344,7 @@
               },
               {
                 "key": "Escape.escape_time",
-                "value": 25.0,
-                "valueStr": null
+                "value": 25.0
               },
               {
                 "key": "RushDamage.atk_scale",
@@ -493254,53 +494573,6 @@
               "m_defined": true,
               "m_value": true
             },
-            "talentBlackboard": [
-              {
-                "key": "RushDamage.atk_scale",
-                "value": 2.0,
-                "valueStr": null
-              },
-              {
-                "key": "RushDamage.enemy_xbrokz_rush_speed.move_speed",
-                "value": 0.03,
-                "valueStr": null
-              },
-              {
-                "key": "RushDamage.enemy_xbrokz_rush_speed.max_stack_cnt",
-                "value": 50.0,
-                "valueStr": null
-              },
-              {
-                "key": "RushDamage.enemy_xbrokz_rush_speed.interval",
-                "value": 0.15,
-                "valueStr": null
-              },
-              {
-                "key": "RushDamage.range_radius",
-                "value": 0.5,
-                "valueStr": null
-              },
-              {
-                "key": "TraceTarget.range_radius",
-                "value": 10.0,
-                "valueStr": null
-              },
-              {
-                "key": "TraceTarget.default_cooldown",
-                "value": 16.0,
-                "valueStr": null
-              },
-              {
-                "key": "MarkView.range_id",
-                "value": 0.0,
-                "valueStr": "x-4"
-              },
-              {
-                "key": "RushDamage.stun",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
             "skills": [
               {
                 "prefabKey": "RisingSand",
@@ -493325,6 +494597,46 @@
                     "valueStr": null
                   }
                 ]
+              }
+            ],
+            "spData": null,
+            "talentBlackboard": [
+              {
+                "key": "RushDamage.atk_scale",
+                "value": 2.0
+              },
+              {
+                "key": "RushDamage.enemy_xbrokz_rush_speed.move_speed",
+                "value": 0.03
+              },
+              {
+                "key": "RushDamage.enemy_xbrokz_rush_speed.max_stack_cnt",
+                "value": 50.0
+              },
+              {
+                "key": "RushDamage.enemy_xbrokz_rush_speed.interval",
+                "value": 0.15
+              },
+              {
+                "key": "RushDamage.range_radius",
+                "value": 0.5
+              },
+              {
+                "key": "TraceTarget.range_radius",
+                "value": 10.0
+              },
+              {
+                "key": "TraceTarget.default_cooldown",
+                "value": 16.0
+              },
+              {
+                "key": "MarkView.range_id",
+                "value": 0.0,
+                "valueStr": "x-4"
+              },
+              {
+                "key": "RushDamage.stun",
+                "value": 1.5
               }
             ]
           }
@@ -493517,24 +494829,22 @@
               "m_defined": true,
               "m_value": true
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "aura.range_radius",
-                "value": 2.0,
-                "valueStr": null
+                "value": 2.0
               },
               {
                 "key": "aura.damage_scale",
-                "value": 1.35,
-                "valueStr": null
+                "value": 1.35
               },
               {
                 "key": "aura.attack@ep_damage_ratio",
-                "value": 0.1,
-                "valueStr": null
+                "value": 0.1
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -493725,6 +495035,28 @@
               "m_defined": true,
               "m_value": true
             },
+            "skills": [
+              {
+                "prefabKey": "SunshineFlames",
+                "priority": 0,
+                "cooldown": 40.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "max_target",
+                    "value": 3.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "respawn_time",
+                    "value": 0.7,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "TraceTarget.range_radius",
@@ -493750,27 +495082,6 @@
                 "key": "Aromatic.damage_scale",
                 "value": 1.4,
                 "valueStr": null
-              }
-            ],
-            "skills": [
-              {
-                "prefabKey": "SunshineFlames",
-                "priority": 0,
-                "cooldown": 40.0,
-                "initCooldown": 10.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "max_target",
-                    "value": 3.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "respawn_time",
-                    "value": 0.7,
-                    "valueStr": null
-                  }
-                ]
               }
             ]
           }
@@ -493978,8 +495289,7 @@
                   },
                   {
                     "key": "hp_ratio",
-                    "value": 0.04,
-                    "valueStr": null
+                    "value": 0.04
                   },
                   {
                     "key": "duration",
@@ -493993,38 +495303,31 @@
             "talentBlackboard": [
               {
                 "key": "RushDamage.atk_scale",
-                "value": 2.0,
-                "valueStr": null
+                "value": 2.0
               },
               {
                 "key": "RushDamage.enemy_xbrokz_rush_speed.move_speed",
-                "value": 0.03,
-                "valueStr": null
+                "value": 0.03
               },
               {
                 "key": "RushDamage.enemy_xbrokz_rush_speed.max_stack_cnt",
-                "value": 50.0,
-                "valueStr": null
+                "value": 50.0
               },
               {
                 "key": "RushDamage.enemy_xbrokz_rush_speed.interval",
-                "value": 0.15,
-                "valueStr": null
+                "value": 0.15
               },
               {
                 "key": "RushDamage.range_radius",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "TraceTarget.range_radius",
-                "value": 10.0,
-                "valueStr": null
+                "value": 10.0
               },
               {
                 "key": "TraceTarget.default_cooldown",
-                "value": 16.0,
-                "valueStr": null
+                "value": 16.0
               },
               {
                 "key": "MarkView.range_id",
@@ -494033,8 +495336,7 @@
               },
               {
                 "key": "RushDamage.stun",
-                "value": 1.5,
-                "valueStr": null
+                "value": 1.5
               }
             ]
           }
@@ -494232,19 +495534,23 @@
             "talentBlackboard": [
               {
                 "key": "Run.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Run.move_speed",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "TraceTile.range_radius",
-                "value": 4.0
+                "value": 4.0,
+                "valueStr": null
               },
               {
                 "key": "DropItem.itemAmount",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "DropItem.itemId",
@@ -494870,7 +496176,8 @@
                   },
                   {
                     "key": "cnt",
-                    "value": 20.0
+                    "value": 20.0,
+                    "valueStr": null
                   }
                 ]
               },
@@ -494907,19 +496214,23 @@
             "talentBlackboard": [
               {
                 "key": "Trigger.xbpffr[trigger_bubble].interval",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "Trigger.xbpffr[trigger_bubble].first_trigger_interval",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "Trigger.xbpffr_check_in_sea.interval",
-                "value": 15.0
+                "value": 15.0,
+                "valueStr": null
               },
               {
                 "key": "Trigger.xbpffr_check_in_sea.first_trigger_interval",
-                "value": 15.0
+                "value": 15.0,
+                "valueStr": null
               }
             ]
           }
@@ -495115,8 +496426,7 @@
             "talentBlackboard": [
               {
                 "key": "2.res_cnt",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "2.def",
@@ -495130,8 +496440,7 @@
               },
               {
                 "key": "2.gather_interaction_radius",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               }
             ]
           }
@@ -495332,8 +496641,7 @@
                 "blackboard": [
                   {
                     "key": "duration",
-                    "value": 30.0,
-                    "valueStr": null
+                    "value": 30.0
                   },
                   {
                     "key": "range_radius",
@@ -495341,8 +496649,7 @@
                   },
                   {
                     "key": "direction",
-                    "value": 1.0,
-                    "valueStr": null
+                    "value": 1.0
                   },
                   {
                     "key": "hp_ratio",
@@ -495560,8 +496867,7 @@
                 "blackboard": [
                   {
                     "key": "max_target",
-                    "value": 1.0,
-                    "valueStr": null
+                    "value": 1.0
                   },
                   {
                     "key": "range_radius",
@@ -495569,8 +496875,7 @@
                   },
                   {
                     "key": "atk_scale",
-                    "value": 4.0,
-                    "valueStr": null
+                    "value": 4.0
                   },
                   {
                     "key": "ability_name",
@@ -495588,8 +496893,7 @@
                 "blackboard": [
                   {
                     "key": "max_cnt",
-                    "value": 8.0,
-                    "valueStr": null
+                    "value": 8.0
                   }
                 ]
               }
@@ -495598,38 +496902,31 @@
             "talentBlackboard": [
               {
                 "key": "AttackData.attack@max_target",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "AttackData.attack@chain.atk_scale",
-                "value": 0.85,
-                "valueStr": null
+                "value": 0.85
               },
               {
                 "key": "AttackData.attack@chain.range_radius",
-                "value": 1.6,
-                "valueStr": null
+                "value": 1.6
               },
               {
                 "key": "AttackData.attack@chain.max_target",
-                "value": 4.0,
-                "valueStr": null
+                "value": 4.0
               },
               {
                 "key": "Rain.interval",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "Rain.damage_scale",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "Rain.hp_ratio",
-                "value": 0.003,
-                "valueStr": null
+                "value": 0.003
               },
               {
                 "key": "Sprout.1_hp_ratio",
@@ -495638,13 +496935,11 @@
               },
               {
                 "key": "Sprout.2_hp_ratio",
-                "value": 0.4,
-                "valueStr": null
+                "value": 0.4
               },
               {
                 "key": "Sprout.3_hp_ratio",
-                "value": 0.1,
-                "valueStr": null
+                "value": 0.1
               },
               {
                 "key": "Sprout.skill_name",
@@ -495855,7 +497150,8 @@
                   },
                   {
                     "key": "range_radius",
-                    "value": 2.5
+                    "value": 2.5,
+                    "valueStr": null
                   }
                 ]
               }
@@ -495893,8 +497189,7 @@
               },
               {
                 "key": "BerserkTrigger.interval",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               }
             ]
           }
@@ -496117,19 +497412,23 @@
             "talentBlackboard": [
               {
                 "key": "Run.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Run.move_speed",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "TraceTile.range_radius",
-                "value": 4.0
+                "value": 4.0,
+                "valueStr": null
               },
               {
                 "key": "DropItem.itemAmount",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "DropItem.itemId",
@@ -496340,7 +497639,8 @@
                   },
                   {
                     "key": "range_radius",
-                    "value": 5.0
+                    "value": 5.0,
+                    "valueStr": null
                   },
                   {
                     "key": "xbpffr[trigger_bubble].interval",
@@ -498298,8 +499598,7 @@
               "m_value": false
             },
             "skills": null,
-            "spData": null,
-            "talentBlackboard": null
+            "spData": null
           }
         }
       ]
@@ -502611,6 +503910,7 @@
               "m_defined": false,
               "m_value": false
             },
+            "talentBlackboard": null,
             "skills": [
               {
                 "prefabKey": "Produce",
@@ -503751,6 +505051,7 @@
               "m_defined": false,
               "m_value": false
             },
+            "talentBlackboard": null,
             "skills": [
               {
                 "prefabKey": "Produce",
@@ -504167,8 +505468,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
-            "spData": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -504356,8 +505657,7 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
-            "spData": null
+            "talentBlackboard": null
           }
         }
       ]
@@ -504545,8 +505845,7 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
-            "spData": null
+            "talentBlackboard": null
           }
         }
       ]
@@ -504562,7 +505861,8 @@
               "m_value": "被猎获的岩壳蟹（纯净版）"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -504734,8 +506034,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
-            "spData": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -504751,7 +506051,8 @@
               "m_value": "被猎获的岩壳蟹（纯净版闪光）"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -504924,8 +506225,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -504941,7 +506241,8 @@
               "m_value": "传奇神鹿"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -505114,8 +506415,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -505303,8 +506603,7 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null,
-            "skills": null
+            "talentBlackboard": null
           }
         }
       ]
@@ -505680,7 +506979,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -505696,8 +506996,7 @@
               "m_value": "精灵鸟"
             },
             "description": {
-              "m_defined": false,
-              "m_value": null
+              "m_defined": false
             },
             "prefabKey": {
               "m_defined": true,
@@ -506060,7 +507359,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -506266,7 +507566,8 @@
               "m_value": "被捕获的绒绒兽（纯净版闪光）"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -506438,7 +507739,9 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -506454,7 +507757,8 @@
               "m_value": "被捕获的啄奔羽兽（纯净版）"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -506626,7 +507930,9 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -506642,7 +507948,8 @@
               "m_value": "被捕获的啄奔羽兽（纯净版闪光）"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -506815,7 +508122,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -506831,7 +508139,8 @@
               "m_value": "被捕获的灵绒兽（纯净版）"
             },
             "description": {
-              "m_defined": false
+              "m_defined": false,
+              "m_value": null
             },
             "prefabKey": {
               "m_defined": true,
@@ -507004,7 +508313,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -507385,7 +508695,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -508338,8 +509649,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null,
             "skills": null,
+            "talentBlackboard": null,
             "spData": null
           }
         }
@@ -508761,7 +510072,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null,
             "skills": [
               {
                 "prefabKey": "Produce",
@@ -508795,6 +510105,7 @@
                 ]
               }
             ],
+            "talentBlackboard": null,
             "spData": {
               "spType": "INCREASE_WITH_TIME",
               "maxSp": 20,
@@ -509681,6 +510992,7 @@
               "m_defined": false,
               "m_value": false
             },
+            "talentBlackboard": null,
             "skills": [
               {
                 "prefabKey": "Produce",
@@ -509714,7 +511026,6 @@
                 ]
               }
             ],
-            "talentBlackboard": null,
             "spData": {
               "spType": "INCREASE_WITH_TIME",
               "maxSp": 60,
@@ -509909,7 +511220,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -510098,8 +511410,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -510289,6 +511601,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
+            "spData": null,
             "skills": null
           }
         }
@@ -510478,8 +511791,9 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null,
+            "talentBlackboard": null
           }
         }
       ]
@@ -510669,6 +511983,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
+            "spData": null,
             "skills": null
           }
         }
@@ -510859,7 +512174,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -511049,6 +512365,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
+            "spData": null,
             "skills": null
           }
         }
@@ -511241,7 +512558,8 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -511433,7 +512751,6 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "spData": null,
             "skills": null
           }
         }
@@ -511625,9 +512942,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
-            "spData": null,
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "skills": null
           }
         }
       ]
@@ -511818,9 +513134,9 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null,
+            "skills": null,
             "spData": null,
-            "skills": null
+            "talentBlackboard": null
           }
         }
       ]
@@ -512012,8 +513328,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -512205,7 +513520,6 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "spData": null,
             "skills": null
           }
         }
@@ -512398,8 +513712,7 @@
               "m_value": false
             },
             "talentBlackboard": null,
-            "skills": null,
-            "spData": null
+            "skills": null
           }
         }
       ]
@@ -512975,7 +514288,6 @@
               "m_value": false
             },
             "skills": null,
-            "spData": null,
             "talentBlackboard": null
           }
         }
@@ -513167,6 +514479,7 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
             "talentBlackboard": [
               {
                 "key": "AOE.range_radius",
@@ -513178,8 +514491,7 @@
                 "value": 500.0,
                 "valueStr": null
               }
-            ],
-            "skills": null
+            ]
           }
         }
       ]
@@ -514134,14 +515446,14 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
             "talentBlackboard": [
               {
                 "key": "Stun.stun",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               }
-            ]
+            ],
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -514332,7 +515644,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "skills": null,
             "talentBlackboard": [
               {
                 "key": "EnduranceAura.addition@racing_endurance",
@@ -514344,7 +515655,9 @@
                 "value": 2.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -514538,8 +515851,7 @@
             "talentBlackboard": [
               {
                 "key": "MotionMode.hp_ratio",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               }
             ],
             "skills": [
@@ -514555,10 +515867,10 @@
                 "priority": 0,
                 "cooldown": 9999.0,
                 "initCooldown": 9999.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -514752,11 +516064,11 @@
             "talentBlackboard": [
               {
                 "key": "CollisionDamage.damage_scale",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -514950,11 +516262,11 @@
             "talentBlackboard": [
               {
                 "key": "ForceReduce.racing_force_level_add",
-                "value": -1.0,
-                "valueStr": null
+                "value": -1.0
               }
             ],
-            "skills": null
+            "skills": null,
+            "spData": null
           }
         }
       ]
@@ -515148,18 +516460,15 @@
             "talentBlackboard": [
               {
                 "key": "PassiveM2.cast_duration",
-                "value": 30.0,
-                "valueStr": null
+                "value": 30.0
               },
               {
                 "key": "PassiveM2.fire_interval",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               },
               {
                 "key": "PassiveEnhance.enhance_level",
-                "value": 0.0,
-                "valueStr": null
+                "value": 0.0
               }
             ],
             "skills": [
@@ -515215,7 +516524,8 @@
                 "spCost": 0,
                 "blackboard": null
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -515409,23 +516719,28 @@
             "talentBlackboard": [
               {
                 "key": "PassiveM3.hp_ratio",
-                "value": 0.5
+                "value": 0.5,
+                "valueStr": null
               },
               {
                 "key": "PassiveM2.cast_duration",
-                "value": 30.0
+                "value": 30.0,
+                "valueStr": null
               },
               {
                 "key": "PassiveM2.fire_interval",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "PassiveEnhance.enhance_level",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "PassiveM3.flmgd_death_cnt",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "PassiveM4.attack@ranged_atk_scale",
@@ -515985,17 +517300,19 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
             "talentBlackboard": [
               {
                 "key": "PassiveM1.magic_damage",
-                "value": 150.0
+                "value": 150.0,
+                "valueStr": null
               },
               {
                 "key": "PassiveM1.def",
-                "value": 2.0
+                "value": 2.0,
+                "valueStr": null
               }
             ],
-            "skills": null,
             "spData": null
           }
         }
@@ -516185,14 +517502,15 @@
               "m_defined": false,
               "m_value": false
             },
+            "skills": null,
+            "spData": null,
             "talentBlackboard": [
               {
                 "key": "Passive.magic_damage",
-                "value": 0.0
+                "value": 0.0,
+                "valueStr": null
               }
-            ],
-            "skills": null,
-            "spData": null
+            ]
           }
         }
       ]
@@ -516381,33 +517699,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": [
-              {
-                "key": "DmgAura.fire_damage",
-                "value": 200.0
-              },
-              {
-                "key": "DmgAura.magic_damage",
-                "value": 200.0
-              },
-              {
-                "key": "DmgAura.small_bomb_damage",
-                "value": 300.0
-              },
-              {
-                "key": "DmgAura.range_radius",
-                "value": 2.0,
-                "valueStr": null
-              },
-              {
-                "key": "DmgAura.flmspr_passive[move].move_speed",
-                "value": 0.5
-              },
-              {
-                "key": "DmgAura.flmspr_passive[move].trig_cnt",
-                "value": 10.0
-              }
-            ],
             "skills": [
               {
                 "prefabKey": "BindChainHost",
@@ -516432,7 +517723,38 @@
                 ]
               }
             ],
-            "spData": null
+            "talentBlackboard": [
+              {
+                "key": "DmgAura.fire_damage",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.magic_damage",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.small_bomb_damage",
+                "value": 300.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.range_radius",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.flmspr_passive[move].move_speed",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.flmspr_passive[move].trig_cnt",
+                "value": 10.0,
+                "valueStr": null
+              }
+            ]
           }
         }
       ]
@@ -516621,32 +517943,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": [
-              {
-                "key": "DmgAura.fire_damage",
-                "value": 200.0
-              },
-              {
-                "key": "DmgAura.magic_damage",
-                "value": 200.0
-              },
-              {
-                "key": "DmgAura.small_bomb_damage",
-                "value": 300.0
-              },
-              {
-                "key": "DmgAura.range_radius",
-                "value": 2.0
-              },
-              {
-                "key": "DmgAura.flmspr_passive[move].move_speed",
-                "value": 0.5
-              },
-              {
-                "key": "DmgAura.flmspr_passive[move].trig_cnt",
-                "value": 10.0
-              }
-            ],
             "skills": [
               {
                 "prefabKey": "BindChainHost",
@@ -516669,6 +517965,38 @@
                     "valueStr": null
                   }
                 ]
+              }
+            ],
+            "talentBlackboard": [
+              {
+                "key": "DmgAura.fire_damage",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.magic_damage",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.small_bomb_damage",
+                "value": 300.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.range_radius",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.flmspr_passive[move].move_speed",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.flmspr_passive[move].trig_cnt",
+                "value": 10.0,
+                "valueStr": null
               }
             ],
             "spData": null
@@ -516860,23 +518188,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": [
-              {
-                "key": "DmgAura.fire_damage",
-                "value": 200.0,
-                "valueStr": null
-              },
-              {
-                "key": "DmgAura.magic_damage",
-                "value": 200.0,
-                "valueStr": null
-              },
-              {
-                "key": "DmgAura.small_bomb_damage",
-                "value": 300.0,
-                "valueStr": null
-              }
-            ],
             "skills": [
               {
                 "prefabKey": "Doom",
@@ -516906,6 +518217,23 @@
                     "valueStr": null
                   }
                 ]
+              }
+            ],
+            "talentBlackboard": [
+              {
+                "key": "DmgAura.fire_damage",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.magic_damage",
+                "value": 200.0,
+                "valueStr": null
+              },
+              {
+                "key": "DmgAura.small_bomb_damage",
+                "value": 300.0,
+                "valueStr": null
               }
             ],
             "spData": {
@@ -517097,8 +518425,8 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": null,
             "skills": null,
+            "talentBlackboard": null,
             "spData": null
           }
         }
@@ -517288,58 +518616,6 @@
               "m_defined": false,
               "m_value": false
             },
-            "talentBlackboard": [
-              {
-                "key": "P1M1_Reborn.duration",
-                "value": 28.0,
-                "valueStr": null
-              },
-              {
-                "key": "P1M1_Reborn.interval",
-                "value": 5.0,
-                "valueStr": null
-              },
-              {
-                "key": "P1M1_Reborn.reborn_magic_damage",
-                "value": 1000.0,
-                "valueStr": null
-              },
-              {
-                "key": "P1M1_Reborn.branch_id",
-                "value": 0.0,
-                "valueStr": "eltrsm_branch"
-              },
-              {
-                "key": "P1_Passive.damage_resistance",
-                "value": 0.6,
-                "valueStr": null
-              },
-              {
-                "key": "P1M2_Reborn.duration",
-                "value": 28.0,
-                "valueStr": null
-              },
-              {
-                "key": "P1M2_Reborn.interval",
-                "value": 5.0,
-                "valueStr": null
-              },
-              {
-                "key": "P1M2_Reborn.reborn_magic_damage",
-                "value": 1000.0,
-                "valueStr": null
-              },
-              {
-                "key": "P1M2_Reborn.branch_id",
-                "value": 0.0,
-                "valueStr": "eltrsm_branch"
-              },
-              {
-                "key": "PassiveEnhance.enhance_level",
-                "value": 0.0,
-                "valueStr": null
-              }
-            ],
             "skills": [
               {
                 "prefabKey": "HurlDivineRapier",
@@ -517421,6 +518697,58 @@
                 "initCooldown": 999999.0,
                 "spCost": 0,
                 "blackboard": []
+              }
+            ],
+            "talentBlackboard": [
+              {
+                "key": "P1M1_Reborn.duration",
+                "value": 28.0,
+                "valueStr": null
+              },
+              {
+                "key": "P1M1_Reborn.interval",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "P1M1_Reborn.reborn_magic_damage",
+                "value": 1000.0,
+                "valueStr": null
+              },
+              {
+                "key": "P1M1_Reborn.branch_id",
+                "value": 0.0,
+                "valueStr": "eltrsm_branch"
+              },
+              {
+                "key": "P1_Passive.damage_resistance",
+                "value": 0.6,
+                "valueStr": null
+              },
+              {
+                "key": "P1M2_Reborn.duration",
+                "value": 28.0,
+                "valueStr": null
+              },
+              {
+                "key": "P1M2_Reborn.interval",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "P1M2_Reborn.reborn_magic_damage",
+                "value": 1000.0,
+                "valueStr": null
+              },
+              {
+                "key": "P1M2_Reborn.branch_id",
+                "value": 0.0,
+                "valueStr": "eltrsm_branch"
+              },
+              {
+                "key": "PassiveEnhance.enhance_level",
+                "value": 0.0,
+                "valueStr": null
               }
             ],
             "spData": null
@@ -517666,7 +518994,8 @@
                 "priority": 0,
                 "cooldown": 0.0,
                 "initCooldown": 999999.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               },
               {
                 "prefabKey": "TransToP2M2",
@@ -517981,7 +519310,8 @@
                 "priority": 10,
                 "cooldown": 25.0,
                 "initCooldown": 25.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               },
               {
                 "prefabKey": "HurlDivineRapierP2",
@@ -518015,7 +519345,8 @@
                 "priority": 0,
                 "cooldown": 0.0,
                 "initCooldown": 999999.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               },
               {
                 "prefabKey": "RecycleDRP2",
@@ -518034,7 +519365,6 @@
                 "blackboard": []
               }
             ],
-            "spData": null,
             "talentBlackboard": [
               {
                 "key": "P1M1_Reborn.duration",
@@ -518156,7 +519486,8 @@
                 "value": 2.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -518462,7 +519793,8 @@
                 "value": 0.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -518891,11 +520223,13 @@
                 "blackboard": [
                   {
                     "key": "atk_scale",
-                    "value": 0.8
+                    "value": 0.8,
+                    "valueStr": null
                   },
                   {
                     "key": "projectile_delay_time",
-                    "value": 0.8
+                    "value": 0.8,
+                    "valueStr": null
                   },
                   {
                     "key": "projectile_range",
@@ -518904,7 +520238,8 @@
                   },
                   {
                     "key": "interval",
-                    "value": 0.1
+                    "value": 0.1,
+                    "valueStr": null
                   }
                 ]
               },
@@ -518963,8 +520298,7 @@
                 "value": 0.0,
                 "valueStr": null
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -518995,6 +520329,357 @@
               "atk": {
                 "m_defined": true,
                 "m_value": 1100
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 1500
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 40.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.4
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 10
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "epDamageResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "epResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "damageHitratePhysical": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "damageHitrateMagical": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "epBreakRecoverSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "disarmedCombatImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "fearedImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "palsyImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "attractImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "teleportImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "groundBoundImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "applyWay": {
+              "m_defined": true,
+              "m_value": "ALL"
+            },
+            "motion": {
+              "m_defined": true,
+              "m_value": "WALK"
+            },
+            "enemyTags": {
+              "m_defined": true,
+              "m_value": null
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 5
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": "BOSS"
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 2.5
+            },
+            "numOfExtraDrops": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "notCountInTotal": {
+              "m_defined": false,
+              "m_value": false
+            },
+            "skills": [
+              {
+                "prefabKey": "get_shield",
+                "priority": 0,
+                "cooldown": 1.0,
+                "initCooldown": 1.0,
+                "spCost": 0
+              },
+              {
+                "prefabKey": "MultiAttack",
+                "priority": 1,
+                "cooldown": 30.0,
+                "initCooldown": 15.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8
+                  },
+                  {
+                    "key": "projectile_delay_time",
+                    "value": 0.8
+                  },
+                  {
+                    "key": "projectile_range",
+                    "value": 0.0,
+                    "valueStr": "x-4"
+                  },
+                  {
+                    "key": "interval",
+                    "value": 0.1
+                  }
+                ]
+              },
+              {
+                "prefabKey": "fake_revive",
+                "priority": 1,
+                "cooldown": 0.0,
+                "initCooldown": 0.0,
+                "spCost": 0
+              },
+              {
+                "prefabKey": "shield_advance",
+                "priority": 1,
+                "cooldown": 3.0,
+                "initCooldown": 1.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "times",
+                    "value": 50.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "cooldown",
+                    "value": 15.0,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "talentBlackboard": [
+              {
+                "key": "shield.times",
+                "value": 50.0,
+                "valueStr": null
+              },
+              {
+                "key": "shield.cooldown",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "reborn.duration",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "reborn.hp_ratio",
+                "value": 0.02,
+                "valueStr": null
+              },
+              {
+                "key": "hp_recover.enemy_mcnist_heal.duration",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "hp_recover.enemy_mcnist_heal.hp_ratio",
+                "value": 0.05,
+                "valueStr": null
+              },
+              {
+                "key": "hp_recover.enemy_mcnist_heal.interval",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "reborn_real.duration",
+                "value": 30.933001,
+                "valueStr": null
+              },
+              {
+                "key": "reborn_real.hit_interval",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "reborn_real.times",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "reborn_real.atk_scale",
+                "value": 1.7,
+                "valueStr": null
+              },
+              {
+                "key": "reborn_real.block_cnt",
+                "value": -1.0,
+                "valueStr": null
+              },
+              {
+                "key": "reborn_real.duration_loop",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "clear_abnormal.hp_ratio",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "block_attack.attack@multi.atk_scale",
+                "value": 0.4,
+                "valueStr": null
+              },
+              {
+                "key": "block_attack.attack@multi.block_cnt",
+                "value": -1.0,
+                "valueStr": null
+              },
+              {
+                "key": "block_attack.attack@multi.block_down",
+                "value": 8.0,
+                "valueStr": null
+              },
+              {
+                "key": "attribute.atk",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "attribute.def",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "attribute.magic_resistance",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_8010_mcnist_3",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“Mechanist”，机械之心"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "以Mechanist的战力极限为模本构拟的突破训练官。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_8010_mcnist_3"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 80000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1200
               },
               "def": {
                 "m_defined": true,
@@ -519217,358 +520902,6 @@
                     "valueStr": null
                   }
                 ]
-              }
-            ],
-            "talentBlackboard": [
-              {
-                "key": "shield.times",
-                "value": 50.0,
-                "valueStr": null
-              },
-              {
-                "key": "shield.cooldown",
-                "value": 20.0,
-                "valueStr": null
-              },
-              {
-                "key": "reborn.duration",
-                "value": 0.1,
-                "valueStr": null
-              },
-              {
-                "key": "reborn.hp_ratio",
-                "value": 0.02,
-                "valueStr": null
-              },
-              {
-                "key": "hp_recover.enemy_mcnist_heal.duration",
-                "value": 20.0,
-                "valueStr": null
-              },
-              {
-                "key": "hp_recover.enemy_mcnist_heal.hp_ratio",
-                "value": 0.05,
-                "valueStr": null
-              },
-              {
-                "key": "hp_recover.enemy_mcnist_heal.interval",
-                "value": 1.0,
-                "valueStr": null
-              },
-              {
-                "key": "reborn_real.duration",
-                "value": 30.933001,
-                "valueStr": null
-              },
-              {
-                "key": "reborn_real.hit_interval",
-                "value": 5.0,
-                "valueStr": null
-              },
-              {
-                "key": "reborn_real.times",
-                "value": 6.0,
-                "valueStr": null
-              },
-              {
-                "key": "reborn_real.atk_scale",
-                "value": 1.7,
-                "valueStr": null
-              },
-              {
-                "key": "reborn_real.block_cnt",
-                "value": -1.0,
-                "valueStr": null
-              },
-              {
-                "key": "reborn_real.duration_loop",
-                "value": 30.0,
-                "valueStr": null
-              },
-              {
-                "key": "clear_abnormal.hp_ratio",
-                "value": 0.0,
-                "valueStr": null
-              },
-              {
-                "key": "block_attack.attack@multi.atk_scale",
-                "value": 0.4,
-                "valueStr": null
-              },
-              {
-                "key": "block_attack.attack@multi.block_cnt",
-                "value": -1.0,
-                "valueStr": null
-              },
-              {
-                "key": "block_attack.attack@multi.block_down",
-                "value": 8.0,
-                "valueStr": null
-              },
-              {
-                "key": "attribute.atk",
-                "value": 2.0,
-                "valueStr": null
-              },
-              {
-                "key": "attribute.def",
-                "value": 0.8,
-                "valueStr": null
-              },
-              {
-                "key": "attribute.magic_resistance",
-                "value": 20.0,
-                "valueStr": null
-              }
-            ],
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_8010_mcnist_3",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "“Mechanist”，机械之心"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "以Mechanist的战力极限为模本构拟的突破训练官。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_8010_mcnist_3"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 80000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1200
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 1500
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 40.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.4
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 10
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "tauntLevel": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "epDamageResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "epResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "damageHitratePhysical": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "damageHitrateMagical": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "epBreakRecoverSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "stunImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "sleepImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "frozenImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "levitateImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "disarmedCombatImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "fearedImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "palsyImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "attractImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "teleportImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "groundBoundImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "applyWay": {
-              "m_defined": true,
-              "m_value": "ALL"
-            },
-            "motion": {
-              "m_defined": true,
-              "m_value": "WALK"
-            },
-            "enemyTags": {
-              "m_defined": true,
-              "m_value": null
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 5
-            },
-            "levelType": {
-              "m_defined": true,
-              "m_value": "BOSS"
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.5
-            },
-            "numOfExtraDrops": {
-              "m_defined": true,
-              "m_value": 0
-            },
-            "viewRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "notCountInTotal": {
-              "m_defined": false,
-              "m_value": false
-            },
-            "skills": [
-              {
-                "prefabKey": "get_shield",
-                "priority": 0,
-                "cooldown": 1.0,
-                "initCooldown": 1.0,
-                "spCost": 0
-              },
-              {
-                "prefabKey": "MultiAttack",
-                "priority": 1,
-                "cooldown": 30.0,
-                "initCooldown": 15.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 0.8
-                  },
-                  {
-                    "key": "projectile_delay_time",
-                    "value": 0.8
-                  },
-                  {
-                    "key": "projectile_range",
-                    "value": 0.0,
-                    "valueStr": "x-4"
-                  },
-                  {
-                    "key": "interval",
-                    "value": 0.1
-                  }
-                ]
-              },
-              {
-                "prefabKey": "fake_revive",
-                "priority": 1,
-                "cooldown": 0.0,
-                "initCooldown": 0.0,
-                "spCost": 0
-              },
-              {
-                "prefabKey": "shield_advance",
-                "priority": 1,
-                "cooldown": 3.0,
-                "initCooldown": 1.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "times",
-                    "value": 50.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "cooldown",
-                    "value": 15.0,
-                    "valueStr": null
-                  }
-                ]
               },
               {
                 "prefabKey": "reborn_like",
@@ -519711,8 +521044,7 @@
                 "value": 20.0,
                 "valueStr": null
               }
-            ],
-            "spData": null
+            ]
           }
         }
       ]
@@ -520599,28 +521931,23 @@
             "talentBlackboard": [
               {
                 "key": "water.attack@ep_damage_ratio",
-                "value": 0.4,
-                "valueStr": null
+                "value": 0.4
               },
               {
                 "key": "focus.attack@max_stack_cnt",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               },
               {
                 "key": "focus.attack@attack_speed",
-                "value": 30.0,
-                "valueStr": null
+                "value": 30.0
               },
               {
                 "key": "focus.attack@duration",
-                "value": 6.0,
-                "valueStr": null
+                "value": 6.0
               },
               {
                 "key": "takeDamage.def",
-                "value": 400.0,
-                "valueStr": null
+                "value": 400.0
               },
               {
                 "key": "takeDamage.magic_resistance",
@@ -520629,128 +521956,103 @@
               },
               {
                 "key": "takeDamage.max_stack_cnt",
-                "value": 10.0,
-                "valueStr": null
+                "value": 10.0
               },
               {
                 "key": "takeDamage.cooldown",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "takeDamageChecker.interval",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "reborn.duration",
-                "value": 0.1,
-                "valueStr": null
+                "value": 0.1
               },
               {
                 "key": "reborn.hp_ratio",
-                "value": 0.02,
-                "valueStr": null
+                "value": 0.02
               },
               {
                 "key": "hp_recover.enemy_mcndog_heal.duration",
-                "value": 20.0,
-                "valueStr": null
+                "value": 20.0
               },
               {
                 "key": "hp_recover.enemy_mcndog_heal.hp_ratio",
-                "value": 0.05,
-                "valueStr": null
+                "value": 0.05
               },
               {
                 "key": "hp_recover.enemy_mcndog_heal.interval",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "reborn_real.duration",
-                "value": 30.0,
-                "valueStr": null
+                "value": 30.0
               },
               {
                 "key": "rush.mcndog_t[trigger].move_speed",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "rush.mcndog_t[trigger].interval",
-                "value": 0.333,
-                "valueStr": null
+                "value": 0.333
               },
               {
                 "key": "rush.mcndog_t[trigger].trig_cnt",
-                "value": 30.0,
-                "valueStr": null
+                "value": 30.0
               },
               {
                 "key": "rush.mcndog_t_predelay.predelay",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "firstAttack.atk_scale",
-                "value": 1000.0,
-                "valueStr": null
+                "value": 1000.0
               },
               {
                 "key": "attribute.max_hp",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "attribute.atk",
-                "value": 0.25,
-                "valueStr": null
+                "value": 0.25
               },
               {
                 "key": "attribute.def",
-                "value": 0.0,
-                "valueStr": null
+                "value": 0.0
               },
               {
                 "key": "attribute.magic_resistance",
-                "value": 0.0,
-                "valueStr": null
+                "value": 0.0
               },
               {
                 "key": "attribute.move_speed",
-                "value": 0.6,
-                "valueStr": null
+                "value": 0.6
               },
               {
                 "key": "attribute.base_attack_time",
-                "value": 2.0,
-                "valueStr": null
+                "value": 2.0
               },
               {
                 "key": "reborn_advance.duration",
-                "value": 0.1,
-                "valueStr": null
+                "value": 0.1
               },
               {
                 "key": "reborn_advance.hp_ratio",
-                "value": 0.02,
-                "valueStr": null
+                "value": 0.02
               },
               {
                 "key": "hp_recover_advance.duration",
-                "value": 20.0,
-                "valueStr": null
+                "value": 20.0
               },
               {
                 "key": "hp_recover_advance.hp_ratio",
-                "value": 0.05,
-                "valueStr": null
+                "value": 0.05
               },
               {
                 "key": "hp_recover_advance.interval",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               }
             ],
             "spData": null
@@ -520963,7 +522265,8 @@
                 ]
               }
             ],
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "spData": null
           }
         }
       ]
@@ -521156,28 +522459,23 @@
             "talentBlackboard": [
               {
                 "key": "rush.mcnrsh_t[trigger].move_speed",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "rush.mcnrsh_t[trigger].interval",
-                "value": 0.333,
-                "valueStr": null
+                "value": 0.333
               },
               {
                 "key": "rush.mcnrsh_t[trigger].trig_cnt",
-                "value": 30.0,
-                "valueStr": null
+                "value": 30.0
               },
               {
                 "key": "rush.mcnrsh_t_predelay.predelay",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               },
               {
                 "key": "rush.weak[limit]",
-                "value": 6.0,
-                "valueStr": null
+                "value": 6.0
               },
               {
                 "key": "rush.damage_scale",
@@ -521186,15 +522484,14 @@
               },
               {
                 "key": "crash.stun",
-                "value": 4.0,
-                "valueStr": null
+                "value": 4.0
               },
               {
                 "key": "crash.atk_scale",
-                "value": 600.0,
-                "valueStr": null
+                "value": 600.0
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -521414,7 +522711,8 @@
                 ]
               }
             ],
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "spData": null
           }
         }
       ]
@@ -522292,23 +523590,28 @@
             "talentBlackboard": [
               {
                 "key": "heal_data.attack@heal_duration",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "heal_data.attack@hp_ratio",
-                "value": 0.1
+                "value": 0.1,
+                "valueStr": null
               },
               {
                 "key": "l2.active",
-                "value": 0.0
+                "value": 0.0,
+                "valueStr": null
               },
               {
                 "key": "l3.active",
-                "value": 0.0
+                "value": 0.0,
+                "valueStr": null
               },
               {
                 "key": "Reborn.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Reborn.location",
@@ -522317,27 +523620,33 @@
               },
               {
                 "key": "night_trigger.prob",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "poison.poison_duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "poison.interval",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "poison.atk_scale_poison",
-                "value": 0.2
+                "value": 0.2,
+                "valueStr": null
               },
               {
                 "key": "poison.respawn_time",
-                "value": 2.5
+                "value": 2.5,
+                "valueStr": null
               },
               {
                 "key": "heal_trigger.heal_cd",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               }
             ],
             "spData": null
@@ -522963,30 +524272,34 @@
                 "priority": 1,
                 "cooldown": 999999.0,
                 "initCooldown": 1.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               }
             ],
             "talentBlackboard": [
               {
                 "key": "heal_data.attack@heal_duration",
-                "value": 5.0
+                "value": 5.0,
+                "valueStr": null
               },
               {
                 "key": "heal_data.attack@hp_ratio",
-                "value": 0.1
+                "value": 0.1,
+                "valueStr": null
               },
               {
                 "key": "l2.active",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "l3.active",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "Reborn.duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "Reborn.location",
@@ -522995,27 +524308,33 @@
               },
               {
                 "key": "night_trigger.prob",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "poison.poison_duration",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               },
               {
                 "key": "poison.interval",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               },
               {
                 "key": "poison.atk_scale_poison",
-                "value": 0.2
+                "value": 0.2,
+                "valueStr": null
               },
               {
                 "key": "poison.respawn_time",
-                "value": 2.5
+                "value": 2.5,
+                "valueStr": null
               },
               {
                 "key": "heal_trigger.heal_cd",
-                "value": 10.0
+                "value": 10.0,
+                "valueStr": null
               }
             ],
             "spData": null
@@ -524447,7 +525766,8 @@
                 "blackboard": [
                   {
                     "key": "dist",
-                    "value": 5.0
+                    "value": 5.0,
+                    "valueStr": null
                   },
                   {
                     "key": "enemy_key",
@@ -524456,19 +525776,23 @@
                   },
                   {
                     "key": "cnt",
-                    "value": 1.0
+                    "value": 1.0,
+                    "valueStr": null
                   },
                   {
                     "key": "damage_resistance",
-                    "value": 0.8
+                    "value": 0.8,
+                    "valueStr": null
                   },
                   {
                     "key": "hp_ratio",
-                    "value": 0.1
+                    "value": 0.1,
+                    "valueStr": null
                   },
                   {
                     "key": "limited_dist",
-                    "value": 6.0
+                    "value": 6.0,
+                    "valueStr": null
                   }
                 ]
               },
@@ -524477,7 +525801,8 @@
                 "priority": 0,
                 "cooldown": 0.0,
                 "initCooldown": 0.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               },
               {
                 "prefabKey": "Reborning",
@@ -524498,114 +525823,94 @@
                 "priority": 1,
                 "cooldown": 0.0,
                 "initCooldown": 0.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               }
             ],
             "talentBlackboard": [
               {
                 "key": "P1DamageResist.per_damage_resistance",
-                "value": 0.1,
-                "valueStr": null
+                "value": 0.1
               },
               {
                 "key": "P1DamageResist.stack_cnt",
-                "value": 6.0,
-                "valueStr": null
+                "value": 6.0
               },
               {
                 "key": "P1DamageResist.effect_level_1",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               },
               {
                 "key": "P1DamageResist.effect_level_2",
-                "value": 6.0,
-                "valueStr": null
+                "value": 6.0
               },
               {
                 "key": "Attack.attack@ep_damage_ratio",
-                "value": 0.4,
-                "valueStr": null
+                "value": 0.4
               },
               {
                 "key": "P2DamageResist.per_damage_resistance",
-                "value": 0.08,
-                "valueStr": null
+                "value": 0.08
               },
               {
                 "key": "P2DamageResist.stack_cnt",
-                "value": 10.0,
-                "valueStr": null
+                "value": 10.0
               },
               {
                 "key": "P2DamageResist.effect_level_1",
-                "value": 4.0,
-                "valueStr": null
+                "value": 4.0
               },
               {
                 "key": "P2DamageResist.effect_level_2",
-                "value": 8.0,
-                "valueStr": null
+                "value": 8.0
               },
               {
                 "key": "AbsorbListener.range_radius",
-                "value": 0.6,
-                "valueStr": null
+                "value": 0.6
               },
               {
                 "key": "AbsorbListener.value",
-                "value": 250.0,
-                "valueStr": null
+                "value": 250.0
               },
               {
                 "key": "AbsorbListener.duration",
-                "value": 8.0,
-                "valueStr": null
+                "value": 8.0
               },
               {
                 "key": "AbsorbListener.atk_scale",
-                "value": 3.5,
-                "valueStr": null
+                "value": 3.5
               },
               {
                 "key": "Reborn.duration",
-                "value": 5.0,
-                "valueStr": null
+                "value": 5.0
               },
               {
                 "key": "Reborn.attack@ep_damage_ratio",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "Reborn.max_hp",
-                "value": 0.0,
-                "valueStr": null
+                "value": 0.0
               },
               {
                 "key": "PollutAbnormalImmune.effect_level_1",
-                "value": 2.0,
-                "valueStr": null
+                "value": 2.0
               },
               {
                 "key": "PollutAbnormalImmune.effect_level_2",
-                "value": 8.0,
-                "valueStr": null
+                "value": 8.0
               },
               {
                 "key": "StatusResist.duration",
-                "value": 15.0,
-                "valueStr": null
+                "value": 15.0
               },
               {
                 "key": "StatusResist.abnormal_resistance",
-                "value": 0.3,
-                "valueStr": null
+                "value": 0.3
               },
               {
                 "key": "StatusResist.max_stack_cnt",
-                "value": 4.0,
-                "valueStr": null
+                "value": 4.0
               },
               {
                 "key": "PolluteSelect.range_id",
@@ -524614,13 +525919,11 @@
               },
               {
                 "key": "PollutAbnormalImmune.enemy_talent_disabled",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               },
               {
                 "key": "S1BlockVolumeAura.block_volume",
-                "value": 1.0,
-                "valueStr": null
+                "value": 1.0
               }
             ],
             "spData": null
@@ -524919,8 +526222,7 @@
                 "blackboard": [
                   {
                     "key": "dist",
-                    "value": 5.0,
-                    "valueStr": null
+                    "value": 5.0
                   },
                   {
                     "key": "enemy_key",
@@ -524929,23 +526231,19 @@
                   },
                   {
                     "key": "cnt",
-                    "value": 1.0,
-                    "valueStr": null
+                    "value": 1.0
                   },
                   {
                     "key": "damage_resistance",
-                    "value": 0.8,
-                    "valueStr": null
+                    "value": 0.8
                   },
                   {
                     "key": "hp_ratio",
-                    "value": 0.06,
-                    "valueStr": null
+                    "value": 0.06
                   },
                   {
                     "key": "limited_dist",
-                    "value": 6.0,
-                    "valueStr": null
+                    "value": 6.0
                   }
                 ]
               },
@@ -524954,8 +526252,7 @@
                 "priority": 0,
                 "cooldown": 0.0,
                 "initCooldown": 0.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               },
               {
                 "prefabKey": "Reborning",
@@ -524976,8 +526273,7 @@
                 "priority": 1,
                 "cooldown": 0.0,
                 "initCooldown": 0.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               }
             ],
             "talentBlackboard": [
@@ -526111,8 +527407,7 @@
                 ]
               }
             ],
-            "talentBlackboard": null,
-            "spData": null
+            "talentBlackboard": null
           }
         }
       ]
@@ -526307,7 +527602,8 @@
             "talentBlackboard": [
               {
                 "key": "boom.atk_scale",
-                "value": 1.0
+                "value": 1.0,
+                "valueStr": null
               }
             ],
             "spData": {
@@ -528240,7 +529536,8 @@
                 "value": 15.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -528443,7 +529740,8 @@
                 "value": 1.0,
                 "valueStr": null
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -528682,18 +529980,15 @@
             "talentBlackboard": [
               {
                 "key": "2.range_radius",
-                "value": 0.8,
-                "valueStr": null
+                "value": 0.8
               },
               {
                 "key": "2.damage_scale",
-                "value": 1.2,
-                "valueStr": null
+                "value": 1.2
               },
               {
                 "key": "2.ep_damage_ratio",
-                "value": 0.2,
-                "valueStr": null
+                "value": 0.2
               },
               {
                 "key": "1.scale_attribute",
@@ -528702,10 +529997,10 @@
               },
               {
                 "key": "1.attack@max_target",
-                "value": 3.0,
-                "valueStr": null
+                "value": 3.0
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -528919,11 +530214,13 @@
                   },
                   {
                     "key": "hp_ratio",
-                    "value": 0.02
+                    "value": 0.02,
+                    "valueStr": null
                   },
                   {
                     "key": "max_hp",
-                    "value": 0.5
+                    "value": 0.5,
+                    "valueStr": null
                   },
                   {
                     "key": "branch_id",
@@ -528936,15 +530233,14 @@
             "talentBlackboard": [
               {
                 "key": "1.hp_ratio",
-                "value": 0.2,
-                "valueStr": null
+                "value": 0.2
               },
               {
                 "key": "1.damage_scale",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -529141,8 +530437,7 @@
                 "priority": 1,
                 "cooldown": 25.0,
                 "initCooldown": 20.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               },
               {
                 "prefabKey": "2",
@@ -529158,13 +530453,11 @@
                   },
                   {
                     "key": "hp_ratio",
-                    "value": 0.02,
-                    "valueStr": null
+                    "value": 0.02
                   },
                   {
                     "key": "max_hp",
-                    "value": 0.5,
-                    "valueStr": null
+                    "value": 0.5
                   },
                   {
                     "key": "branch_id",
@@ -529173,8 +530466,7 @@
                   },
                   {
                     "key": "summon.hp_ratio",
-                    "value": 0.5,
-                    "valueStr": null
+                    "value": 0.5
                   }
                 ]
               },
@@ -529183,22 +530475,20 @@
                 "priority": 0,
                 "cooldown": 180000.0,
                 "initCooldown": 0.0,
-                "spCost": 0,
-                "blackboard": null
+                "spCost": 0
               }
             ],
             "talentBlackboard": [
               {
                 "key": "1.hp_ratio",
-                "value": 0.2,
-                "valueStr": null
+                "value": 0.2
               },
               {
                 "key": "1.damage_scale",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               }
-            ]
+            ],
+            "spData": null
           }
         }
       ]
@@ -529434,10 +530724,12 @@
                 "priority": 0,
                 "cooldown": 180000.0,
                 "initCooldown": 0.0,
-                "spCost": 0
+                "spCost": 0,
+                "blackboard": null
               }
             ],
-            "talentBlackboard": null
+            "talentBlackboard": null,
+            "spData": null
           }
         }
       ]
@@ -530610,15 +531902,18 @@
             "talentBlackboard": [
               {
                 "key": "1.shield_ratio",
-                "value": 0.005
+                "value": 0.005,
+                "valueStr": null
               },
               {
                 "key": "1.atk_scale",
-                "value": 0.2
+                "value": 0.2,
+                "valueStr": null
               },
               {
                 "key": "1.ep_damage_ratio",
-                "value": 0.05
+                "value": 0.05,
+                "valueStr": null
               },
               {
                 "key": "1.regenerate_duration",
@@ -530627,7 +531922,8 @@
               },
               {
                 "key": "1.damage_scale",
-                "value": 0.1
+                "value": 0.1,
+                "valueStr": null
               }
             ],
             "spData": null
@@ -531298,18 +532594,15 @@
             "talentBlackboard": [
               {
                 "key": "1.acduml_t_1[high_hp].interval",
-                "value": 40.0,
-                "valueStr": null
+                "value": 40.0
               },
               {
                 "key": "1.acduml_t_1[low_hp].interval",
-                "value": 20.0,
-                "valueStr": null
+                "value": 20.0
               },
               {
                 "key": "1.hp_ratio",
-                "value": 0.5,
-                "valueStr": null
+                "value": 0.5
               },
               {
                 "key": "1.enemy_key",
@@ -531318,8 +532611,7 @@
               },
               {
                 "key": "1.prob",
-                "value": 0.1,
-                "valueStr": null
+                "value": 0.1
               }
             ],
             "spData": {

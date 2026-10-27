@@ -8011,6 +8011,35 @@
       "guaranteeName": "中坚选调"
     },
     {
+      "gachaPoolId": "CLASSIC_DOUBLE_78_0_2",
+      "gachaIndex": 9906,
+      "openTime": 1793217600,
+      "endTime": 1794427199,
+      "gachaPoolName": "适合多种场合的强力干员",
+      "gachaPoolSummary": "结束于11月12日03:59",
+      "gachaPoolDetail": null,
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "rarityPickCharDict": null,
+        "star6ChooseRule": null,
+        "star5ChooseRule": null,
+        "detailTitle": null,
+        "detailInfo": null,
+        "homeIntroDesc": null,
+        "main6RarityCharId": "char_225_haak",
+        "sub6RarityCharId": "char_213_mostma",
+        "rare5CharList": [
+          "char_145_prove",
+          "char_343_tknogi",
+          "char_144_red"
+        ],
+        "scrollIndex": 8
+      },
+      "guaranteeName": "中坚选调"
+    },
+    {
       "gachaPoolId": "SPECIAL_54_0_5",
       "gachaIndex": 40,
       "openTime": 1727424000,
